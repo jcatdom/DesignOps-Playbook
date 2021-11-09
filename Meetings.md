@@ -1,8 +1,8 @@
 # Meetings
 
-There are two types of meetings in SUI Components:
+There are several touchpoints related to Design Systems at Adevinta:
 
-### Weekly Sync
+### Weekly Sync for SUI Components:
 
 Open to the public and streamed in Twitch
 [All the details here](Weekly-streamings.md)
