@@ -1,4 +1,4 @@
-# Versioning
+#Versioning
 
 **Each of our artifacts have its own Version Control system**
 
@@ -6,10 +6,9 @@ Native components don't share the same approach from Figma, or React Components.
 
 i.e. The same component `button` from Figma can be `v1.2.0` in React and `v3.0.0` in Apps while not having a version name in design tools. 
 
-> **How do we Sync the versions from different platforms?**
-We don't force different platforms to converge. Once UX is defined each platform is responsible for using and delivering the latest experience to customers.
+> **How do we Sync the versions from different platforms?** We don't force different platforms to converge. Once UX is defined each platform is responsible for using and delivering the latest experience to customers.
 
-## Version control in SUI Components
+##Version control in SUI Components
 
 We follow MAJOR.MINOR.PATCH increment standards:
 
@@ -19,7 +18,7 @@ We follow MAJOR.MINOR.PATCH increment standards:
 
 Note: In practice we only work with **MAJOR** and **MINOR** versions.
 
-### npm run co
+###npm run co
 
 Regardless if you work in Adevinta (you create branches) or you are collaborating from the outside (you fork the project) it is extremly recommended that you **do not** use `git commit` directly.
 
@@ -31,7 +30,7 @@ In short:
 - npm run co
 - git push
 
-## Version control in Figma UI Kits
+##Version control in Figma UI Kits
 
 In contrast to code, all the Components in Figma live in a single file, we don't publish a single library per component and, on top of that, we don't name our UI Kits in Figma following MAJOR.MINOR.PATCH standards either.
 
