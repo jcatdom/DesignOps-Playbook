@@ -1,5 +1,6 @@
 # Table of contents
 
+* [Welcome to the Design Systems Playbook!](Home.md)
 * [Accessibility](README.md)
 * [Components](Advocate.md)
 * [Our Agreements](Agreements.md)
@@ -46,7 +47,6 @@
 * [Development-workflow](Glossary.md)
 * [Commits](Grid.md)
 * [Figma-UI-Kits](Handover.md)
-* [Welcome to the Design Systems Playbook!](Home.md)
 * [Design-language](Hooks.md)
 * [Boolean-traps](Iconography.md)
 * [Handover](Images.md)
