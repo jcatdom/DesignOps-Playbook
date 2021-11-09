@@ -1,5 +1,13 @@
 # Versioning
 
+Each of our artifacts have its own Version Control system.
+
+Native components don't share the same approach from Figma, or React Components. i.e. The same component `button` from Figma can be `v1.2.0` in React and `v3.0.0` in Apps while not having a version name in design tools. 
+
+> **How do we Sync the versions from different artifacts?**
+We don't force different platforms to converge. Once UX is defined each platform is responsible for using and delivering the latest experience to customers.
+
+
 ## Version control in SUI Components
 
 We follow MAJOR.MINOR.PATCH increment standards:
