@@ -4,7 +4,8 @@ There are several touchpoints related to Design Systems at Adevinta:
 
 ### Weekly Sync for SUI Components:
 
-Open to the public and streamed in Twitch
+Open to the public and streamed in Twitch 
+
 [All the details here](Weekly-streamings.md)
 
 ### adHoc Sync
