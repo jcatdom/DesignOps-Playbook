@@ -2,7 +2,7 @@
 
 En Adevinta disponemos de UI Kits en Team Libraries de Figma para acelerar los procesos de diseño. Están estructurados con nuestro [sistema atómico] y nos permiten tener un sistema reutilizable, escalable y que nos proporciona consistencia en nuestros productos. 
 
-![](https://www.solidbackgrounds.com/images/851x315/851x315-antique-white-solid-color-background.jpg)
+![](https://github.com/turolopezsanabria/design-systems-playbook/blob/chris/ASSETS/figma-1.png?raw=true)
 > *Team Libraries Adevinta*
 
 ## Estructura Adevinta
@@ -11,12 +11,12 @@ En Adevinta disponemos de UI Kits en Team Libraries de Figma para acelerar los p
 
 Cada vertical cuenta con las librerías necesarias para trabajar sus proyectos y dispone de ellas de forma automática cuando se empieza un nuevo archivo.
 
-![](https://www.solidbackgrounds.com/images/851x315/851x315-antique-white-solid-color-background.jpg)
+![](https://github.com/turolopezsanabria/design-systems-playbook/blob/chris/ASSETS/figma-2.png?raw=true)
 > *Ejemplo de librerías automáticas en Figma*
 	
 Puedes desactivar los UI Kits que no necesites para un proyecto y así hacer foco en los que sí vas a utilizar. Podrás reactivarlos más adelante si por ejemplo, el proyecto crece a otra plataforma y necesitas hacer uso de otro UI Kit.
 
-![](https://www.solidbackgrounds.com/images/851x315/851x315-antique-white-solid-color-background.jpg)
+![](https://github.com/turolopezsanabria/design-systems-playbook/blob/chris/ASSETS/figma-3.png?raw=true)
 > *Activar/Desactivar librerías en Figma*
 
 ## Uso de componentes
@@ -25,7 +25,7 @@ Puedes desactivar los UI Kits que no necesites para un proyecto y así hacer foc
 
 Las instancias son copias de componentes reutilizables en diseño (las verás representadas en Layers con un rombo lila vacío). Están ligadas a un componente de origen (ya sea de una librería o  del propio documento) y recibirán todas las actualizaciones que se hagan sobre el componente.
 
-![](https://www.solidbackgrounds.com/images/851x315/851x315-antique-white-solid-color-background.jpg)
+![](https://github.com/turolopezsanabria/design-systems-playbook/blob/chris/ASSETS/figma-4.png?raw=true)
 > *Ejemplo de componente e instancias*
 
 Estas instancias permiten customizar el contenido en cada copia (icono, texto..).
@@ -36,12 +36,12 @@ Si necesitas cambiar espaciado de los elementos, su orden o añadir un nuevo ele
 
 Algunos de los componentes cuentan con variables de customización. Cuando tengas seleccionada  una instancia de un componente, verás qué posibilidades permite en el sidebar de la derecha.
 
-![](https://www.solidbackgrounds.com/images/851x315/851x315-antique-white-solid-color-background.jpg)
+![](https://github.com/turolopezsanabria/design-systems-playbook/blob/chris/ASSETS/figma-5.png?raw=true)
 > *Ejemplo de variables en componente*
 
 Puede que los componentes además cuenten con componentes anidados. Haciendo doble click sobre un elemento, podrás ver si dispone de más opciones de customización con sus respectivas variables.
 
-![](https://www.solidbackgrounds.com/images/851x315/851x315-antique-white-solid-color-background.jpg)
+![](https://github.com/turolopezsanabria/design-systems-playbook/blob/chris/ASSETS/figma-6.png?raw=true)
 > *Ejemplo de variables anidadas en componente*
 
 ℹ️ Algunos componentes no tienen representadas todas sus variaciones (p.e: los Buttons en SUI Components no representan los estados desabilitados). Si necesitas mostrar un estado no diseñado en un ejemplo específico del diseño, puedes crearlo cambiando las propiedades de esa instancia del componente o si realmente crees que sería útil contemplar esas variables en la librería, consúltalo con tu UX Team si también le ven esa utilidad y puedes crearlas sin ningún problema. 
