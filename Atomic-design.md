@@ -1,6 +1,6 @@
 # Atomic design
 
-Nuestras librerías de diseño se basan en un sistema atómico en el que contemplamos diferentes niveles en sus componetizació. Esto nos permite tener un sistema reutilizable, escalable y que nos proporciona consistencia en nuestros productos. 
+Nuestras librerías de diseño se basan en un sistema atómico en el que contemplamos diferentes niveles en sus componetización. Esto nos permite tener un sistema reutilizable, escalable y que nos proporciona consistencia en nuestros productos. 
 
 ![](https://www.solidbackgrounds.com/images/851x315/851x315-antique-white-solid-color-background.jpg)
 > *Nuestra estructura atómica*
@@ -13,7 +13,7 @@ Son los estilos visuales aplicados a nuestros componentes (p.e: colores, tipogra
 
 ### Átomos
 Son los componentes indivisibles de nuestra librería (p.e: buttons, labels, inputs..). Pueden utilizarse de manera independiente en nuestras páginas aunque suelen estar ligados a moléculas y/u organismos. 
-<br/>⚠️ Tienen unos tokens definidos y deberemos tener cuidado en su modificaciónn porque pueden estar ligados a varios componentes (p.e: el átomo Label se utiliza en las moléculas InputField, SelectField, TextareaField...) 
+<br/>⚠️ Tienen unos tokens definidos y deberemos tener cuidado en su modificación porque pueden estar ligados a varios componentes (p.e: el átomo Label se utiliza en las moléculas InputField, SelectField, TextareaField...) 
 
 ### Moléculas
 Son combinaciones de átomos que funcionan juntos como una unidad (p.e: la molécula InputField está compuesta por los átomos Label, Input y HelpText). Nos permiten definir un propósito más elaborado de un componente (su comportamiento, interacción, estados..) y suelen contemplar variables para flexibilizar su uso (p.e: la molécula TextField permite no mostrar el átomo HelpText). 
@@ -26,7 +26,7 @@ Son componentes relativamente complejos compuestos de moléculas, y/o átomos y/
 <br/>Más información sobre [cómo iterar un componente](https://github.com/turolopezsanabria/design-systems-playbook/blob/master/SUI-Components.md).
 
 ### Templates
-Gracias a nuestro sistema átomico (átomos, moléculas y organismos) podemos generar templates de pantallas que definan nuestros productos de manera consistente.
+Gracias a nuestro sistema atómico (átomos, moléculas y organismos) podemos generar templates de pantallas que definan nuestros productos de manera consistente.
 
 
 
@@ -47,7 +47,7 @@ Unificamos comportamientos de interacción entre plataformas. Actualmente contam
 
 
 ### Native (iOS & Android) 
-Utilizamos un sistema similar pero desvinculado de SUI (algunas plataformas si lo utilizan). Tenemos definidos unos tokens unificados con Web dentro de sus posiblidades, componentes específicos de cada plataforma native (que formarían estos átomos y moléculas. P.e: app bars, buttons, chips…) y componentes específicos de la plataforma (que serían los organísmos. P.e: cardX, cardY…) Aún así no generamos esta escala atomizada de 3 niveles.
+Utilizamos un sistema similar pero desvinculado de SUI (algunas plataformas si lo utilizan). Tenemos definidos unos tokens unificados con Web dentro de sus posiblidades, componentes específicos de cada plataforma nativa (que formarían estos átomos y moléculas. P.e: app bars, buttons, chips…) y componentes específicos de la plataforma (que serían los organismos. P.e: cardX, cardY…) Aún así no generamos esta escala atomizada de 3 niveles.
 
 ### Design vs Code
 UX cuenta con las librerías de diseño necesarias para su plataforma en Figma unificadas al código de nuestros productos. Esto nos permite la agilización y escala de nuevas implementaciones. 
