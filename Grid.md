@@ -30,6 +30,10 @@ Una Grid fija tiene columnas de ancho fijo y márgenes flexibles. La Grid fija t
 Tiene columnas de ancho fluido, gutters fijos y márgenes laterales fijos. La cuadrícula fluida tiene un ancho de contenido flexible que va de borde a borde según el tamaño de la pantalla. En una cuadrícula fluida, las columnas crecen o se encogen para adaptarse al espacio disponible.
 
 
+## Grid en sui
+
+\#TBD_CODE
+
 ## Grids en Adevinta
 
 ### [Real Estate](https://www.figma.com/file/WiMaTLdzoiiKFPITd3ymbC/?node-id=123%3A1620)
