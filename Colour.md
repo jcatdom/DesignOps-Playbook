@@ -16,9 +16,16 @@ Por defecto, para cada uno de los colores hay 4 variaciones de tonos oscuros y 5
 ### Sistema de Tokens
 
 1. Tokens de color (SUI Theme)
+
+<img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-token-color.png" alt="SUI Theme shades"/>
+
 2. Tokens de componente (SUI Components)
+
+<img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-token-componente.png" alt="SUI Theme shades"/>
+
 3. Tokens de marca (Theme de Marca)
 
+<img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-token-marca.png" alt="SUI Theme shades"/>
 
 ### ¿Debo usar las variaciones de color generadas automáticamente, o puedo usar colores propios?
 
