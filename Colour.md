@@ -71,10 +71,7 @@ Si, pero solo en algunas de nuestras marcas. Esta es la lista completa:
 
 DesignOps recomienda siempre usar HSL (tinta, saturación y luminosidad) porque ayuda a diseñadores y desarrolladores a tener una imagen más intuitiva de la construcción y ajuste de las paletas de color.
 
-Esta es la herramienta recomendada si quieres hacer ajustes de color:
-
-[Color scale](https://hihayk.github.io/scale/)
-
+[Color scale](https://hihayk.github.io/scale/) es la herramienta recomendada si quieres hacer ajustes de color:
 ### ¿Dónde están los colores de mi marca?
 
 Cada marca tiene un Theme propio que sobreescribe los colores por defecto de SUI. Algunas marcas tienen un repositorio específico, y otras han inlcuido el Theme en el monorepo de sus WebApps.
