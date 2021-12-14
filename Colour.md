@@ -15,10 +15,9 @@ Por defecto, para cada uno de los colores hay 4 variaciones de tonos oscuros y 5
 
 ### Sistema de Tokens
 
-1. Tokens fundamentales (SUI Theme)
-2. Tokens semánticos (SUI Theme y SUI Components)
-3. Tokens de componente (SUI Components)
-4. Tokens de marca que sobreescriben a los primeros tres
+1. Tokens de color (SUI Theme)
+2. Tokens de componente (SUI Components)
+3. Tokens de marca (Theme de Marca)
 
 
 ### ¿Debo usar las variaciones de color generadas automáticamente, o puedo usar colores propios?
