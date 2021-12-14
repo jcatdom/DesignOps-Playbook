@@ -12,7 +12,7 @@ Por defecto, cada color tiene 4 tonos oscuros y 5 tonos claros, que se calculan 
 
 <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-shades-of-gray.png" alt="SUI Theme shades"/>
 
-### ¿Debo usar las variaciones de color generadas automáticamente, o puedo usar colores propios?
+### ¿Debo usar las variaciones de color generadas automáticamente, o puedo usar colores propios?
 
 Nuestra recomendación es sobreescribir cada color manualmente haciendo ajustes de accesibilidad. Si bien todos los componentes de SUI cumplen con una proporción de contraste adecuada, no podemos garantizar que el contraste sea correcto después de aplicar colores de marca.
 
@@ -25,11 +25,6 @@ No, si bien SUI Theme genera por defecto todos los tonos, esta escala puede ser 
 Un pequeño detalle es que deberás ponerle un nuevo nombre a tus colores reducidos. En este ejemplo son `light` `lighter` `lightest`, pero podría ser `gray-1`, `gray-2`, `gray-3` o cualquier otra nomenclatura que hayáis acordado en vuestra marca.
 
 <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-shades-brand.png" alt="SUI Theme shades"/>
-
-### ¿Tenemos Dark y Light Themes?
-
-Por el momento no tenemos dark y light themes en nuestras aplicaciones web y componentes de Adevinta y SUI.
-
 
 ## Sistema de Tokens
 
@@ -92,3 +87,7 @@ Cada marca tiene un Theme propio que sobreescribe los colores por defecto de SUI
 - [Habitaclia](https://github.mpi-internal.com/scmspain/frontend-hab--uilib-theme/blob/master/src/settings/_color.scss)
 - [InfoJobs](https://github.mpi-internal.com/scmspain/frontend-ij--uilib-theme/blob/master/src/tokens/_color.scss)
 - [ePreselec](https://github.mpi-internal.com/scmspain/frontend-ep--uilib-theme/blob/master/src/settings/_colors.scss)
+
+### ¿Tenemos Dark y Light Themes?
+
+Por el momento no tenemos dark y light themes en nuestras aplicaciones web y componentes de Adevinta y SUI.
