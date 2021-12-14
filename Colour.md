@@ -33,13 +33,13 @@ Por el momento no tenemos dark y light themes en nuestras aplicaciones web y com
 
 ## Sistema de Tokens
 
-**Tokens de color en el Theme de SUI**
+### Tokens de color en el Theme de SUI
 
 Al igual que con el resto de tokens, estos contienen un valor por defecto que se usará siempre y cuando no se provéa uno nuevo.
 
 `$c-success: #00A544 default!;`
 
-**Tokens de Componente en SUI Components**
+### Tokens de Componente en SUI Components
 
 Los tokens de color de SUI Theme se usan en cada componente para definir diferentes propiedades.
 
@@ -47,14 +47,14 @@ En este ejemplo los dos componentes utilizan el mismo color `success` para sus `
 
 <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-token-2.png" alt="Colour tokens in Brand's Theme"/>
 
-**Tokens de color en el Theme de cada marca**
+### Tokens de color en el Theme de cada marca
 
 Si una marca sobreescribe un token de color, todos los componentes que usen ese token heredarán la nueva definición.
 
 <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-token-3.png" alt="Colour tokens in Brand's Theme"/>
 
 
-**Tokens de Componente en el Theme de cada marca**
+### Tokens de Componente en el Theme de cada marca
 
 Yendo un paso más allá, cualquier Theme de marca puede sobreescribir los tokens de componente, como en este ejemplo donde `notification` y `badge` tienen ahora diferentes backgrounds.
 
@@ -92,7 +92,3 @@ Cada marca tiene un Theme propio que sobreescribe los colores por defecto de SUI
 - [Habitaclia](https://github.mpi-internal.com/scmspain/frontend-hab--uilib-theme/blob/master/src/settings/_color.scss)
 - [InfoJobs](https://github.mpi-internal.com/scmspain/frontend-ij--uilib-theme/blob/master/src/tokens/_color.scss)
 - [ePreselec](https://github.mpi-internal.com/scmspain/frontend-ep--uilib-theme/blob/master/src/settings/_colors.scss)
-
-### ¿Existe un sistema de Tokens en código unificado para iOS Android y Web?
-
-No, todavía no tenemos unificado un sistema de Tokens universal que garantice el uso de cada color en todas las plataformas.
