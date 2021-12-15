@@ -36,22 +36,4 @@ Tiene columnas de ancho fluido, gutters fijos y márgenes laterales fijos. La cu
 
 ## Grids en Adevinta
 
-### [Real Estate](https://www.figma.com/file/WiMaTLdzoiiKFPITd3ymbC/?node-id=123%3A1620)
-
-- **Android, iOS y Web Mobile:**
-    - Grid : 4 Columns
-    - Margins: 16px
-    - Gutter: 16px
-    - Content: Fluid
-
-- **Tablet:**
-    - Grid : 8 Columns
-    - Margins: 32px
-    - Gutter: 16px
-    - Content: Fluid
-
-- **Desktop:**
-    - Grid : 12 Columns
-    - Margins: 32px
-    - Gutter: 16px
-    - Content: Fluid (max-width: 1280px)
+- [Real Estate](https://www.figma.com/file/WiMaTLdzoiiKFPITd3ymbC/?node-id=123%3A1620)
