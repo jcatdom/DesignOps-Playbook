@@ -1,3 +1,5 @@
 # Spacing
 
-A buen fin, no hay mal principio
+Lo que se espera de esta sección:
+- tbd
+- tbd

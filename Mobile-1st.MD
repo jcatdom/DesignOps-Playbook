@@ -6,7 +6,7 @@ Para ello, tendremos en cuenta los siguientes puntos:
 
 ## Responsive web design
 
-  Todos nuestros productos web son responsive (diseño adaptable). Esto permite que se ajuste el contenido automáticamente a las pantallas de los diferentes dispositivos y lo muestra de manera que las personas se sientan cómodas sin tener que desplazarse lateralmente, hacer zoom…
+  Todos nuestros productos web son responsive (diseño adaptable). Esto permite que se ajuste el contenido automáticamente a las pantallas de los diferentes dispositivos y lo muestra de manera que las personas se sientan cómodas sin tener que desplazarse lateralmente, hacer zoom.
 
 
 ## Progressive advancement
