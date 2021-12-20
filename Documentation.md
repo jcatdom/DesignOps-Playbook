@@ -1,5 +1,4 @@
 # Documentation
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- ¿Qué hay que documentar, y dónde?

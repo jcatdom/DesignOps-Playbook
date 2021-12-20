@@ -1,5 +1,4 @@
 # Content guidelines
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- Link a lo de DUIT (wip)

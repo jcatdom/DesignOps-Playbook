@@ -1,5 +1,4 @@
 # Open source
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- Somos open Source, y qué significa eso (Hacktoberfest va aquí)

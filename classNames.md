@@ -1,5 +1,5 @@
 # classNames
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- que las tenemos prohibidas
+- que hay un test que lo impide

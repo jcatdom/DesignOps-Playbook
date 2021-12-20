@@ -1,5 +1,4 @@
 # Naming convention
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- Quizás esta sección se solapa con la de "Glosario"

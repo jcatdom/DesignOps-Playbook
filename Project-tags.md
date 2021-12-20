@@ -1,5 +1,4 @@
 # Project tags
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- Los tags de GitHub, cuales tenemos y para que sirven cada uno

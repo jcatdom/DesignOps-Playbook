@@ -1,5 +1,4 @@
 # Collaboration model
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- Modelo centralizado Federado (DesignOps + UX + Devs)

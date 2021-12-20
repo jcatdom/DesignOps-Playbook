@@ -1,5 +1,4 @@
 # Contact us
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- Cómo ponerse en contacto con DesignOps

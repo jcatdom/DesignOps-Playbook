@@ -1,5 +1,4 @@
 # Our blog
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- Que tenemos blog, en Dev.to y en Medium

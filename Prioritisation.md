@@ -1,5 +1,4 @@
 # Prioritisation
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- ¿Cómo priorizamos las cosas en SUI? ¿Cómo decidimos qué pillar?

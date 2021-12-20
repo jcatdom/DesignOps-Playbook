@@ -1,5 +1,4 @@
 # Demos
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- Las demos se construyen en cada componente, estructurea, best practices, librería a usar, etc 

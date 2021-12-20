@@ -1,5 +1,4 @@
 # Discussions
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- Para qué usamos los [Discussions](https://github.com/SUI-Components/sui-components/discussions) de Github (Weeklies, New components, etc)

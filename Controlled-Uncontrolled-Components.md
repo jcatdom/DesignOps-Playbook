@@ -1,5 +1,4 @@
-# Controlled Uncontrolled Components
+# Controlled Uncontrolled Components
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- El enfoque de Controlled Uncontrolled

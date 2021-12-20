@@ -1,8 +1,7 @@
 # Images
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- Cómo es en SUI, cómo en Figma, cómo en Natives: Reglas y best practices
 
 ## Image formats
 

@@ -1,5 +1,8 @@
 # Components
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- El enfoque de nuestros componentes, y las capas que tenemos:
+    - SUI
+    - Adevinta components 
+    - Brand components
+    - etc

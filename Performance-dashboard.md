@@ -1,5 +1,4 @@
 # Performance dashboard
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- Link SUI Dashboard, y una mini explicación

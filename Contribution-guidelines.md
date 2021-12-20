@@ -1,5 +1,5 @@
 # Contribution guidelines
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- Cómo colaborar con SUI
+- Cómo colaborar con Natives

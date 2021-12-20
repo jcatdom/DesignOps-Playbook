@@ -1,5 +1,4 @@
 # Instalation guidelines
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- ¿Cómo instalo SUI; Themes, etc? ) (Phoenix y más)

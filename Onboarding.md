@@ -1,5 +1,4 @@
 # Onboarding
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- Links a los diferentes docs que tenemos para peña nueva

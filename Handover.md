@@ -1,8 +1,7 @@
 # Handover
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- ¿Cómo se hace handover?
 
 ## Images
 

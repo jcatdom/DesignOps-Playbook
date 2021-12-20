@@ -1,5 +1,4 @@
 # Props
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- Para qué usamos Props, y cuándo no usarlas (ligado a declarative approach )

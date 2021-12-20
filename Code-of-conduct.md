@@ -1,5 +1,4 @@
 # Code-of-conduct
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- Los Dos and Don'ts que ya están en la sección de working agreements

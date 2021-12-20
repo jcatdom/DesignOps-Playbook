@@ -1,5 +1,4 @@
 # CSS SCSS cssInJs PostCSS
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- Usamos SCSS, y la idea a futuro de PostCSS
