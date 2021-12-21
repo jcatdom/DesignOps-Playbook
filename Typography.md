@@ -1,5 +1,4 @@
 # Typography 
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- Lo mismo de la sección Colours, pero con tipografía

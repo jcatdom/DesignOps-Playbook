@@ -1,5 +1,4 @@
 # useSomething
 
 Lo que se espera de esta sección:
-- tbd
-- tbd
+- El acuerdo que tenemos para nombrar useStuff ¿Quizás va en la sección Glossary?
