@@ -2,13 +2,27 @@
 
 En Adevinta Spain tenemos múltiples paletas de colores, al menos una por cada marca, y cada una de ellas puede variar ligéramente de una aplicación a otra.
 
+## Dos and Don'ts
+
+{% hint style="success" %}
+test de un success (do)
+{% endhint %}
+
+{% hint style="danger" %}
+test de un danger (don't)
+{% endhint %}
+
+{% hint style="warning" %}
+test de un warning
+{% endhint %}
+
+{% hint style="info" %}
+test de un info
+{% endhint %}
+
 ## Colores en SUI
 
 Los componentes de SUI utilizan una paleta base que incluye los colores principales. Se encuentra en el [SUI Theme](https://github.com/SUI-Components/sui/tree/master/packages/sui-theme) y cada marca puede reemplazarla completamente.
-
-{% hint style="info" %}
-test
-{% endhint %}
 
 ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-sui-theme-palette.png)
 
@@ -44,19 +58,19 @@ Los tokens de color de SUI Theme se usan en cada componente para definir diferen
 
 En este ejemplo los dos componentes utilizan el mismo color `success` para sus `bgc` (background colour).
 
-![Colour tokens in Brand's Theme](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-token-2.png)
+![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-token-2.png)
 
 ### Tokens de color en el Theme de cada marca
 
 Si una marca sobreescribe un token de color, todos los componentes que usen ese token heredarán la nueva definición.
 
-![Colour tokens in Brand's Theme](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-token-3.png)
+![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-token-3.png)
 
 ### Tokens de Componente en el Theme de cada marca
 
 Yendo un paso más allá, cualquier Theme de marca puede sobreescribir los tokens de componente, como en este ejemplo donde `notification` y `badge` tienen ahora diferentes backgrounds.
 
-![Component tokens in Brand's Theme](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-token-4.png)
+![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-token-4.png)
 
 ### ¿Existe un sistema de Tokens en Figma unificado para iOS Android y Web?
 
