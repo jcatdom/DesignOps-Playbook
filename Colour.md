@@ -26,6 +26,12 @@ Los componentes de SUI utilizan una paleta base que incluye los colores principa
 
 ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-sui-theme-palette.png)
 
+<img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-sui-theme-palette.png">
+
+<img width="100%" height="auto" src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-sui-theme-palette.png">
+
+<img width="100%" src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-sui-theme-palette.png">
+
 Por defecto, cada color tiene 4 tonos oscuros y 5 tonos claros, que se calculan automáticamente con una función de SCSS, que a su vez se puede personalizar en cada marca.
 
 ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-shades-of-gray.png)
