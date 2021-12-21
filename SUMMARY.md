@@ -1,5 +1,6 @@
 # Table of contents
 
+* [README](README.md)
 * [Welcome to the Design Systems Playbook!](Home.md)
 * [Foundations](Foundations.md)
   * [Colour](Colour.md)
