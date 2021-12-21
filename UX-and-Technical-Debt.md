@@ -14,7 +14,6 @@ Al igual que la deuda tecnológica, se refiere al coste adicional de tiempo y es
 - Customer Journey y consistencia entre canales (experiencia unificada en todas las plataformas)
 
 {% hint style="success" %}
-## Sí es UX Debt:
 - Problemas de interfaz de usuario (estética general y elementos de marca)
 - Problemas de diseño de interacción (facilidad de uso, cumplimiento de estándares y reutilización)
 - Problemas de contenido (copies y contenido)
