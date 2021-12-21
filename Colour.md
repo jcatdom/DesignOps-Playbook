@@ -24,13 +24,11 @@ test de un info
 
 Los componentes de SUI utilizan una paleta base que incluye los colores principales. Se encuentra en el [SUI Theme](https://github.com/SUI-Components/sui/tree/master/packages/sui-theme) y cada marca puede reemplazarla completamente.
 
-![theme-palette](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-sui-theme-palette.png)
-
-<img width="800px" src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-sui-theme-palette.png">
+![SUI Theme Palette](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-sui-theme-palette.png)
 
 Por defecto, cada color tiene 4 tonos oscuros y 5 tonos claros, que se calculan automáticamente con una función de SCSS, que a su vez se puede personalizar en cada marca.
 
-![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-shades-of-gray.png)
+![Colours default Scale](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-shades-of-gray.png)
 
 ### ¿Debo usar las variaciones de color generadas automáticamente, o puedo usar colores propios?
 
@@ -44,7 +42,7 @@ No, si bien SUI Theme genera por defecto todos los tonos, esta escala puede ser 
 
 Un pequeño detalle es que deberás ponerle un nuevo nombre a tus colores reducidos. En este ejemplo son `light` `lighter` `lightest`, pero podría ser `gray-1`, `gray-2`, `gray-3` o cualquier otra nomenclatura que hayáis acordado en vuestra marca.
 
-![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-shades-brand.png)
+![SUI Brand's theme map](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-shades-brand.png)
 
 ## Sistema de Tokens
 
