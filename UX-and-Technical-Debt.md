@@ -6,7 +6,7 @@ La deuda de UX, son todos los problemas de experiencia de usuario que nuestros p
 Al igual que la deuda tecnológica, se refiere al coste adicional de tiempo y esfuerzo que creamos al lanzar soluciones más rápidas o fáciles de implementar, en lugar de lanzar un mejor enfoque.
 
 {% hint style="success" %}
-**Sí es UX Debt**
+### Sí es UX Debt
 
 - Problemas de interfaz de usuario (estética general y elementos de marca)
 - Problemas de diseño de interacción (facilidad de uso, cumplimiento de estándares y reutilización)
@@ -17,7 +17,7 @@ Al igual que la deuda tecnológica, se refiere al coste adicional de tiempo y es
 {% endhint %}
 
 {% hint style="warning" %}
-**No es UX Debt:**
+### No es UX Debt
 
 - Nuevas funcionalidades que el equipo quiere desarrollar en función a necesidades de usuario.
 - Iteraciones sobre el MVP planificadas inicialmente como una fase posterior.
