@@ -13,11 +13,29 @@ Al igual que la deuda tecnológica, se refiere al coste adicional de tiempo y es
 - Problemas de accesibilidad (contraste, indicadores de enfoque visual, alternativas de texto ...)
 - Customer Journey y consistencia entre canales (experiencia unificada en todas las plataformas)
 
+{% hint style="success" %}
+## Sí es UX Debt:
+- Problemas de interfaz de usuario (estética general y elementos de marca)
+- Problemas de diseño de interacción (facilidad de uso, cumplimiento de estándares y reutilización)
+- Problemas de contenido (copies y contenido)
+- Problemas de arquitectura de la información (jerarquia y coherencia)
+- Problemas de accesibilidad (contraste, indicadores de enfoque visual, alternativas de texto ...)
+- Customer Journey y consistencia entre canales (experiencia unificada en todas las plataformas)
+{% endhint %}
+
 ## ⛔️ No es UX Debt:
 - Nuevas funcionalidades que el equipo quiere desarrollar en función a necesidades de usuario.
 - Iteraciones sobre el MVP planificadas inicialmente como una fase posterior.
 - Bugs técnicos.
 - Problemas de rendimiento o performance.
+
+{% hint style="warning" %}
+## No es UX Debt:
+- Nuevas funcionalidades que el equipo quiere desarrollar en función a necesidades de usuario.
+- Iteraciones sobre el MVP planificadas inicialmente como una fase posterior.
+- Bugs técnicos.
+- Problemas de rendimiento o performance.
+{% endhint %}
 
 ## 👩🏻‍💻 Enlaces
 - [Presentación UX Debt](https://docs.google.com/presentation/d/1jXmYsIEBYLRWkhUdFeNZWGcoie4H-R9--iQQ5FwCgNY/edit#slide=id.ga3961f9851_0_1451)
