@@ -8,7 +8,7 @@ To implement the grid, you need to use the two components it provides ```<Layout
 Further information and demo of [SUI Grid System](https://sui-components.vercel.app/workbench/layout/grid/demo).
 
 ## Anatomía
-![Grid Anatomy](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Grid%20Anatomy.png)
+![Grid Anatomy](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Grid-elements.png)
 
 ### Columnas
 Las columnas son los bloques verticales imaginarios y se utilizan para alinear el contenido. Definimos los anchos de columna en porcentaje (%) o valores fijos.
