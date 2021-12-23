@@ -1,11 +1,14 @@
-# Grid
-
 La Grid es la base para colocar elementos en pantalla. Diseñar según la Grid ayuda a crear experiencias fluidas, consistentes y fáciles de seguir.
 
 Un uso constante de un sistema de cuadrícula proporciona la base para colocar elementos en pantalla de manera alineada. Facilita la comprensión y pone orden en la página.
 
+## SUI Grid
+To implement the grid, you need to use the two components it provides ```<LayoutGrid />``` a container, while each ```<LayoutGridItem />``` will as a cell to define your grid with the size you specify for each one of them. It only manages its inner space not adding unnecessary extra margins or paddings.
+
+Further information and demo of [SUI Grid System](https://sui-components.vercel.app/workbench/layout/grid/demo).
 
 ## Anatomía
+![Grid Anatomy](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Grid%20Anatomy.png)
 
 ### Columnas
 Las columnas son los bloques verticales imaginarios y se utilizan para alinear el contenido. Definimos los anchos de columna en porcentaje (%) o valores fijos.
@@ -20,19 +23,6 @@ Los gutters son los espacios entre las columnas. Los gutters ayudan a separar el
 
 ### Margins
 Los márgenes son el espacio entre el contenido y los bordes de la pantalla. Definimos los anchos de los márgenes laterales como valores fijos que deciden el espacio mínimo que respirará cada tamaño de pantalla. Los márgenes flexibles ocupan el espacio restante que queda después de componer una Grid con columnas, gutters y márgenes laterales. Los márgenes flexibles cambian según los diferentes tamaños de pantalla.
-
-## Comportamiento
-
-### Fixed Grids
-Una Grid fija tiene columnas de ancho fijo y márgenes flexibles. La Grid fija tiene un ancho de contenido que no cambia en un breakpoint específico, y los márgenes flexibles ocupan el espacio restante.
-
-### Fluid Grids o Full Width Grids
-Tiene columnas de ancho fluido, gutters fijos y márgenes laterales fijos. La cuadrícula fluida tiene un ancho de contenido flexible que va de borde a borde según el tamaño de la pantalla. En una cuadrícula fluida, las columnas crecen o se encogen para adaptarse al espacio disponible.
-
-
-## Grid en sui
-
-\#TBD_CODE
 
 ## Grids en Adevinta
 
