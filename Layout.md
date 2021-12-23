@@ -1,5 +1,3 @@
-# Layout
-
 El Layout es la estructura del contenido principal en el diseño. Usamos diferentes Layouts para diferentes requisitos de diseño. 
 Un Layout está formado por contenedores, que a nivel de página, envuelven el contenido. El número de contenedores a nivel de página que se utilizan para envolver el contenido principal determina la variación del diseño.
 
@@ -20,4 +18,7 @@ Por ejemplo, es el que utilizamos en la Unique Tool de Real Estate.
 
 ## Layouts en Adevinta
 
-- ### [Real Estate](https://www.figma.com/file/WiMaTLdzoiiKFPITd3ymbC/?node-id=444%3A1644)
+- [Real Estate](https://www.figma.com/file/WiMaTLdzoiiKFPITd3ymbC/?node-id=444%3A1644)
+- Infojobs
+- Coches.net
+- MilAnuncios
