@@ -40,7 +40,11 @@ Usa el plugin de Figma [Stark](https://www.figma.com/community/plugin/7326032544
 
 No, si bien SUI Theme genera por defecto todos los tonos, esta escala puede ser sobrescrita, solo deberás "mapear" los tonos que no uses para cubrir todo el espectro.
 
-Un pequeño detalle es que deberás ponerle un nuevo nombre a tus colores reducidos. En este ejemplo son `light` `lighter` `lightest`, pero podría ser `gray-1`, `gray-2`, `gray-3` o cualquier otra nomenclatura que hayáis acordado en vuestra marca.
+Un pequeño detalle es que deberás ponerle un nuevo nombre a tus colores reducidos. En este ejemplo Bluestone es el nuevo `Gray`, y sus variaciones son `light` `lighter` `lightest`.
+
+![Bluestone is Gray](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-gray-brand.png)
+
+De esta manera, al mapear los nuevos valores se reduce la paleta manteniendo la escala completa.
 
 ![SUI Brand's theme map](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-shades-brand.png)
 
