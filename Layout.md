@@ -25,6 +25,8 @@ Por ejemplo, en base a los diferentes formatos publicitarios, el Layout de las d
 
 Para poder trabajar de manera más alineada y consistente, se recomienda definir y estandarizar las definiciones de los Layouts utilizados por cada marca. Un ejemplo, seria definir estos Layouts como Componentes en Figma, de manera que podamos arrastrar una Instancia y empezar a diseñar dento del Layout acordado.
 
+### ¿Dónde están los layouts de mi marca?
+
 - [Real Estate](https://www.figma.com/file/WiMaTLdzoiiKFPITd3ymbC/?node-id=444%3A1644)
 - Infojobs
 - Coches.net
