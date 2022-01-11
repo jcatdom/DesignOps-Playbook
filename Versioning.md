@@ -1,8 +1,12 @@
 # Versioning
 
-### Each of our artifacts have its own Version Control system
+{% hint style="info" %}
 
-The same component `button` from Figma can be `v1.2.0` in React and `v3.0.0` in Apps and, at the same time, not even have a version name in Figma.
+### Each of our artifacts have its own Version Control System
+
+The same component `button` can be `v1.2.0` in React and `v3.0.0` in Apps and, at the same time, not even have a version name in Figma.
+
+{% endhint %}
 
 #### How do we sync the versions of the same component in different platforms?
 
@@ -12,15 +16,20 @@ Once a component is designed and defined, each platform is responsible for using
 
 ## Version control in SUI Components
 
-Each component has its own version. There's o such thing as `@s-ui v2.1.0` but `@s-ui/react-atom-button 1.69.0` instead.
+Each component has its own version. There's no such thing as `@s-ui v2.1.0` but `@s-ui/react-atom-button 1.69.0` instead.
 
 For each component we follow `MAJOR.MINOR.PATCH` standard, although we only use the first two.
 
-* `MAJOR` is required every time you make a breaking (incompatible) change.
-* `MINOR` if you make a change that doesn't affect prior functionalities.
-* `PATCH` to fix an existing bug without affecting backward compatibility.
+* `MAJOR`: Breaking (incompatible) change.
+* `MINOR`: Change that doesn't affect prior functionalities. Bug fixes without affecting backward compatibility.
+* `PATCH`: Not used.
 
-### Use `npm run co`
+
+### How to commit work for SUI
+
+{% hint style="info" %}
+Use `npm run co`
+{% endhint %}
 
 Regardless if you work in Adevinta (you create branches) or you are collaborating from the outside (you fork the project) it is extremely recommended that you do NOT use `git commit` directly.
 
