@@ -2,28 +2,9 @@
 
 En Adevinta Spain tenemos múltiples paletas de colores (al menos una por cada marca) y cada una de ellas puede variar ligéramente de una aplicación a otra.
 
-## Dos and Don'ts
-
-{% hint style="success" %}
-test de un success (do)
-{% endhint %}
-
-{% hint style="danger" %}
-test de un danger (don't)
-{% endhint %}
-
-{% hint style="warning" %}
-test de un warning
-{% endhint %}
-
-{% hint style="info" %}
-test de un info
-{% endhint %}
-
 ## Colores y paletas en general
 
 Cada marca puede tener todos los colores y variaciones que considere necesarios. Más abajo verás que cada aplicación tiene sus reglas, pero por regla general las guías de cada marca tienen más importancia que las guías de cada plataforma.
-
 
 ## Colores en SUI
 
