@@ -12,35 +12,30 @@ font-size large = 18px
 
 Depending on the tool you use, this definition will be in a specific format:
 
-**SUI**
+#### SUI
 
-We use SCSS (hence the $ sign) and the naming standardised from [emmet](https://docs.emmet.io/cheat-sheet/) 
+We use SCSS (hence the $ sign) and a naming convention standardised from [emmet](https://docs.emmet.io/cheat-sheet/) 
 
 ```
 $c-primary: #2900D1 default!;
 $p-l: 16px default!;
 $fz-l: 18px default!;
 ```
-And... in SUI there are two types of tokens:
-
-Those stored in SUI Theme (tokens):
-
-```
-$c-success: #00A544 default!;
-```
-
-and those stored in each Component (component tokens)
-
-```
-$bgc-notification-success: $c-success default!;
-```
-
 {% hint style="info" %}
 `default!;` means that the value will be this one until it's overriden anywhere else. 
 {% endhint %}
 
+**There are two types of tokens in SUI**
 
-**Figma**
+Tokens stored in SUI Theme (tokens):
+
+`$c-success: #00A544 default!;`
+
+Tokens stored in each Component (component tokens)
+
+`$bgc-notification-success: $c-success default!;`
+
+#### Figma
 
 {% hint style="warning" %}
 Figma still doesn't support tokens for spacing, paddings and margins 
