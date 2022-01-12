@@ -19,6 +19,8 @@ The same example looks like this in SUI, because we use the naming standardised 
 
 In Figma (where code is not present) the same tokens look like this:
 
+![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/tokens-figma.png)
+
 {% hint style="warning" %}
 Figma still doesn't support tokens for spacing, paddings and margins 
 {% endhint %}
