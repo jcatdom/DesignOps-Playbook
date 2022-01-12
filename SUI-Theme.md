@@ -1,18 +1,22 @@
 # SUI Theme
 
-The components in SUI Library use colour, typography, spacing and other values that are defined in a theme written in SCSS.
-All generic variables, functions and mixin helpers can be customised in each brand.
+
+
+The components in SUI Library use **colour**, **typography**, **spacing** and other values from a theme written in SCSS.
 
 [Explore SUI Theme](https://github.com/SUI-Components/sui/tree/master/packages/sui-theme)
 
-Install sui-theme in your project:
+All generic variables, functions and mixin helpers can be customised in each brand. [Check the section Tokens](Tokens.md) to understand how it works.
+
+### Install sui-theme
 
 `npm install @s-ui/theme --save`
 
-Import sui-theme in your component including the path in settings.scss
+### Import sui-theme
 
-`@import '~@s-ui/theme/lib/index';`
+Include the path `@import '~@s-ui/theme/lib/index';` in settings.scss
 
-Check the section [Tokens](Tokens.md) to understand how it works.
+
+
 
 
