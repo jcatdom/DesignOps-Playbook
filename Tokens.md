@@ -1,16 +1,12 @@
 # Tokens
 
-On it's most basic definition, tokens are a combination of a definition and it's value, a simple line of code that stores the decisions we make:
+On it's most basic definition, tokens are a combination of `name` and `value`. A simple way to store decisions.
 
-**Some examples**
-
-`color primary = #2900D1`
-
-`padding large = 16px`
-
-`font-size large = 18px`
-
-`etc`
+```
+color primary = #2900D1
+padding large = 16px
+font-size large = 18px
+```
 
 ### Formats
 
