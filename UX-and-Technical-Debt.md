@@ -30,6 +30,6 @@ No todo lo que falta por desarrollar representa deuda, hay muchos problemas a re
 - Problemas de rendimiento o performance
 {% endhint %}
 
-## 👩🏻‍💻 Enlaces
+## Enlaces
 - [Presentación UX Debt](https://docs.google.com/presentation/d/1jXmYsIEBYLRWkhUdFeNZWGcoie4H-R9--iQQ5FwCgNY/edit#slide=id.ga3961f9851_0_1451)
 - [Dashboard UX Debt en Adevinta](https://jira.scmspain.com/secure/Dashboard.jspa?selectPageId=30123)
