@@ -20,7 +20,7 @@
 * [Tokens](Tokens.md)
 * [Typography](Typography.md)
 * [UX and Tech Debt](UX-and-Technical-Debt.md)
+* [Values and Principles](Values-and-Principles.md)
 * [Versioning](Versioning.md)
 * [Weekly Streamings](Weekly-streamings.md)
 * [Welcome to the Design Systems Playbook!](Home.md)
-*
