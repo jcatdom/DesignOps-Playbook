@@ -23,19 +23,19 @@ SUI Theme provides 4 shades of darkness and 5 shades of lighness by default. The
 
 ### You are not obliged to use the shades generated automatically 
 
-We recommend you override each of the shadesmanualy with special focus on accessibility. Although we initially ensure each component complies with contrast A11y standards, we can't ensure they will work after replacing ours with your brand colours.
+We recommend you override each of the shades manualy with special focus on accessibility. Although we initially ensure each component complies with A11y standards, we can't ensure they will work after replacing ours with your brand colours.
 
 Use this plugin for Figma [Stark](https://www.figma.com/community/plugin/732603254453395948/Stark) and the contrast website  [ABC](https://abc.useallfive.com) to refine your palette.
 
-### You are not obliged to use all the 9 shades SUI generates
+### You are not obliged to use all the 9 shades from SUI
 
-Although SUI will always generate 9 shades for each colour, you can map them to match your number of colours.
+Although SUI will always generate 9 shades, you can map them to match your number of colours.
 
-A small detail: The name of your colour scale needs to be different from SUI's. In our example the new `Gray` is called `Bluestone` and it's variations are `light` `lighter` `lightest` `dark` `darker`
+**Small detail:** The name of your colour scale needs to be different from SUI's. In our example the new `Gray` is called `Bluestone` and its variations are `light` `lighter` `lightest` `dark` `darker`
 
 ![Bluestone is Gray](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-gray-brand.png)
 
-Once you map the new colours the range of grays gets smaller while preserving 9 steps.
+Once you map the new colours the range of grays will get smaller while preserving the 9 steps.
 
 ![SUI Brand's theme map](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-shades-brand.png)
 
