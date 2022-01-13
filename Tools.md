@@ -1,11 +1,16 @@
 # Tools
 
 
-Lo que se espera de esta sección:
-¿Quizás relacionado con TechStack?
-- No usamos Sketch Zeplin etc
-- Usamos
-    - Figma
-    - React
-    - SUI C
+## Development
 
+soon
+
+## Design
+
+**Figma** is our official tool for Design, Handoff and Prototyping.
+
+{% hint style="info" %}
+We've recently quit using **Sketch**, **Zeplin**, **InVision** and **Abstract**.
+
+If you need anything from our old accounts get in contact with your DesignOps or Slack [turo](https://adevinta.slack.com/archives/D017VLGFLMV) and they will help you.
+{% endhint %}
