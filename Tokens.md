@@ -8,9 +8,9 @@ padding large = 16px
 font-size large = 18px
 ```
 
-### Formats
+### Format / Language
 
-Depending on the tool you use, this definition will be in a specific format:
+We don't have a single format for Tokens, depending on the tool you use they will be in a specific format
 
 #### SUI
 
