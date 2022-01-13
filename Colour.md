@@ -43,15 +43,13 @@ Once you map the new colours the range of grays will get smaller while preservin
 
 ### Colour tokens in SUI Theme
 
-Same as with the rest of tokens, each colour in SUI has a default value that will be used unless it's overriden at any point.
+Same as with the rest of tokens, each colour in SUI has a default value that will be used unless it's overriden at any point else in the code.
 
 `$c-success: #00A544 default!;`
 
 ### Component Tokens
 
-All the colours in SUI Theme are used to define styles in components tokens:
-
-In this example both components use the same colour `success` for `bgc` (background colour).
+All the colours in SUI Theme are used to define styles in Components Tokens: In this example both components use the same colour `success` for `bgc` (background colour).
 
 ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-token-2.png)
 
@@ -82,13 +80,13 @@ Each brand has a specific repo, some of them as independent repo and some as par
 
 ### We don't have a unified token system for Web and Apps
 
-Some brands have started efforts to normalise colours in a single format, check their UI Kits
+Although some brands have started efforts to normalise colours in a single format for Web and Native apps.
 
 ### RGB, HSL, HEX?
 
 We recommend you always start with HSL (hue, saturation y lightness). It's the most intuitive way to create correct palettes for designers and developers.
 
-Use this great tool: [Color scale](https://hihayk.github.io/scale/)
+Use this great tool [Color scale](https://hihayk.github.io/scale/)
 
 ### Dark Themes
 
