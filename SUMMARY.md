@@ -15,6 +15,7 @@
 * [Layout](Layout.md)
 * [Mobile 1st](Mobile-1st.md)
 * [Our Mission and Vision](Our-Mission-and-Vision.md)
+* [Reviewers](Reviewers.md)
 * [SUI Components](SUI-Components.md)
 * [SUI Theme](SUI-Theme.md)
 * [Sync Figma and Code](Sync-Figma-and-Code.md)
@@ -26,3 +27,4 @@
 * [Versioning](Versioning.md)
 * [Weekly Streamings](Weekly-streamings.md)
 * [Welcome to the Design Systems Playbook!](Home.md)
+
