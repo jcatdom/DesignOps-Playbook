@@ -77,15 +77,7 @@ Each brand has a specific repo, some of them as independent repo and some as par
 
 ### We don't have a unified token system for Web and Apps
 
-Some brands have started efforts to normalise colours in a single format, check their UI Kits:
-
-* **Milanuncios**: Paletas diferentes, en una sola librería de Figma
-* **Coches y Motos net**: Paleta única, en una sola librería de Figma
-* **Cochesnet Pro**: Paleta única, en una sola librería de Figma
-* **Fotocasa**: TBD
-* **Fotocasa Pro**: TBD
-* **InfoJobs**: TBD
-* **ePreselec**: TBD
+Some brands have started efforts to normalise colours in a single format, check their UI Kits
 
 ### RGB, HSL, HEX?
 
