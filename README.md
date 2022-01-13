@@ -1,6 +1,8 @@
 # Welcome!
 
 
+<!--
+
 ## Dos and Don'ts
 
 {% hint style="success" %}
@@ -23,3 +25,6 @@ test de un info
 
 - [ ] Primer checkbox
 - [x] Segundo checkbox
+
+
+-->
