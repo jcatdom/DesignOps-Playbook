@@ -17,6 +17,7 @@
 * [Our Mission and Vision](Our-Mission-and-Vision.md)
 * [SUI Components](SUI-Components.md)
 * [SUI Theme](SUI-Theme.md)
+* [Sync Figma and Code](Sync-Figma-and-Code.md)
 * [Tokens](Tokens.md)
 * [Troubleshooting](Troubleshooting.md)
 * [Typography](Typography.md)
