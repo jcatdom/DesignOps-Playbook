@@ -13,7 +13,7 @@ Each technology and platform has it own rules and subtle implementation variatio
 
 ### Colours in SUI
 
-The components in SUI use a base palette of colours. It's located in [SUI Theme](https://github.com/SUI-Components/sui/tree/master/packages/sui-theme), a base theme each brand can override completely.
+The components in SUI use a base palette located in [SUI Theme](https://github.com/SUI-Components/sui/tree/master/packages/sui-theme). Each brand can override it completely with a Brand Theme.
 
 ![SUI Theme Palette](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-sui-theme-palette.png)
 
