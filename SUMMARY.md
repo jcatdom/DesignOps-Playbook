@@ -18,6 +18,7 @@
 * [SUI Components](SUI-Components.md)
 * [SUI Theme](SUI-Theme.md)
 * [Tokens](Tokens.md)
+* [Troubleshooting](Troubleshooting.md)
 * [Typography](Typography.md)
 * [UX and Tech Debt](UX-and-Technical-Debt.md)
 * [Values and Principles](Values-and-Principles.md)

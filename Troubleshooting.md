@@ -1,6 +1,6 @@
 # Troubleshooting
 
-If you need urgent help contact a maintainer through any channel.
+If you need urgent assistance contact a maintainer through any channel.
 
 ## Recommended channels and priority
 
