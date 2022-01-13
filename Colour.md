@@ -1,10 +1,15 @@
 # Colour
 
-Each brand should have its own colours. Your brand can have as many colours and colour variations as you wish.
+Each brand has its own colours
 
-## Colour implementation
+{% hint style="success" %}
+
+#### Important agreement:
+Your brand can have as many colours and variations as you wish
 
 Each technology and platform has it own rules and subtle implementation variations but, in general, your brand colours should rule over platform specifics.
+
+{% endhint %}
 
 ### Colours in SUI
 
