@@ -8,6 +8,8 @@
 * [DesignOps Team](DesignOps-team.md)
 * [Design System](Design-System.md)
 * [Dark mode](Dark-mode.md)
+* [Definition of Done](DoD.md)
+* [Definition of Ready](DoR.md)
 * [Figma UI Kits](Figma-UI-Kits.md)
 * [Foundations](Foundations.md)
 * [Grid](Grid.md)
