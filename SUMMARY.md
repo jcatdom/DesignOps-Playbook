@@ -13,6 +13,7 @@
 * [Handover](Handover.md)
 * [Layout](Layout.md)
 * [Mobile 1st](Mobile-1st.md)
+* [Our Mission and Vision](Our-Mission-and-Vision.md)
 * [SUI Components](SUI-Components.md)
 * [SUI Theme](SUI-Theme.md)
 * [Tokens](Tokens.md)
