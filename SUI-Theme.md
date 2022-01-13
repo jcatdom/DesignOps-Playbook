@@ -1,12 +1,10 @@
 # SUI Theme
 
+The components in SUI Library use **colour**, **typography**, **spacing** and other values from [SUI Theme](https://github.com/SUI-Components/sui/tree/master/packages/sui-theme).
 
+The theme is written in SCSS and all generic variables, functions, mixins and helpers can be customised in each brand. [Check the section Tokens](Tokens.md) to understand how it works.
 
-The components in SUI Library use **colour**, **typography**, **spacing** and other values from a theme written in SCSS.
-
-[Explore SUI Theme](https://github.com/SUI-Components/sui/tree/master/packages/sui-theme)
-
-All generic variables, functions and mixin helpers can be customised in each brand. [Check the section Tokens](Tokens.md) to understand how it works.
+## How to use
 
 ### Install sui-theme
 
