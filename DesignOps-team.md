@@ -1,8 +1,9 @@
 # DesignOps Team
 
-DesignOps gestiona recursos, herramientas y procesos con el fin de mejorar la calidad y la eficiencia del proceso de Diseño.
+DesignOps manage resources, tools and processes to improve the quality and efficiency of the Design and Development experience.
 
-## Quiénes somos
+## Who we are
+
 **Turo** - DesignOps Adevinta
 - Slack: arturo.lopez
 - Email: arturo.lopez@adevinta.com
@@ -19,40 +20,38 @@ DesignOps gestiona recursos, herramientas y procesos con el fin de mejorar la ca
 - Slack: jordi.catalan
 - Email: jordi.catalan@adevinta.com
 
-**Slack channels**
-- #es-designops
-- #sui-components
-- #tool-figma
+## Our focus
 
-# Nuestro foco
+- Collaboración betwen Design and Development
+- Creation and Documentation of new components
+- Process standardistion
+- Reporting and fixing of Bugs, defects and improvements
+- Files and projects organisation
+- Licence and credentials
 
-- Colaboración entre diseño y desarrollo
-- Creación y documentación de nuevos componentes
-- Estandarización de procesos
-- Reporte de bugs, defectos y mejoras
-- Organización de archivos y proyectos
-- Petición de licencias y acceso a repositorios
+## Areas of action
 
-# Áreas de acción
+### Processes
 
-## Procesos
 DesignOps define e itera procesos comunes que resuelven el “cómo” para que los equipos puedan concentrarse en el “qué” y el “porqué”.
 
-## Herramientas
+### Herramientas
 DesignOps promueve y desarrolla herramientas que mejoran la comunicación entre equipos.
 Se encarga de explorar proactivamente las últimas tendencias del mercado y valorar el impacto que tendría un eventual cambio.
 
-## Sistemas de Diseño
+### Sistemas de Diseño
 DesignOps lidera y coordina los Sistemas de Diseño mejorando la calidad de su implementación y asegurando su adopción, documentación y visibilidad.
 
 
-## Desarrollo profesional
+### Desarrollo profesional
 DesignOps ayuda a crear un ambiente de trabajo que favorece el éxito de nuestros diseñadores, entre otras cosas asegurando que todos tengan acceso a los recursos adecuados y actualizados.
 
-## Visibilidad
+### Visibilidad
 DesignOps ayuda a comunicar el trabajo del equipo dentro y fuera de la organización.
 
-## Meetings
+
+[Contact us](Contact-us.md)
+[Meetings](Meetings.md)
 
 - **Gemba walk:** 
   - Mondays 10:30h / 15min
