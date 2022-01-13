@@ -1,10 +1,10 @@
 # Colour
 
-Each brand has its own colours
+## Each brand has its own colours
 
 {% hint style="success" %}
 
-#### Important agreement:
+#### Important agreement
 Your brand can have as many colours and variations as you wish
 
 Each technology and platform has it own rules and subtle implementation variations but, in general, your brand colours should rule over platform specifics.
