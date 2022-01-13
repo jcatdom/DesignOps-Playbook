@@ -9,15 +9,15 @@ If you need urgent assistance contact a maintainer through any channel.
 #### Figma is down
 
 - Check the status at [status.figma.com](https://status.figma.com/)
-- Check and share in #tool-figma
-- Check and share in [#es-designops](https://adevinta.slack.com/archives/G01ETB0PNMC)
+- Share the problem in Slack through [#tool-figma](https://adevinta.slack.com/archives/C01M4VBS744)
+- Share in [#es-designops](https://adevinta.slack.com/archives/G01ETB0PNMC)
 - Contact [@turo](https://adevinta.slack.com/archives/D017VLGFLMV)
 
 #### Broken UI Kit
 
 - Contact your Design-Ops or [@turo](https://adevinta.slack.com/archives/D017VLGFLMV)
-- Check and share in [#es-designops](https://adevinta.slack.com/archives/G01ETB0PNMC)
-- Check the changelog in Figma, if you know what changed get in contact with the person who did it. 
+- Share in [#es-designops](https://adevinta.slack.com/archives/G01ETB0PNMC)
+- Check the changelog in Figma, if you know what changed get in contact with the person who caused it
 
 ### Tools and Credentials
 
@@ -30,6 +30,6 @@ If you need urgent assistance contact a maintainer through any channel.
 
 #### I've found a bug in my App produced by a change in SUI
 
-- Start the conversation in [#sui-components](https://adevinta.slack.com/archives/C018Q6WBJ85)
-- Report the bug in [SUI Components Repo](https://github.com/SUI-Components/sui-components/issues/new?template=report-a-bug---issue.md)
-- If you know the PR contact with the person who introduced the change through slack. 
+- Start the conversation through slack in [#sui-components](https://adevinta.slack.com/archives/C018Q6WBJ85)
+- Report the bug in the [SUI Components Repo](https://github.com/SUI-Components/sui-components/issues/new?template=report-a-bug---issue.md)
+- If you have a PR number, get in contact with the person who introduced the change, usually through slack
