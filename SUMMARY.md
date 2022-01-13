@@ -1,6 +1,7 @@
 # Table of contents
 
 * [README](README.md)
+* [Accessibility](Accessibility.md)
 * [Agreements](Agreements.md)
 * [Atomic Design](Atomic-design.md)
 * [Colour](Colour.md)
