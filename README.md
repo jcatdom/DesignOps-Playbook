@@ -18,3 +18,8 @@ test de un warning
 {% hint style="info" %}
 test de un info
 {% endhint %}
+
+## Checklist test  
+
+- [ ] Primer checkbox
+- [x] Segundo checkbox
