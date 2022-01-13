@@ -19,7 +19,7 @@ We've been working together for a long time now, these are our current working a
 - The right place to leave feedback for Design Proposals is Figma, in form comments or notes
 - The right place to leave feedback for Code is the PR itself in gitHub, in form comments
 
-## Communication
+### Communication
 
 We value every effort to bring designers and developers closer together. The language you use should always be correct but not at the expense of providing clarity.
 
@@ -29,7 +29,7 @@ We value every effort to bring designers and developers closer together. The lan
 - Give examples and descriptions for new words
 - Force yourself to be consistent with the vocabulary when writing and talking
 
-## Judgment
+### Judgment
 
 There are many correct ways to do things and solve problems. Many times we have to make decisions without the help of best-practice examples to follow and move forward.
 To deal with uncertainty and still move forward we foster having strong opinions, weakly held
@@ -41,7 +41,7 @@ To deal with uncertainty and still move forward we foster having strong opinions
 - Seek feedback on code review often, and more often when a solution takes you down a new path
 - Take time to provide good code review, encompassing the above values when providing feedback
 
-## Implementation
+### Implementation
 
 - Engineer just enough of a solution
 - Value declarative over abstraction
@@ -50,7 +50,7 @@ To deal with uncertainty and still move forward we foster having strong opinions
 - Provide flexibility, but within the boundaries of our agreeements
 - Assume that people will break the rules, and provide safe ways for them to do so
 
-## Innovation
+### Innovation
 
 - Avoid big bangs: Make small experiments that provide data
 - Ship your ideas
