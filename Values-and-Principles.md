@@ -1,13 +1,13 @@
 # Values and Principles
 
-## Collaborative
+### Collaborative
 
-## Flexible
+### Flexible
 
-## Intuitive
+### Intuitive
 
-## Modular
+### Modular
 
-## Retrocompatible
+### Retrocompatible
 
-## Trustworthy
+### Trustworthy
