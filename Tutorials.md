@@ -1,5 +1,3 @@
 # Tutorials
 
-Lo que se espera de esta sección:
-- Links a todos los "How To"s que tengamos
-- Link a Figma Tips
+You will soon be able to see all our Figma Tips and Tutorials here.
