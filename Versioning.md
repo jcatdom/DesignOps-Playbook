@@ -8,7 +8,7 @@ The same component `button` can be `v1.2.0` in React and `v3.0.0` in Apps and, a
 
 {% endhint %}
 
-#### So.. how do we sync the versions of the same component in different platforms?
+#### So... how do we sync the versions of the same component in different platforms?
 
 We don't force different platforms to converge in version name.
 
