@@ -1,16 +1,14 @@
 # DesignOps Team
 
-DesignOps manage resources, tools and processes to improve the quality and efficiency of the Design and Development experience.
-
-## Who we are
+DesignOps manage resources, tools and processes to improve the quality and efficiency of the Design and Development experience. We are:
 
 | Turo López | Andrés Lucas | Christian Jimenez | Jordi Catalán |
 | -- | -- | -- | -- |
-| arturo.lopez@adevinta.com | andres.lucas@adevinta.com | christian.jimenez@adevinta.com | jordi.catalan@adevinta.com |
+| [email](mailto:arturo.lopez@adevinta.com) | [email](mailto:andres.lucas@adevinta.com) | [email](mailto:christian.jimenez@adevinta.com ) | [email](mailto:jordi.catalan@adevinta.com) |
 | [slack](https://adevinta.slack.com/archives/D017VLGFLMV) | [slack](https://adevinta.slack.com/archives/D018WUD1N6N) | [slack](https://adevinta.slack.com/archives/D018WU1R4E6) | [slack](https://adevinta.slack.com/archives/D019BJX72SW) |
 
 
-## Our focus
+## Focus
 
 - Collaboración betwen Design and Development
 - Creation and Documentation of new components
@@ -23,30 +21,28 @@ DesignOps manage resources, tools and processes to improve the quality and effic
 
 ### Processes
 
-DesignOps define e itera procesos comunes que resuelven el “cómo” para que los equipos puedan concentrarse en el “qué” y el “porqué”.
+We define and iterate processes that enhance _HOW_ we do things, for Designers, Developers and Researchers to focus on _WHAT_ and _WHY_ we do it.
 
-### Herramientas
-DesignOps promueve y desarrolla herramientas que mejoran la comunicación entre equipos.
-Se encarga de explorar proactivamente las últimas tendencias del mercado y valorar el impacto que tendría un eventual cambio.
+### Tools
 
-### Sistemas de Diseño
-DesignOps lidera y coordina los Sistemas de Diseño mejorando la calidad de su implementación y asegurando su adopción, documentación y visibilidad.
+We foster and support tools that improve communication between teams.
 
+We are always exploring the ecosystem proactively, market trends, "the hype", and assess the potential impact of a future change.
 
-### Desarrollo profesional
-DesignOps ayuda a crear un ambiente de trabajo que favorece el éxito de nuestros diseñadores, entre otras cosas asegurando que todos tengan acceso a los recursos adecuados y actualizados.
+### Design Systems
 
-### Visibilidad
-DesignOps ayuda a comunicar el trabajo del equipo dentro y fuera de la organización.
+We lead the efforts on Design Systems, aiming to improve the quality of implementation, adoption, documentation and visibility.
+
+### Professional development
+
+We focus on creating a good enviroment for the success of the entire team, ensuring everyone has access to the latest right resources.
+
+### Visibility
+
+We help communicating the value of our Design and Development teams outside and inside the organisation.
 
 
 [Contact us](Contact-us.md)
-[Meetings](Meetings.md)
 
-- **Gemba walk:** 
-  - Mondays 10:30h / 15min
-  - http://meet.google.com/hgk-vjkc-jva
+[Join our meetings](Meetings.md)
 
-- **[Twitch] Weekly SUI Components:**
-  - Wednesday 12:30 / 30min
-  - https://www.twitch.tv/adevintaspaintech
