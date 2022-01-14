@@ -4,21 +4,11 @@ DesignOps manage resources, tools and processes to improve the quality and effic
 
 ## Who we are
 
-**Turo** - DesignOps Adevinta
-- Slack: arturo.lopez
-- Email: arturo.lopez@adevinta.com
+| Turo López | Andrés Lucas | Christian Jimenez | Jordi Catalán |
+| -- | -- | -- | -- |
+| arturo.lopez@adevinta.com | andres.lucas@adevinta.com | christian.jimenez@adevinta.com | jordi.catalan@adevinta.com |
+| [slack](https://adevinta.slack.com/archives/D017VLGFLMV) | [slack](https://adevinta.slack.com/archives/D018WUD1N6N) | [slack](https://adevinta.slack.com/archives/D018WU1R4E6) | [slack](https://adevinta.slack.com/archives/D019BJX72SW) |
 
-**Andrés Lucas** - FE DesignSystems
-- Slack: andres.lucas
-- Email: andres.lucas@adevinta.com
-
-**Christian Jimenez** - DesignOps Jobs
-- Slack: christian.jimenez
-- Email: christian.jimenez@adevinta.com
-
-**Jordi Catalán** - DesignOps Real Estate
-- Slack: jordi.catalan
-- Email: jordi.catalan@adevinta.com
 
 ## Our focus
 
