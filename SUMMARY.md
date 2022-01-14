@@ -23,7 +23,7 @@
 * [Contact us](Contact-us.md)
 * [Content guidelines](Content-guidelines.md)
 * [Contribution guidelines](Contribution-guidelines.md)
-* [Controlled Uncontrolled Components](Controlled-Uncontrolled-Components.md)
+* [Controlled and Uncontrolled Components](Controlled-Uncontrolled-Components.md)
 * [CSS SCSS cssInJs PostCSS](CSS-SCSS-cssInJs-PostCSS.md)
 * [Dark mode](Dark-mode.md)
 * [Declarative approach](Declarative-approach.md)
