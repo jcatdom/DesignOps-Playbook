@@ -26,10 +26,6 @@ Sometimes you need an existing component with a little twist, for instance a new
 
 In this case you can either add the new variation as a new Prop of the component (something like `shape {square, rounded, circle}`), or create a new component if you think the result will be too different to be considered the same component.
 
-If the requested iteration is not widely needed (something really custom to a brand) it should not be included in SUI but as a Snowflake or a Drop of Water.
-
-In case of doubt [open a discussion](https://github.com/SUI-Components/sui-components/discussions/categories/ideas-and-new-features)
-
 ### Changes on how it looks like
 
 {% hint style="success" %}
@@ -40,8 +36,18 @@ Almost everything in terms of colours, typography and spacing can be customised 
 
 If the CSS property you want to adjust is not _customisable_ you can create a pull request to _open_ it. Here's an [example](https://github.com/SUI-Components/sui-components/pull/1952/files) to allow overriding the text decoration of links.
 
+### Add a new variation
+
+Sometimes you need a new variation of a component: for instance another paginator, different enough to create a new component, but not super different to justify coding something from scratch. 
+
+In case of doubt [open a discussion](https://github.com/SUI-Components/sui-components/discussions/categories/ideas-and-new-features)
+
+If the requested iteration is not widely needed (something really custom to a brand) it should not be included in SUI but as a Snowflake or a Drop of Water.
+
 {% hint style="danger" %}
 Don't use classNames to style components on the fly
 {% endhint %}
 
 We extremely recommend you don't style a component using it's class name. If you need to position a component in your layout wrap it inside a `<div>` and adjust that div instead. If you want to change something else such as a color, do it in your theme instead. It's the best way to ensure the integrity of your app in case we change something in the Design System that may cause your styles to break.
+
+Read more about classNames [here](classNames.md)
