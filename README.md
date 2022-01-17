@@ -3,6 +3,13 @@
 
 <!--
 
+## Link to specific pages
+
+{% content-ref url="Contribution-guidelines.md" %}
+[Contribution-guidelines.md](Contribution-guidelines.md)
+{% endcontent-ref %}
+
+
 ## Dos and Don'ts
 
 {% hint style="success" %}
