@@ -38,14 +38,6 @@ Can submit any type of changes, but in general are expected to contribute with s
 * New components
 * Design and code Proposals
 
-{% hint style="info" %}
-**If you need access to the project**
-
-Request it through slack at [#sui-components](https://adevinta.slack.com/archives/C018Q6WBJ85)
-{% endhint %}
-
-### Want to contribute but don't know where to start?
-
 {% content-ref url="Contribution-guidelines.md" %}
 [Contribution-guidelines.md](Contribution-guidelines.md)
 {% endcontent-ref %}
