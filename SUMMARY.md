@@ -1,5 +1,6 @@
 # Table of contents
 
+* [README](README.md)
 * [Accessibility](Accessibility.md)
 * [Advocate](Advocate.md)
 * [Agreements](Agreements.md)
