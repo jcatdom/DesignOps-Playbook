@@ -2,6 +2,8 @@
 
 **Our model of contribution is Hybrid**, a combination of _Centralised_ and _Federated_ team.
 
+![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/mixed-contribution.png)
+
 ## Roles and key responsibilities
 
 Although we all make SUI, each role has an expected contribution level:
