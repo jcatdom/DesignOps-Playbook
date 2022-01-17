@@ -2,13 +2,15 @@
 
 **Our model of contribution is Hybrid**, a combination of _Centralised_ and _Federated_ team.
 
+All users can influence on the direction of the project through proposals, ideas and bugs reporting.
+
 ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/mixed-contribution.png)
 
 ## Roles and key responsibilities
 
 Although we all make SUI, each role has an expected contribution level:
 
-### Central team
+### Central team = Maintainers
 
 Active contributors with high dedication to the project, responsibles for gathering insights and driving the strategic direction of the system.
 
@@ -29,7 +31,7 @@ In charge of:
 
 All Adevintians have strong influence on the evolution of SUI and should be able to submit PullRequests to the project.
 
-Can submit any type of changes, but in general are expected to contribute with small and medium improvements such as:
+Expected to contribute with small and medium improvements such as:
 
 * Bugs fixing
 * PRs reviews
@@ -42,6 +44,3 @@ Can submit any type of changes, but in general are expected to contribute with s
 [Contribution-guidelines.md](Contribution-guidelines.md)
 {% endcontent-ref %}
 
-## Consumers - Participants
-
-Users of Components without write access to the project, but still being able to influence on the direction of the project through proposals, ideas and bug reporting.

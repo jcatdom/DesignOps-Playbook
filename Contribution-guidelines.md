@@ -1,4 +1,4 @@
-# Contribution guidelinesç
+# Contribution guidelines
 
 ## SUI Components
 
