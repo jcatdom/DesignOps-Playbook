@@ -1,6 +1,6 @@
 # Figma UI Kits 
 
-En Adevinta disponemos de UI Kits en Team Libraries de Figma para acelerar los procesos de diseño. Están estructurados con nuestro [sistema atómico](https://github.com/turolopezsanabria/design-systems-playbook/blob/chris/Atomic-design.md) y nos permiten tener una estructura reutilizable, escalable y que nos proporciona consistencia en nuestros productos. 
+En Adevinta disponemos de UI Kits en Team Libraries de Figma para acelerar los procesos de diseño. Están estructurados con nuestro [sistema atómico](https://design-systems.gitbook.io/design-systems-playbook/atomic-design) y nos permiten tener una estructura reutilizable, escalable y que nos proporciona consistencia en nuestros productos. 
 
 ![UI Kits Adevinta](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-1.png)
 
