@@ -1,20 +1,20 @@
 # Collaboration model
 
-**Our model of contribution is Hybrid**, a combination of _Centralised_ and _Federated_ team.
+Every user can influence on the direction of the project through proposals, ideas and bugs reporting.
 
-All users can influence on the direction of the project through proposals, ideas and bugs reporting.
+**We have Hybrid model**: A central team (DesignOps) is in charge of a big part of the work, but all the developers and designers at Adevinta contribute to the evolution of the system as a _federated_ team.
 
 ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/mixed-contribution.png)
 
 ## Roles and key responsibilities
 
-Although we all make SUI, each role has an expected contribution level:
+Although we all make SUI, each role has an expected contribution level
 
 ### Central team = Maintainers
 
-Active contributors with high dedication to the project, responsibles for gathering insights and driving the strategic direction of the system.
+Active contributors with a high dedication to the project are responsible of gathering insights and driving the strategic direction of the system.
 
-In charge of:
+The central team is in charge of:
 
 * Minor and Major initiatives
 * Big architecture changes
