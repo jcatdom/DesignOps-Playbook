@@ -18,7 +18,7 @@ Request it through slack at [#sui-components](https://adevinta.slack.com/archive
 
 2 - Then [start a discussion](https://github.com/SUI-Components/sui-components/discussions/new) in github to get everyone involved.
 
-![Issues]("contribution - issue.png")
+![Issues](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/contribution-issue.png)
 
 
 ### Improvements (existing Components, Tools, Processes, etc)
@@ -35,7 +35,7 @@ We don't have a template for new discussions, but strongly recommend to follow t
 * Save a spot in our [Design Critique](Design-critiques.md)
 * Discuss your idea in our [Weekly Meeting](Weekly-streamings.md)
 
-![Discussions]("contribution - discussion.png")
+![Discussions](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/contribution-discussion.png)
 
 ## Figma UI Kits
 
@@ -47,4 +47,4 @@ soon
 
 # Contribution diagram
 
-![Issues]("contribution - diagram.png")
+![Issues](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/contribution-diagram.png)
