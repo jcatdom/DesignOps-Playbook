@@ -14,6 +14,10 @@ The theme is written in SCSS and all generic variables, functions, mixins and he
 
 Include the path `@import '~@s-ui/theme/lib/index';` in settings.scss
 
+# Brand themes
+
+Each brand can customise all components using [tokens](Tokens.md) in its own Theme.
+
 
 
 
