@@ -18,7 +18,8 @@ Include the path `@import '~@s-ui/theme/lib/index';` in settings.scss
 
 Each brand can customise all components using [tokens](Tokens.md) in its own Theme.
 
+**Should you adjust SUI Theme, SUI Components or your Brand Theme?**
 
-
+In most of the scenarios changes your theme should be enough, but some times you need to `default!` the token 1st in SUI Theme.
 
 
