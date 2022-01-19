@@ -12,33 +12,36 @@ Although we all make SUI, each role has an expected contribution level
 
 ### Central team = Maintainers
 
-Active contributors with a high dedication to the project are responsible of gathering insights and driving the strategic direction of the system.
+Active contributors, with a high dedication to the project, are responsible of gathering insights and driving the strategic direction of the system.
 
 The central team is in charge of:
 
+* Maintainance
 * Minor and Major initiatives
-* Big architecture changes
+* Big architecture changes in sync with Enablers
 * Tools assessment and definition
 * Definition of standards
 * Bureaucracy (meetings, retros, agenda, events, etc)
-* System integrity - Maintainance
+* System integrity
 * Metrics dashboard
 * Reinforcement of policies
 * PRs reviews
 * etc
 
-## Contributors = Change makers
+## Contributors
 
-All Adevintians have strong influence on the evolution of SUI and should be able to submit PullRequests to the project.
+All Adevintians can influence on the evolution of SUI and should be able to submit PullRequests to the project.
 
-Expected to contribute with small and medium improvements such as:
+Regardless of your discipline, you can contribute with small and medium improvements such as:
 
 * Bugs fixing
 * PRs reviews
 * Component improvements
 * New features
 * New components
-* Design and code Proposals
+* Design and Code Proposals
+* Reinforcement of policies
+* etc
 
 {% content-ref url="Contribution-guidelines.md" %}
 [Contribution-guidelines.md](Contribution-guidelines.md)
