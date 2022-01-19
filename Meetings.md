@@ -4,18 +4,24 @@ There are several touchpoints related to Design Systems at Adevinta:
 
 ### Weekly Sync for SUI Components
 
-Wednesday at 12:30 / 30min
-
 Open to the public and streamed in Twitch
 
-
-[All the details here](Weekly-streamings.md)
+* Wednesday at 12:30 / 30min
+* [All the details here](Weekly-streamings.md)
 
 ### Gemba walk
 
-Mondays 10:30h / 15min
+* Mondays 10:30h / 15min
+* Private link in your calendar
 
-Private link in yuor calendar
+### Design Critiques
+
+Share your ideas and give feedback to others in our cross verticals Design Critiques
+Open to everyone in Adevinta
+
+* Thursday at 16:00 / 60min
+* [Agenda]()
+* [Hangouts]()
 
 ### Ad Hoc Syncs
 
