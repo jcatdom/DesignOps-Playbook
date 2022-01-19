@@ -17,6 +17,8 @@ In most of the cases we know how a component or style should look like, as a mat
 
 That's correct, we don't have a single source of truth. Designers work in Figma and must assume that everything is OK in Figma the same way Developers should always asumme the code is correct.
 
+[Want to learn more about this?](Source-of-truth.md)
+
 ### How to request a change:
 
 **If you make a change in Figma that needs to be coded:**
