@@ -1,6 +1,6 @@
 # Contribution guidelines
 
-## SUI Components
+# SUI Components
 
 {% hint style="info" %}
 **You need writing access to the project**
@@ -8,11 +8,11 @@
 Request it through slack at [#sui-components](https://adevinta.slack.com/archives/C018Q6WBJ85)
 {% endhint %}
 
-### Bugs and other small issues
+## Bugs and other small issues
 
 [Open an issue in github](https://github.com/SUI-Components/sui-components/issues/new?template=report-a-bug---issue.md)
 
-### New proposals (Components, Tools, Processes, etc)
+## New proposals (Components, Tools, Processes, etc)
 
 1 - Use the [Figma template](https://www.figma.com/file/gwZ74U8HHbPl3l5vbwHHrO/Template---Specs-for-Components?node-id=706%3A626). It contains a handover checklist, notes for Accessibility, and a simple layout to structure your ideas.
 
@@ -21,7 +21,7 @@ Request it through slack at [#sui-components](https://adevinta.slack.com/archive
 ![Issues](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/contribution-issue.png)
 
 
-### Improvements (existing Components, Tools, Processes, etc)
+## Improvements (existing Components, Tools, Processes, etc)
 
 [Start a discussion](https://github.com/SUI-Components/sui-components/discussions/new)
 
@@ -37,11 +37,11 @@ We don't have a template for new discussions, but strongly recommend to follow t
 
 ![Discussions](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/contribution-discussion.png)
 
-## Figma UI Kits
+# Figma UI Kits
 
 soon
 
-## Native Apps
+# Native Apps
 
 soon
 
