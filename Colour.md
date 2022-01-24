@@ -3,12 +3,11 @@
 ## Each brand has its own colours
 
 {% hint style="success" %}
+**Important agreement**
 
-#### Important agreement
 Your brand can have as many colours and variations as you wish
 
 Each technology and platform has it own rules and subtle implementation variations but, in general, your brand colours should rule over platform specifics.
-
 {% endhint %}
 
 ### Colours in SUI
@@ -21,38 +20,41 @@ SUI Theme provides 4 shades of darkness and 5 shades of lighness by default. The
 
 ![Colours default Scale](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-shades-of-gray.png)
 
-### You are not obliged to use the shades generated automatically 
+### You are not obliged to use the shades generated automatically
 
 We recommend you override each of the shades manualy with special focus on accessibility. Although we initially ensure each component complies with A11y standards, we can't ensure they will work after replacing ours with your brand colours.
 
-Use this plugin for Figma [Stark](https://www.figma.com/community/plugin/732603254453395948/Stark) and the contrast website  [ABC](https://abc.useallfive.com) to refine your palette.
+Use this plugin for Figma [Stark](https://www.figma.com/community/plugin/732603254453395948/Stark) and the contrast website [ABC](https://abc.useallfive.com) to refine your palette.
 
 ### You are not obliged to use all the 9 shades from SUI
 
-Although SUI will always generate 9, you can have fewer colours. 
-In the example below Coches·net uses just 3 shades of Gray.
+Although SUI will always generate 9, you can have fewer colours. In the example below Coches·net uses just 3 shades of Gray.
 
 ![Coches·net](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-gray-brand.png)
 
 In order to ensure all colours point to an existing color, you need to map the new colours to the original palette.
 
-![Coches·net to SUI Theme map](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-shades-brand.png)
+![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-shades-brand.png)
 
-    // Gray color
-    $c-gray: #606F80;
-    
-    // Gray color light gradients
-    $c-gray-light-1: #BFC7D0;
-    $c-gray-light-2: #EEF0F4;
-    $c-gray-light-3: $c-gray-light-2;
-    $c-gray-light-4: $c-gray-light-2;
-    $c-gray-light-5: $c-gray-light-2;
+{% code title="_settings.scss" %}
+```scss
+// Gray color
+$c-gray: #606F80;
 
-    // Gray color dark gradients
-    $c-gray-dark-1: #434B51;
-    $c-gray-dark-2: $c-gray-dark-1;
-    $c-gray-dark-3: $c-gray-dark-1;
-    $c-gray-dark-4: $c-gray-dark-1;
+// Gray color light gradients
+$c-gray-light-1: #BFC7D0;
+$c-gray-light-2: #EEF0F4;
+$c-gray-light-3: $c-gray-light-2;
+$c-gray-light-4: $c-gray-light-2;
+$c-gray-light-5: $c-gray-light-2;
+
+// Gray color dark gradients
+$c-gray-dark-1: #434B51;
+$c-gray-dark-2: $c-gray-dark-1;
+$c-gray-dark-3: $c-gray-dark-1;
+$c-gray-dark-4: $c-gray-dark-1;
+```
+{% endcode %}
 
 ## Tokens system
 

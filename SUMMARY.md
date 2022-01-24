@@ -30,7 +30,7 @@
 * [Declarative approach](Declarative-approach.md)
 * [Demos](Demos.md)
 * [Deprecation](Deprecation.md)
-* [Design critiques](Design-critiques.md)
+* [Design critiques](Design-Critiques.md)
 * [Design language](Design-language.md)
 * [Design System](Design-System.md)
 * [DesignOps team](DesignOps-team.md)
