@@ -29,13 +29,12 @@ Use this plugin for Figma [Stark](https://www.figma.com/community/plugin/7326032
 
 ### You are not obliged to use all the 9 shades from SUI
 
-Although SUI will always generate 9 shades, you can map them to match your number of colours.
-
-**Small detail:** The name of your colour scale needs to be different from SUI's. In our example the new `Gray` is called `Bluestone` and its variations are `light` `lighter` `lightest` `dark` `darker`
+Although SUI will always generate 9 shades, you can have fewer colours. 
+In the example below Coches·net uses just 3 shades of Gray.
 
 ![Bluestone is Gray](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-gray-brand.png)
 
-Once you map the new colours the range of grays will get smaller while preserving the 9 steps.
+In order to ensure all colours point to an existing color, you need to map the new colours to the original palette.
 
 ![SUI Brand's theme map](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-shades-brand.png)
 
