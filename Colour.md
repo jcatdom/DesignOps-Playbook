@@ -32,11 +32,11 @@ Use this plugin for Figma [Stark](https://www.figma.com/community/plugin/7326032
 Although SUI will always generate 9, you can have fewer colours. 
 In the example below Coches·net uses just 3 shades of Gray.
 
-![Bluestone is Gray](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-gray-brand.png)
+![Coches·net](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-gray-brand.png)
 
 In order to ensure all colours point to an existing color, you need to map the new colours to the original palette.
 
-![SUI Brand's theme map](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-shades-brand.png)
+![Coches·net to SUI Theme map](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-shades-brand.png)
 
 ## Tokens system
 
