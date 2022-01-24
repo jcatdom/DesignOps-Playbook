@@ -33,5 +33,11 @@ test de un info
 - [ ] Primer checkbox
 - [x] Segundo checkbox
 
+{% code title="_settings.scss" %}
+```scss
+// Here the code to be added
+```
+{% endcode %}
+
 
 -->
