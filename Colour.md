@@ -20,7 +20,7 @@ SUI Theme provides 4 shades of darkness and 5 shades of lighness by default. The
 
 ![Colours default Scale](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-shades-of-gray.png)
 
-{% code title="_settings.scss" %}
+{% code title="_color.scss" %}
 ```scss
 // Gray color
 $c-gray: #777777 !default;
