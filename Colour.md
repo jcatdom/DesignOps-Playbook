@@ -38,6 +38,22 @@ In order to ensure all colours point to an existing color, you need to map the n
 
 ![Coches·net to SUI Theme map](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-shades-brand.png)
 
+    // Gray color
+    $c-gray: #606F80;
+    
+    // Gray color light gradients
+    $c-gray-light-1: #BFC7D0;
+    $c-gray-light-2: #EEF0F4;
+    $c-gray-light-3: $c-gray-light-2;
+    $c-gray-light-4: $c-gray-light-2;
+    $c-gray-light-5: $c-gray-light-2;
+
+    // Gray color dark gradients
+    $c-gray-dark-1: #434B51;
+    $c-gray-dark-2: $c-gray-dark-1;
+    $c-gray-dark-3: $c-gray-dark-1;
+    $c-gray-dark-4: $c-gray-dark-1;
+
 ## Tokens system
 
 ### Colour tokens in SUI Theme
