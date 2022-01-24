@@ -20,6 +20,26 @@ SUI Theme provides 4 shades of darkness and 5 shades of lighness by default. The
 
 ![Colours default Scale](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-shades-of-gray.png)
 
+{% code title="_settings.scss" %}
+```scss
+// Gray color
+$c-gray: #777777 !default;
+
+// Gray color light gradients
+$c-gray-light-1: color-variation($c-gray, 1) !default;
+$c-gray-light-2: color-variation($c-gray, 2) !default;
+$c-gray-light-3: color-variation($c-gray, 3) !default;
+$c-gray-light-4: color-variation($c-gray, 4) !default;
+$c-gray-light-5: color-variation($c-gray, 5) !default;
+
+// Gray color dark gradients
+$c-gray-dark-1: color-variation($c-gray, -1) !default;
+$c-gray-dark-2: color-variation($c-gray, -2) !default;
+$c-gray-dark-3: color-variation($c-gray, -3) !default;
+$c-gray-dark-4: color-variation($c-gray, -4) !default;
+```
+{% endcode %}
+
 ### You are not obliged to use the shades generated automatically
 
 We recommend you override each of the shades manualy with special focus on accessibility. Although we initially ensure each component complies with A11y standards, we can't ensure they will work after replacing ours with your brand colours.
