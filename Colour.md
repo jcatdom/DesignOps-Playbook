@@ -29,7 +29,7 @@ Use this plugin for Figma [Stark](https://www.figma.com/community/plugin/7326032
 
 ### You are not obliged to use all the 9 shades from SUI
 
-Although SUI will always generate 9 shades, you can have fewer colours. 
+Although SUI will always generate 9, you can have fewer colours. 
 In the example below Coches·net uses just 3 shades of Gray.
 
 ![Bluestone is Gray](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/colour-gray-brand.png)
