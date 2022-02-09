@@ -1,13 +1,4 @@
-# Tools
-
-
-## Development
-
-soon
-
-## Design
-
-### Figma
+# Figma
 
 Figma is our official tool for Design, Handoff and Prototyping.
 

@@ -1,4 +1,3 @@
 # Naming convention
 
-Lo que se espera de esta sección:
-- Quizás esta sección se solapa con la de "Glosario"
+Palabrejos que hemos ido acordando: Alert (y no Warning), useSomething, tshirt size para tamaños, etc 

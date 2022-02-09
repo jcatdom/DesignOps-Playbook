@@ -1,4 +1,5 @@
 # Typography 
 
-Lo que se espera de esta sección:
-- Lo mismo de la sección Colours, pero con tipografía
+## Do's and Don'ts
+
+## Platform specifics
