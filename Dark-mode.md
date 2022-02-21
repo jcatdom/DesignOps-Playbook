@@ -1,12 +1,7 @@
 # Dark mode
 
-## SUI Components 
-Por el momento no tenemos dark mode en nuestros temas de SUI. Puedes generar un dark theme para tu vertical (como hizo coches.net pro) pero en un uikit independiente. 
+None of our web applications have _Dark mode_ (for the moment) and we don't have _Dark mode_ in SUI Theme either, although we do have negative versions for some components.
 
+**Do we have Darkmode in Apps?**
 
-
-## Apps native
-
-Varias verticales han definido dark theme para sus apps, pero actualmente solo la app de InfoJobs iOS lo ha aplicado en prod. 
-
-En Android está definido y aplicado dark theme en las pantallas refactorizadas, pero no se publicará hasta completar el refactor para no mostrar una experiencia inconsistente a los usuarios (verían las pantallas refactorizadas en dark y las pantallas no refactorizadas en light).
+Although several verticals have defined _Dark mode_ for their Apps, only InfoJobs has implemented it in iOS while Android is defined and partially applied but only into refactored screens. We won't do the roll out until everything is refactored, to prevent users from a poor mixed experience. 
