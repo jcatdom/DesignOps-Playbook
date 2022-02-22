@@ -25,8 +25,3 @@ Learn how to update the Figma files or the code here:
 {% content-ref url="Contribution-guidelines.md" %}
 [Contribution-guidelines.md](Contribution-guidelines.md)
 {% endcontent-ref %}
-
-### So, we don't have a single source of truth...
-
-
-
