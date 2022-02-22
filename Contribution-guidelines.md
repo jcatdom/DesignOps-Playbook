@@ -1,14 +1,12 @@
 ---
-description: Think simple and will move fast.
+description: We've simplified all our processes to the very minimum to have you covered with just a few steps.
 ---
 
 # Contributing guidelines
 
 ## SUI Components
 
-We've simplified all our processes to the very minimum to have you covered with just a few steps.
-
-Share your idea as soon as possible, it doesn't have to be perfect to start a discussion.
+Share your ideas as soon as possible, it doesn't have to be perfect to start a discussion.
 
 ### 🐞 Bugs and defects
 

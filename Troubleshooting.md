@@ -1,6 +1,8 @@
 # Troubleshooting
 
+{% hint style="info" %}
 If you need urgent assistance contact a maintainer through any channel.
+{% endhint %}
 
 ## Recommended channels and priority
 
