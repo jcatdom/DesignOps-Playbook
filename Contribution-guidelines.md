@@ -2,12 +2,6 @@
 
 ## SUI Components
 
-{% hint style="info" %}
-**You need writing access to the project**
-
-Request it through slack at [#sui-components](https://adevinta.slack.com/archives/C018Q6WBJ85)
-{% endhint %}
-
 ### Bugs and defects
 
 If you find anything that needs to be adjusted [open an issue in github](https://github.com/SUI-Components/sui-components/issues/new?template=report-a-bug---issue.md).
