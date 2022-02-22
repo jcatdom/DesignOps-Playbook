@@ -2,16 +2,21 @@
 
 **We don't have an automatic sync process between Figma and Code**
 
-You need to update your side proactivelly to the changes made on the other side (code or Figma)
+You need to update your side proactivelly to the changes made on the other side.
 
-### In case of differences, which one is the source of truth?
+### In case of differences, which one is "The Source of truth"?
 
-The simplest answer is: **The right one**
+We don't have a _single_ source of truth. Designers work primarelly in Figma, and must trust that everything is OK in Figma. The same way Developers should always asumme that the code is correct.
 
-In most of the cases, we know how a component should look like, as a matter of fact that's how we spot defects when we realise something is not as defined.
+[Want to learn more about Source of Truth?](Source-of-truth.md)
 
-- If you find a defect in the code but your Figma file is OK: the code needs to be adjusted
-- If you find a defect in your Figma file but the code is OK: the Figma file needs to be adjusted
+### So, in case of differences, which one is "the right one"?
+
+The one defined by the UX Team, that ideally should be correctly applied everywhere consinstently.
+
+- If you find a defect in the code but the Figma file is OK: Adjust Code
+- If you find a defect in the Figma file but the code is OK: Adjust Figma
+- If you find a defect in Figma and also in Code: Adjust both
 
 Learn how to update the Figma files or the code here:
 
@@ -21,7 +26,5 @@ Learn how to update the Figma files or the code here:
 
 ### So, we don't have a single source of truth...
 
-That's correct, we don't have a single source of truth. Designers work primarelly in Figma, and must assume that everything is OK in Figma. The same way Developers should always asumme that the code is correct.
 
-[Want to learn more about Source of Truth?](Source-of-truth.md)
 
