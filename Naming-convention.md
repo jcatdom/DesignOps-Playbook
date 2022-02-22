@@ -2,23 +2,22 @@
 
 ## Naming is hard
 
-### Colour 
+### Colour s
 
 {% hint style="success" %}
- Alert
+Use **alert** for colour or component variation
 {% endhint %}
 
 {% hint style="danger" %}
-warning
+Don't use **warning** as name for colour or component variation
 {% endhint %}
 
 ### T Shirt sizes
 
 {% hint style="success" %}
-* S M L XL XXL XXXL
-* S M L XL 2XL 3XL
+Use `S` `M` `L` `XL` `XXL` `XXXL` or `XL` `2XL` `3XL` for size and space
 {% endhint %}
 
 {% hint style="danger" %}
-* SM MD LG XL 
+Don't use 2 letters: `SM` `MD` `LG` `XL` 
 {% endhint %}
