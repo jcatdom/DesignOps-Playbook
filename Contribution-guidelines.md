@@ -4,7 +4,7 @@
 
 We've simplified all our processes to the very minimum to have you covered with just a few steps.
 
-Think simple and will move fast.
+Think simple and will move fast. Share your idea as soon as possible, it doesn't have to be perfect to start a discussion.
 
 ### 🐞 Bugs and defects
 
@@ -12,15 +12,12 @@ Think simple and will move fast.
 
 We only use GitHub if it's only related with SUI, you don't need to open a ticket in Jira.
 
-### 🪄 Improvements (existing components, tools, processes, etc)
+### 🪄 Improvements
 
 [Open a discussion](https://github.com/SUI-Components/sui-components/discussions/new)
 
-We always start with a conversation but always record it in a GitHub Discussion.
+If you want to enhance an existing component, tool or process start with a conversation in GitHub Discussion. Unfortunatelly templates are not available yet but we strongly recommend you to follow these guidelines:
 
-Templates are not available yet but we strongly recommend you to follow these guidelines:
-
-* Share your idea as soon as possible, it doesn't have to be perfect to start a discussion
 * Include all the possible data to get the conversation started
 * When possible, start the discussion for Mobile 1st
 * Tag other people to get them envolved
@@ -30,9 +27,9 @@ Templates are not available yet but we strongly recommend you to follow these gu
 
 ![Discussions](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/contribution-discussion.png)
 
-### 🌚 New proposals (Components, Tools, Processes, etc)
+### 🌚 New proposals
 
-You can start directly openning a GitHub discussion, but we recommend: 
+You can start openning a GitHub discussion to kickoff an idea for a component, tool or process, but we recommend:
 
 1 - Use the [Figma template](https://www.figma.com/file/gwZ74U8HHbPl3l5vbwHHrO/Template---Specs-for-Components?node-id=706%3A626) to structure your ideas. It contains a handover checklist, notes for Accessibility, and the same layout we use for our demos in Studio.
 
