@@ -1,23 +1,15 @@
+---
+description: Naming is hard, please follow these rules.
+---
+
 # Naming convention
 
-## Naming is hard
+**Colours**
 
-### Colours
+* alert instead of _warning_
 
-{% hint style="success" %}
-Use **alert** for colour or component variation
-{% endhint %}
+**Size and Spacing: T-shirt sizes**
 
-{% hint style="danger" %}
-Don't use **warning** as name for colour or component variation
-{% endhint %}
+* ✅ S M L XL XXL XXXL or XL 2XL 3XL
+* ❌ SM MD LG XL
 
-### T-shirt sizes
-
-{% hint style="success" %}
-Use **S** **M** **L** **XL** **XXL** **XXXL** or **XL** **2XL** **3XL** for size and space
-{% endhint %}
-
-{% hint style="danger" %}
-Don't use 2 letters: **SM** **MD** **LG** **XL**
-{% endhint %}
