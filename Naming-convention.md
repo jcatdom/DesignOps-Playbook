@@ -6,7 +6,8 @@ description: Naming is hard, please follow these rules
 
 **Colours**
 
-* `Alert` instead of `Warning`
+* ✅ `Alert`
+* ❌ `Warning`
 
 **Size and Spacing: T-shirt sizes**
 
