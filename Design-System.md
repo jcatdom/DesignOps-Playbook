@@ -10,7 +10,7 @@ It helps you ensure that the product you build is using the most modern and cons
 
 ## For web
 
-[SUI Components](SUI-Components.md) is an Open-Source library of React Components.
+[SUI Components](SUI-Components.md) is our Open-Source library of React Components.
 
 The components from this library are at the core of everything we do for web: Each of our brands uses its atoms and molecules, and also the tools and [theme](SUI-Theme.md) to build its own library of components.
 
