@@ -39,9 +39,9 @@ You can start openning a GitHub discussion to kickoff an idea for a component, t
 
 ## Figma
 
-### Licence
-
 We have an Organisation Plan, with a team for each vertical and several projects for each of them.
+
+### Licence
 
 No matter if you are a **Designer** or a **Developer**, you shouldn't need to request a seat because DesignOps manage licences automatically but, if you still don't have access, get in contact with [@turo](https://adevinta.slack.com/archives/D017VLGFLMV) or write in [#tool-figma](https://adevinta.slack.com/archives/C01M4VBS744) and we will fix it fast.
 
