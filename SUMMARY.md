@@ -19,7 +19,6 @@
   * [Handover](Handover.md)
   * [Development workflow](Development-workflow.md)
   * [Commits](Commits.md)
-  * [New components](New-components.md)
   * [QA and Review guidelines](QA-and-Review-guidelines.md)
   * [Discussions](Discussions.md)
   * [Feedback loops](Feedback-loops.md)
