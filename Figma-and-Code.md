@@ -1,8 +1,10 @@
-# Sync Figma and Code
+# Figma and Code
 
-**We don't have an automatic sync process between Figma and Code**
+Every component and every style is presente in Figma and Code, you can think of them as mirrors of each other for Designers and Developers. 
 
-You need to update your side proactivelly to the changes made on the other side.
+## Do Figma and Code sync automatically? 
+
+No, we don't have an automatic process between Figma and Code. You need to update your side proactivelly to the changes made on the other side.
 
 ### In case of differences, which one is "The Source of truth"?
 
