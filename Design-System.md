@@ -10,10 +10,9 @@ It helps you ensure that the product you build is using the most modern and cons
 
 [SUI Components](SUI-Components.md) is an Open-Source library of React Components.
 
-The components from this library are at the core of everything we do for web: Each of our brands have their own components Libraries as well, built with the atoms and molecules from SUI, a Theme based on [SUI Theme](SUI-Theme.md), and tools from SUI as well.
+The components from this library are at the core of everything we do for web: Each of our brands uses its atoms and molecules, and also the tools and [theme](SUI-Theme.md) to build its own library of components.
 
 ## For Native Apps
-
 
 
 ## In Figma
