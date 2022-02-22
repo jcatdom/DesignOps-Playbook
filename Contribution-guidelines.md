@@ -45,12 +45,11 @@ We have an Organisation Plan, with a team for each vertical and several projects
 
 No matter if you are a **Designer** or a **Developer**, you shouldn't need to request a seat because DesignOps manage licences automatically but, if you still don't have access, get in contact with [@turo](https://adevinta.slack.com/archives/D017VLGFLMV) or write in [#tool-figma](https://adevinta.slack.com/archives/C01M4VBS744) and we will fix it fast.
 
-
 ### UI Kits ownership
 
 All our UI kits are mantained by DesignOps but everyone can collaborate. Just make sure you record every change you make writing a meaningful message.
 
-![Start with infinitive verb](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/version-control-figma.png)
+![Write a meaningful message](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/version-control-figma.png)
 
 ### Version control in Figma
 
