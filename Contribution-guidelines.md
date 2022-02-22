@@ -2,11 +2,15 @@
 
 ## SUI Components
 
+We've simplified all our processes to the very minimum to have you covered with just a few steps.
+
+Think simple and will move fast.
+
 ### 🐞 Bugs and defects
 
 [Open an issue in github](https://github.com/SUI-Components/sui-components/issues/new?template=report-a-bug---issue.md).
 
-We only use gitHub to track these issues, you don't need to open a ticket in Jira if the bug is only related with SUI.
+We only use GitHub if it's only related with SUI, you don't need to open a ticket in Jira.
 
 ### 🪄 Improvements (existing components, tools, processes, etc)
 
