@@ -1,6 +1,6 @@
 # Contribution guidelines
 
-# SUI Components
+## SUI Components
 
 {% hint style="info" %}
 **You need writing access to the project**
@@ -8,24 +8,19 @@
 Request it through slack at [#sui-components](https://adevinta.slack.com/archives/C018Q6WBJ85)
 {% endhint %}
 
-## Bugs and other small issues
+### Bugs and defects
 
-[Open an issue in github](https://github.com/SUI-Components/sui-components/issues/new?template=report-a-bug---issue.md)
+If you find anything that needs to be adjusted [open an issue in github](https://github.com/SUI-Components/sui-components/issues/new?template=report-a-bug---issue.md).
 
-## New proposals (Components, Tools, Processes, etc)
+**Important:** You don't need to open a ticket in Jira if the bug is only related with SUI.
 
-1 - Use the [Figma template](https://www.figma.com/file/gwZ74U8HHbPl3l5vbwHHrO/Template---Specs-for-Components?node-id=706%3A626). It contains a handover checklist, notes for Accessibility, and a simple layout to structure your ideas.
+### Improvements (existing components, tools, processes, etc)
 
-2 - Then [start a discussion](https://github.com/SUI-Components/sui-components/discussions/new) in github to get everyone involved.
+We always start with a conversation, sometimes offline or through Slack, but always record it in a GitHub Discussion.
 
-![Issues](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/contribution-issue.png)
+[Open a discussion](https://github.com/SUI-Components/sui-components/discussions/new)
 
-
-## Improvements (existing Components, Tools, Processes, etc)
-
-[Start a discussion](https://github.com/SUI-Components/sui-components/discussions/new)
-
-We don't have a template for new discussions, but strongly recommend to follow these guidelines:
+Discussions don't have templates yet, but we strongly recommend you to follow these guidelines:
 
 * Share your idea as soon as possible, it doesn't have to be perfect to start a discussion
 * Include all the possible data to get the conversation started
@@ -37,14 +32,24 @@ We don't have a template for new discussions, but strongly recommend to follow t
 
 ![Discussions](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/contribution-discussion.png)
 
-# Figma UI Kits
+### New proposals (Components, Tools, Processes, etc)
+
+You can start directly openning a GitHub discussion, but we recommend: 
+
+1 - Use the [Figma template](https://www.figma.com/file/gwZ74U8HHbPl3l5vbwHHrO/Template---Specs-for-Components?node-id=706%3A626) to structure your ideas. It contains a handover checklist, notes for Accessibility, and the same layout we use for our demos in Studio.
+
+2 - Then [start a discussion](https://github.com/SUI-Components/sui-components/discussions/new) in GitHub to get everyone involved.
+
+![Issues](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/contribution-issue.png)
+
+## Figma UI Kits
 
 soon
 
-# Native Apps
+## Native Apps
 
 soon
 
-# Contribution diagram
+## Contribution diagram
 
 ![Issues](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/contribution-diagram.png)
