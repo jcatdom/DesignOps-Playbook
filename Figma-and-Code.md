@@ -1,6 +1,6 @@
 # Figma and Code
 
-You can find every style and every component both in Figma and Code, and they are (or should be) perfectly aligned.
+You can find every style and every component in Figma and Code, and they are (or should be) perfectly aligned.
 
 ## Do Figma and Code sync automatically? 
 
