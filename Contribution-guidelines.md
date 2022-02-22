@@ -2,13 +2,13 @@
 
 ## SUI Components
 
-### Bugs and defects
+### 🐞 Bugs and defects
 
 If you find anything that needs to be adjusted [open an issue in github](https://github.com/SUI-Components/sui-components/issues/new?template=report-a-bug---issue.md).
 
 **Important:** You don't need to open a ticket in Jira if the bug is only related with SUI.
 
-### Improvements (existing components, tools, processes, etc)
+### 🪄 Improvements (existing components, tools, processes, etc)
 
 We always start with a conversation, sometimes offline or through Slack, but always record it in a GitHub Discussion.
 
@@ -26,7 +26,7 @@ Discussions don't have templates yet, but we strongly recommend you to follow th
 
 ![Discussions](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/contribution-discussion.png)
 
-### New proposals (Components, Tools, Processes, etc)
+### 🌚 New proposals (Components, Tools, Processes, etc)
 
 You can start directly openning a GitHub discussion, but we recommend: 
 
