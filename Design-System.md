@@ -2,7 +2,7 @@
 
 **Create, unify and evolve great experiences**
 
-Our Design System provides high quality tools and efficient processes that serve as the source of truth for standards and best practices and, at the same time, streamlines communication between developers and designers.
+Our Design System provides high quality tools and efficient processes that serve as the source of truth for standards and best practices and, at the same time, streamlines the communication between developers and designers.
 
 It helps you ensure that the product you build is using the most modern and consistent assets available.
 
