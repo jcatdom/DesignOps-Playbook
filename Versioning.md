@@ -1,4 +1,16 @@
-# Versioning
+# # Version control in SUI Components
+
+We don't publish a global SUI Version, there's nothing such as `@s-ui v2.1.0`
+
+Each component has its own version: 
+
+`@s-ui/react-atom-button 1.69.0`
+
+For each component we follow `MAJOR.MINOR.PATCH` standard, although we only use the first two.
+
+* `MAJOR`: Breaking (incompatible) change.
+* `MINOR`: Change that doesn't affect prior functionalities. Bug fixes without affecting backward compatibility.
+* `PATCH`: Not used.
 
 {% hint style="info" %}
 
@@ -13,17 +25,3 @@ The same component `button` can be `v1.2.0` in React and `v3.0.0` in Apps and, a
 We don't force different platforms to converge in version name.
 
 Once a component is designed and defined, each platform is responsible for using and delivering the latest experience to customers.
-
-## Version control in SUI Components
-
-Each component has its own version
-
-`@s-ui/react-atom-button 1.69.0`
-
-There's no global SUI Version, no `@s-ui v2.1.0`
-
-For each component we follow `MAJOR.MINOR.PATCH` standard, although we only use the first two.
-
-* `MAJOR`: Breaking (incompatible) change.
-* `MINOR`: Change that doesn't affect prior functionalities. Bug fixes without affecting backward compatibility.
-* `PATCH`: Not used.
