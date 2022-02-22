@@ -1,4 +1,4 @@
-# # Version control in SUI Components
+# Version control in SUI Components
 
 We don't publish a global SUI Version, there's nothing such as `@s-ui v2.1.0`
 
@@ -22,6 +22,4 @@ The same component `button` can be `v1.2.0` in React and `v3.0.0` in Apps and, a
 
 #### So... how do we sync the versions of the same component in different platforms?
 
-We don't force different platforms to converge in version name.
-
-Once a component is designed and defined, each platform is responsible for using and delivering the latest experience to customers.
+We don't force different platforms to converge in version name. Once a component is designed and defined, each platform is responsible for using and delivering the latest experience to customers.
