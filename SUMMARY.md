@@ -17,7 +17,6 @@
   * [Tutorials](Tutorials.md)
   * [Github](Github.md)
   * [Handover](Handover.md)
-  * [Bugs and new features](Bugs-and-new-features.md)
   * [Development workflow](Development-workflow.md)
   * [Commits](Commits.md)
   * [New components](New-components.md)
