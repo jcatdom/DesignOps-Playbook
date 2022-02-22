@@ -63,8 +63,9 @@ Maybe we change this in the future but we have not found a valuable use for the 
 
 ## Native Apps
 
-soon
+_Soon_
 
 ## Contribution diagram
 
 ![Issues](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/contribution-diagram.png)
+

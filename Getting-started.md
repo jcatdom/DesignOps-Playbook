@@ -8,4 +8,7 @@
 Request it through slack at [#sui-components](https://adevinta.slack.com/archives/C018Q6WBJ85)
 {% endhint %}
 
+## Instalation guidelines
+
+<!-- ¿Cómo instalo SUI; Themes, etc? ) (Phoenix y más) -->
 

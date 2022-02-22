@@ -23,7 +23,6 @@
   * [Discussions](Discussions.md)
   * [Feedback loops](Feedback-loops.md)
   * [Prioritisation](Prioritisation.md)
-  * [Installation-guidelines](Installation-guidelines.md)
   * [Documentation](Documentation.md)
 * [Foundations](Foundations.md)
   * [Colour](Colour.md)
