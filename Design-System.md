@@ -1,6 +1,8 @@
-# Design System
+---
+description: Create, unify and evolve great experiences
+---
 
-**Create, unify and evolve great experiences**
+# Design System
 
 Our Design System provides high quality tools and efficient processes that serve as the source of truth for standards and best practices and, at the same time, streamlines the communication between developers and designers.
 
