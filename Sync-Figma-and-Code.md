@@ -13,6 +13,8 @@ In most of the cases, we know how a component should look like, as a matter of f
 - If you find a defect in the code but your Figma file is OK: the code needs to be adjusted
 - If you find a defect in your Figma file but the code is OK: the Figma file needs to be adjusted
 
+Learn how to update the Figma files or the code here:
+
 {% content-ref url="Contribution-guidelines.md" %}
 [Contribution-guidelines.md](Contribution-guidelines.md)
 {% endcontent-ref %}
