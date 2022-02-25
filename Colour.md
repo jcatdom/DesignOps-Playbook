@@ -126,15 +126,22 @@ We recommend you always start with HSL (hue, saturation y lightness). It's the m
 Use this great tool [Color scale](https://hihayk.github.io/scale/)
 
 ### Related content
-
+--
+1
 {% content-ref url="Dark-mode.md" %}
 [Dark-mode 1](Dark-mode.md)
 {% endcontent-ref %}
-
+--
+2
 {% content-ref url="Dark-mode.md" %}
 Dark-mode 2
 {% endcontent-ref %}
-
+--
+3
+{% content-ref url="Dark-mode.md" %}
+{% endcontent-ref %}
+--
+4
 {% content-ref %}
 [Dark-mode 3](Dark-mode.md)
 {% endcontent-ref %}
