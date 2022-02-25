@@ -81,7 +81,6 @@
     * [Reviewers](Reviewers.md)
   * [SUI Studio](SUI-Studio.md)
   * [Demos](Demos.md)
-    * [Articles](Articles.md)
   * [SUI Theme](SUI-Theme.md)
   * [SUI](SUI.md)
   * [Documentation library](Documentation-library.md)
