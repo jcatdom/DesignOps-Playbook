@@ -23,5 +23,4 @@ The one defined and documented. If there's no documentation available, or it's d
 Learn how to update the Figma files or the code here:
 
 {% content-ref url="Contribution-guidelines.md" %}
-[Contribution-guidelines.md](Contribution-guidelines.md)
 {% endcontent-ref %}

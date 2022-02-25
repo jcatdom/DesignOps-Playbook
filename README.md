@@ -5,8 +5,7 @@
 
 ## Link to specific pages
 
-{% content-ref url="Contribution-guidelines.md" %}
-[Contribution-guidelines.md](Contribution-guidelines.md)
+{% content-ref url="Dark-mode.md" %}
 {% endcontent-ref %}
 
 

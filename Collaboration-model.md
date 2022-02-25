@@ -43,7 +43,8 @@ Regardless of your discipline, you can contribute with small and medium improvem
 * Reinforcement of policies
 * etc
 
+### Related content
+
 {% content-ref url="Contribution-guidelines.md" %}
-[Contribution-guidelines.md](Contribution-guidelines.md)
 {% endcontent-ref %}
 
