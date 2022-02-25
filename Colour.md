@@ -125,14 +125,17 @@ We recommend you always start with HSL (hue, saturation y lightness). It's the m
 
 Use this great tool [Color scale](https://hihayk.github.io/scale/)
 
-### Dark Themes
+### Related content
 
-**We don't have dark-mode in any of our Web Applications**
+{% content-ref url="Dark-mode.md" %}
+[Dark-mode](Dark-mode.md)
+{% endcontent-ref %}
 
-CarFactory/Coches.net Pro has been dark-mode by default for a long time but has recently grown into light-mode.
+{% content-ref url="Dark-mode.md" %}
+Dark-mode
+{% endcontent-ref %}
 
-**What about native Apps**
+{% content-ref %}
+[Dark-mode](Dark-mode.md)
+{% endcontent-ref %}
 
-Although all brands have worked on it, only infoJobs has implemented dark mode in production for their iOS App.
-
-Jobs have also implemented some screens in darkMode in Android but, in order to deliver a consistent experience, these pages won't be enabled until the whole App has been refactored.
