@@ -128,14 +128,14 @@ Use this great tool [Color scale](https://hihayk.github.io/scale/)
 ### Related content
 
 {% content-ref url="Dark-mode.md" %}
-[Dark-mode](Dark-mode.md)
+[Dark-mode 1](Dark-mode.md)
 {% endcontent-ref %}
 
 {% content-ref url="Dark-mode.md" %}
-Dark-mode
+Dark-mode 2
 {% endcontent-ref %}
 
 {% content-ref %}
-[Dark-mode](Dark-mode.md)
+[Dark-mode 3](Dark-mode.md)
 {% endcontent-ref %}
 
