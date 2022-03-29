@@ -1,4 +1,3 @@
 # Documentation
 
-Lo que se espera de esta sección:
-- ¿Qué hay que documentar, y dónde?
+Include critical information following a _Must, Has-to, Should, Should, Can't_ format
