@@ -19,9 +19,9 @@ Open to the public and streamed in Twitch
 Share your ideas and give feedback to others in our cross verticals Design Critiques
 Open to everyone in Adevinta
 
-* Thursday at 16:00 / 60min
+* Thursdays at 10:00 / 60min
 * [Agenda]()
-* [Hangouts]()
+* [Hangout]()
 
 ### Ad Hoc Syncs
 
