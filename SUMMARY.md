@@ -102,7 +102,7 @@
   * [Meetings](Meetings.md)
     * [Weekly streamings](Weekly-streamings.md)
     * [Design critiques](Design-Critiques.md)
-    * [Gemba walks](community/meetings/gemba-walks.md)
+    * [Gemba walks](Gemba-walks.md)
   * [Slack](Slack.md)
   * [Meetups](Meetups.md)
   * [Onboarding](Onboarding.md)
