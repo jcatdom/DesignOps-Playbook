@@ -6,7 +6,7 @@ Your proposal doesn’t have to be perfect at this point, just try to add as muc
 
 [Use this template](https://github.com/SUI-Components/sui-components/discussions/2125)
 
-## 2 - Work on your proposal, and keep everybody synced
+## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-2.png) 2 - Work on your proposal, and keep everybody synced
 
 Gather as much feedback as possible though these channels, use [this Figma template](https://www.figma.com/file/gwZ74U8HHbPl3l5vbwHHrO/Template---Specs-for-Components?node-id=706%3A626) to structure your ideas.
 
