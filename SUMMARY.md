@@ -11,6 +11,7 @@
   * [Naming convention](Naming-convention.md)
   * [Design System](Design-System.md)
 * [Contributing](Contributing.md)
+  * [🌚 New proposals: Freatures and Components.md](New-proposals.md)
   * [Contributing guidelines](Contribution-guidelines.md)
   * [Branching and Forking](Branching-and-Forking.md)
   * [Troubleshooting](Troubleshooting.md)
