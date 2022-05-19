@@ -29,13 +29,13 @@ If you want to enhance an existing component and your proposal is compatible wit
 
 ### 🌚 New proposals: Freatures and Components
 
-1 - **Open a discussion**, the sooner the better
+**1 - Open a discussion**, the sooner the better
 
 Your proposal doesn’t have to be perfect at this point, just try to add as much information as possible
 
 [Use this template](https://github.com/SUI-Components/sui-components/discussions/2125)
 
-2 - **Work on your proposal**, and keep everybody synced
+**2 - Work on your proposal**, and keep everybody synced
 
 Gather as much feedback as possible though these channels, use [this Figma template](https://www.figma.com/file/gwZ74U8HHbPl3l5vbwHHrO/Template---Specs-for-Components?node-id=706%3A626) to structure your ideas.
 
@@ -47,54 +47,28 @@ Gather as much feedback as possible though these channels, use [this Figma templ
 * User feedback (tests, labs, etc)
 * Etc
 
-3 - **Deliver you specs**
+**3 - Share the specs**
 
 Link your Figma file in the discussion
 
-4 - **Deliver**, Ship Show Ask
+**4 - Deliver**, Ship Show Ask
 
-* **Code**
+* Code
     * Features
     * Tests
     * Demo
 
-* **Design**
+* Design
     * Figma UI Kit SUI
     * Figma UI Kit Brand
     * DS Guidelines in Lingo
 
-5 - Communicate the output proactively
+**5 - Communicate the output broadly**
 
 * DesignOps Weekly Sync (Twitch)
 * SUI Components (Slack)
 * Team meetings
 * Etc
-
-## Figma
-
-We have an Organisation Plan, with a team for each vertical and several projects for each of them.
-
-### Licence
-
-No matter if you are a **Designer** or a **Developer**, you shouldn't need to request a seat because DesignOps manage licences automatically but, if you still don't have access, get in contact with [@turo](https://adevinta.slack.com/archives/D017VLGFLMV) or write in [#tool-figma](https://adevinta.slack.com/archives/C01M4VBS744) and we will fix it fast.
-
-### UI Kits ownership
-
-All our UI kits are mantained by DesignOps but everyone can collaborate. Just make sure you record every change you make writing a meaningful message.
-
-![Write a meaningful message](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/version-control-figma.png)
-
-### Version control in Figma
-
-In contrast to code, all the Components in Figma live in a single file, we don't publish a single library per component and we don't name our UI Kits in Figma following MAJOR.MINOR.PATCH either. Use the libraries on the base that they are always up to date.
-
-### Figma branches
-
-Maybe we change this in the future but we have not found a valuable use for the feature _"branches"_ from Figma (yet).
-
-## Native Apps
-
-_Soon_
 
 ## Contribution diagram
 
