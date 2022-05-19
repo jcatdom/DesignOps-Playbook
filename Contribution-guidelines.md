@@ -18,7 +18,7 @@ We only use GitHub if it's only related with SUI, you don't need to open a ticke
 
 If you want to enhance an existing component and your proposal is compatible with existing features:
 
-[Open an "Improvement" in Github](https://github.com/SUI-Components/sui-components/issues/new?template=report-a-bug---issue.md).
+[Open an "Improvement" in Github](https://github.com/SUI-Components/sui-components/issues/new?assignees=&labels=&template=improve-and-existing-component.md).
 
 * Include all the possible information
 * When possible, start the discussion for Mobile 1st
