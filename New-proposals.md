@@ -42,7 +42,7 @@ It's time to deliver your solution, both in code and design asssets:
     * Figma UI Kit Brand
     * DS Guidelines in Lingo
 
-## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-5.png) Communicate broadly
+## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-5.png) Share
 
 Make sure that everyone is aware of the output of this discussion:
 

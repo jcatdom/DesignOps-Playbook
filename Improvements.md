@@ -10,7 +10,9 @@ If you want to enhance an existing component and your proposal is compatible wit
 
 [Use this template](https://github.com/SUI-Components/sui-components/issues/new?assignees=&labels=&template=improve-and-existing-component.md)
 
-## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-2.png) Make sure that everyone is aware of this improvement:
+## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-2.png) Share
+
+Make sure that everyone is aware of this improvement:
 
 * Write in slack [#sui-components](https://adevinta.slack.com/archives/C018Q6WBJ85)
 * Join our [Weekly Meeting](Weekly-streamings.md) (Twitch)
