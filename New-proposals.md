@@ -8,7 +8,7 @@ Share your ideas as soon as possible, it doesn't have to be perfect at this poin
 
 ## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-2.png) Work on your proposal and keep everyone synced
 
-Use [this Figma template](https://www.figma.com/file/gwZ74U8HHbPl3l5vbwHHrO/Template---Specs-for-Components?node-id=706%3A626) to structure your ideas and gather as much feedback as possible through:
+Use [this Figma template](https://www.figma.com/file/gwZ74U8HHbPl3l5vbwHHrO/Template---Specs-for-Components?node-id=706%3A626) to structure your ideas and gather as much feedback as possible:
 
 * The discussion notes
 * DesignOps [Weekly Meeting](Weekly-streamings.md) (Twitch)
