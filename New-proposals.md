@@ -40,9 +40,9 @@ It's time to deliver your solution, both in code and design asssets:
 
 ## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-5.png) Communicate broadly
 
-This is a crucial step of the process. Make sure proactively that everyone is aware of the changes introduced since you opened this discussion. Start here:
+Make sure that everyone is aware of the output of this discussion:
 
-* DesignOps [Weekly Meeting](Weekly-streamings.md) (Twitch)
-* Slack [#sui-components](https://adevinta.slack.com/archives/C018Q6WBJ85)
-* Team meetings
-* Etc
+* Write in slack [#sui-components](https://adevinta.slack.com/archives/C018Q6WBJ85)
+* Join our [Weekly Meeting](Weekly-streamings.md) (Twitch)
+* Use your team meetings
+* etc
