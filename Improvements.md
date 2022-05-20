@@ -1,8 +1,8 @@
 ---
-description: We've simplified all our processes to the very minimum to have you covered with just a few steps.
+description: We've simplified all our processes to 5 a maximum of steps.
 ---
 
-# Improvements 🪄
+# Improvements
 
 If you want to enhance an existing component and your proposal is compatible with existing features:
 
