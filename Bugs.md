@@ -1,10 +1,9 @@
 ---
 description: We've simplified all our processes to 5 a maximum of steps.
+If your issue is just related with SUI you don't need to open a ticket in Jira at this point.
 ---
 
 # Bugs and defects
-
-We only use GitHub if it's only related with SUI, you don't need to open a ticket in Jira at this point.
 
 ## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-1.png) Open an "Issue" in Github.
 
