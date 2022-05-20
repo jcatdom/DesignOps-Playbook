@@ -1,14 +1,14 @@
 # New proposals: Features and Components
 
-## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-1.png) Open a discussion, the sooner the better
+## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-1.png) Open a discussion
 
-Your proposal doesn’t have to be perfect at this point, just try to add as much information as possible
+Share your ideas as soon as possible, it doesn't have to be perfect at this point, just try to add as much information as possible.
 
 [Use this template](https://github.com/SUI-Components/sui-components/discussions/2125)
 
-## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-2.png) Work on your proposal, and keep everybody synced
+## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-2.png) Work on your proposal, and keep everyone synced
 
-Gather as much feedback as possible though these channels, use [this Figma template](https://www.figma.com/file/gwZ74U8HHbPl3l5vbwHHrO/Template---Specs-for-Components?node-id=706%3A626) to structure your ideas.
+Use [this Figma template](https://www.figma.com/file/gwZ74U8HHbPl3l5vbwHHrO/Template---Specs-for-Components?node-id=706%3A626) to structure your ideas and gather as much feedback as possible through:
 
 * The discussion notes
 * DesignOps [Weekly Meeting](Weekly-streamings.md) (Twitch)
