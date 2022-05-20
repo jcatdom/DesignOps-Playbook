@@ -1,3 +1,7 @@
+---
+description: We've simplified all our processes to the very minimum to have you covered with just a few steps.
+---
+
 # New proposals: Features and Components
 
 ## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-1.png) Open a discussion
