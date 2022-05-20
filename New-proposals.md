@@ -2,8 +2,6 @@
 description: We've simplified all our processes to 5 a maximum of steps.
 ---
 
-# New proposals: Features and Components
-
 ## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-1.png) Open a discussion
 
 Share your ideas as soon as possible, it doesn't have to be perfect at this point, just try to add as much information as possible.

@@ -4,9 +4,9 @@ description: We've simplified all our processes to 5 a maximum of steps.
 
 # Improvements
 
-If you want to enhance an existing component and your proposal is compatible with existing features:
-
 ## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-1.png) Open an "Improvement" in Github
+
+If you want to enhance an existing component and your proposal is compatible with existing features:
 
 [Use this template](https://github.com/SUI-Components/sui-components/issues/new?assignees=&labels=&template=improve-and-existing-component.md)
 
