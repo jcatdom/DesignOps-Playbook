@@ -21,23 +21,28 @@ Use [this Figma template](https://www.figma.com/file/gwZ74U8HHbPl3l5vbwHHrO/Temp
 
 ## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-3.png) Share the specs
 
-Link your Figma file in the discussion
+Link your Figma file in the discussion.
+Use the same [Figma template](https://www.figma.com/file/gwZ74U8HHbPl3l5vbwHHrO/Template---Specs-for-Components?node-id=706%3A626) you've worked with in the previous step. It contains tips and a handoff checklist to have you covered.
 
-## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-4.png) Deliver, Ship Show Ask
+## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-4.png) Delivery
 
-* Code
+It's time to deliver your solution, both in code and design asssets:
+
+* Code, Ship Show Ask
     * Features
     * Tests
     * Demo
 
-* Design
+* Design, Ship Show Ask
     * Figma UI Kit SUI
     * Figma UI Kit Brand
     * DS Guidelines in Lingo
 
-## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-5.png) Communicate the output broadly
+## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-5.png) Communicate broadly
 
-* DesignOps Weekly Sync (Twitch)
-* SUI Components (Slack)
+This is a crucial step of the process. Make sure proactively that everyone is aware of the changes introduced since you opened this discussion. Start here:
+
+* DesignOps [Weekly Meeting](Weekly-streamings.md) (Twitch)
+* Slack [#sui-components](https://adevinta.slack.com/archives/C018Q6WBJ85)
 * Team meetings
 * Etc
