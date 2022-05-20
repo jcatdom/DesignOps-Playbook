@@ -1,14 +1,18 @@
 ---
-description: We've simplified all our processes to the very minimum to have you covered with just a few steps.
+description: >-
+  We've simplified all our processes to the very minimum to have you covered
+  with just a few steps;
 ---
 
-# Improvements 🪄
+# Improvements
 
-If you want to enhance an existing component and your proposal is compatible with existing features:
+
 
 ## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-1.png) Open an "Improvement" in Github
 
-[Use this template](https://github.com/SUI-Components/sui-components/issues/new?assignees=&labels=&template=improve-and-existing-component.md)
+If you want to enhance an existing component, and your proposal is compatible with existing features:
+
+[Use this template](https://github.com/SUI-Components/sui-components/issues/new?assignees=\&labels=\&template=improve-and-existing-component.md)
 
 ## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-2.png) Make sure that everyone is aware of this improvement:
 
