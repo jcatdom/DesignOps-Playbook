@@ -13,7 +13,7 @@
 * [Contributing](Contributing.md)
   * [Bugs](Bugs.md)
   * [Improvements](Improvements.md)
-  * [New proposals, Features and Components](New-proposals.md)
+  * [New Components](New-proposals.md)
   * [Branching and Forking](Branching-and-Forking.md)
   * [Troubleshooting](Troubleshooting.md)
   * [Tutorials](Tutorials.md)
