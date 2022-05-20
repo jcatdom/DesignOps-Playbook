@@ -1,4 +1,4 @@
-# 🌚 New proposals: Freatures and Components
+# New proposals: Features and Components
 
 ## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-1.png) Open a discussion, the sooner the better
 
