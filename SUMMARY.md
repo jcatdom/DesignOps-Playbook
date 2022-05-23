@@ -11,7 +11,7 @@
   * [Naming convention](Naming-convention.md)
   * [Design System](Design-System.md)
 * [Contributing](Contributing.md)
-  * [Bugs](Bugs.md)
+  * [🐞 Bugs](Bugs.md)
   * [Improvements](Improvements.md)
   * [New Components](New-proposals.md)
   * [Branching and Forking](Branching-and-Forking.md)
