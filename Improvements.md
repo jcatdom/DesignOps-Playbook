@@ -10,7 +10,7 @@ If you want to enhance an existing component and your proposal is compatible wit
 
 [Use this template](https://github.com/SUI-Components/sui-components/issues/new?assignees=&labels=&template=improve-and-existing-component.md)
 
-## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-2.png) Share
+ <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-2.png" alt="" data-size="line"> Share
 
 Make sure that everyone is aware of this improvement:
 
