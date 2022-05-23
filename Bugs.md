@@ -6,11 +6,11 @@ description: >-
 
 # Bugs
 
-## <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-1.png" alt="" data-size="line"> Open an "Issue" in Github.
+# <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-1.png" alt="" data-size="line"> Open an "Issue" in Github.
 
 [Use this Template](https://github.com/SUI-Components/sui-components/issues/new?template=report-a-bug---issue.md)
 
-## <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-2.png" alt="" data-size="original"> Share
+# <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-2.png" alt="" data-size="original"> Share
 
 Make sure that everyone is aware of this bug:
 
