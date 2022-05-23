@@ -47,6 +47,10 @@ Make sure that everyone is aware of the output of this discussion:
 
 # FAQs
 
+## Can I open a discussion without having a prototype or code to show?
+
+Yes, the sooner the better. Just make make you add enough context and examples to kickstart a conversation.
+
 ## Who codes the proposed component?
 
 Is it DesignOps or a Product Team? In general terms, the product team requesting the new feature.
@@ -61,9 +65,17 @@ You don't need to have an answer right away, in most of the cases we figure this
 
 If your request is compatible with an existing feature and component we will create an issue type improvement, and close the discussion.
 
-## Do we have channels in slack for all the components?
+## What are the steps and rules for a Discussion to progress?
 
-Not yet, it's a new way of storing our decisions. We open a dedicated channel in Slack as soon as we detect the need to save the whole thread of conversations.
+We don't have fixed rules. Each discussion is unique and needs unique conversations, to involve different people and resolve different conflicts before moving forward or being discarded.
+
+## Do I have to create a #component channel in Slack?
+
+No, we do as soon as we detect the need to save a whole thread of the conversations.
+
+## Are there channels for all the components?
+
+Not yet, it's a relativelly new way of storing conversations and information.
 
 ## Is it mandatory to ALWAYS start a new request with a Discussion?
 
@@ -73,3 +85,9 @@ Yes. Although there will always be some work and chat before the official reques
 
 Always. We will not prioritise discussion without comments from both parts.
 We suggest you mention @him/her to get their attention. 
+
+## When do you discuss about new proposals?
+
+We engage with the discussion as soon as published, and start to action touchpoints and adHoc meetings depending on each case and urgency.
+
+We strongly recommend you to come to our DesignOps [Weekly Meetings](Weekly-streamings.md), and also to ask for contributions through our channels in Slack (i.e.[#sui-components](https://adevinta.slack.com/archives/C018Q6WBJ85))
