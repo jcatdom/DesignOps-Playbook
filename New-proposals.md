@@ -84,10 +84,16 @@ Yes. Although there will always be some work and chat before the official reques
 ## Do I need to sync with Dev and UX before developing something new?
 
 Yes, It's always a good idea to understand the possibilities and constraints of the other side upfront. 
-We will not prioritise any discussion without comments from both parts. 
+We will not prioritise any discussion without comments from both, designers and developers.
 
 ## When do you discuss about new proposals?
 
 We engage with the discussion as soon as published, and start to action touchpoints and adHoc meetings depending on each case and urgency.
 
 We strongly recommend you to come to our DesignOps [Weekly Meetings](Weekly-streamings.md), and also to ask for contributions through our channels in Slack (i.e.[#sui-components](https://adevinta.slack.com/archives/C018Q6WBJ85))
+
+## What if my discussion has no traction, no conversations and is forgotten?
+
+If you really need the discussion to progress, engage more people and loop relevant profiles in the conversation. 
+
+If not, don't worry, we don't delete conversations and will probably be helpfull at some point when someone else has the same idea or need.
