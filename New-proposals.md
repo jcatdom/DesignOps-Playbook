@@ -31,9 +31,9 @@ Link your Figma file in the discussion. Use the same [Figma template](https://ww
 
 It's time to deliver your solution, both in code and design assets:
 
-| 🤖 Code                                                      | 🦄 Design                                                                                           |
+| 🤖 **Code**                                                      | 🦄 **Design**                                                                                           |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| <p></p><ul><li>Features</li><li>Tests</li><li>Demo</li></ul> | <p></p><ul><li>Figma UI Kit SUI</li><li>Figma UI Kit Brand</li><li>DS Guidelines in Lingo</li></ul> |
+| <ul><li>Features</li><li>Tests</li><li>Demo</li></ul> | <ul><li>Figma UI Kit SUI</li><li>Figma UI Kit Brand</li><li>DS Guidelines in Lingo</li></ul> |
 
 ## <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-5.png" alt="" data-size="line"> Communicate
 
