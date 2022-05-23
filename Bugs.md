@@ -1,14 +1,15 @@
 ---
-description: >-
-  We've simplified all our processes to 5 maximum steps. If your issue is just
-  related to SUI you don't need to open a ticket in Jira at this point.
+description: We've simplified all our processes to 5 maximum steps.
 ---
 
 # Bugs
 
 ## <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-1.png" alt="" data-size="line"> Open an issue in Github
 
+You don't need to open a ticket in Jira if your issue is just related to SUI.
+
 [Use this Template](https://github.com/SUI-Components/sui-components/issues/new?template=report-a-bug---issue.md)
+
 
 ## <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-2.png" alt="" data-size="line"> Share
 
