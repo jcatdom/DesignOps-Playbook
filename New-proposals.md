@@ -65,3 +65,11 @@ If your request is compatible with an existing feature and component we will cre
 
 Not yet, it's a new way of storing our decisions. We open a dedicated channel in Slack as soon as we detect the need to save the whole thread of conversations.
 
+## Is it mandatory to ALWAYS start a new request with a Discussion?
+
+Yes. Although there will always be some work and chat before the official request, a Discussion is the 1st formal step. Our discussions' template helps us organising ideas, tracking conversations and prioritising work.
+
+## Do I need to sync with Dev and UX before developing a new component?
+
+Always. We will not prioritise discussion without comments from both parts.
+We suggest you mention @him/her to get their attention. 
