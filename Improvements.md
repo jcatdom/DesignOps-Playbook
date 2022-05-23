@@ -1,10 +1,10 @@
 ---
-description: We've simplified all our processes to 5 a maximum of steps.
+description: We've simplified all our processes to 5 maximum steps.
 ---
 
-# Improvements
+# Bugs
 
-## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-1.png) Open an "Improvement" in Github
+## <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-1.png" alt="" data-size="line"> Open an "Improvement" in Github
 
 If you want to enhance an existing component and your proposal is compatible with existing features:
 

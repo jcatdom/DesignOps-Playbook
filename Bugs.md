@@ -1,6 +1,6 @@
 ---
 description: >-
-  We simplified all our processes to 5 maximum steps. If your issue is just
+  We've simplified all our processes to 5 maximum steps. If your issue is just
   related to SUI you don't need to open a ticket in Jira at this point.
 ---
 
