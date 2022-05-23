@@ -2,9 +2,11 @@
 description: We've simplified all our processes to 5 a maximum of steps.
 ---
 
+# New Components and Features 
+
 ## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-1.png) Open a discussion
 
-Share your ideas as soon as possible, it doesn't have to be perfect at this point, just try to add as much information as possible.
+Share your ideas as soon as possible, they don't have to be perfect at this point, just make sure you add as much information and context as possible.
 
 [Use this template](https://github.com/SUI-Components/sui-components/discussions/2125)
 
@@ -40,7 +42,7 @@ It's time to deliver your solution, both in code and design asssets:
     * Figma UI Kit Brand
     * DS Guidelines in Lingo
 
-## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-5.png) Communicate broadly
+## ![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-5.png) Share
 
 Make sure that everyone is aware of the output of this discussion:
 
