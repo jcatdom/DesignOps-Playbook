@@ -43,3 +43,25 @@ Make sure that everyone is aware of the output of this discussion:
 * Join our [Weekly Meeting](Weekly-streamings.md) (Twitch)
 * Use your team meetings
 * etc
+
+
+# FAQs
+
+## Who codes the proposed component?
+
+Is it DesignOps or a Product Team? In general terms, the product team requesting the new feature.
+
+## Are all component proposals coded in SUI?
+
+Not always. We always discuss about it, of it's generic enough as to be part of SUI Components, or needs to be coded as a snowflake or drop of water by the brand.
+
+## How do I know if I need a new component or just a new feature?
+
+You don't need to have an answer right away, in most of the cases we figure this out during the discussion.
+
+If your request is compatible with an existing feature and component we will create an issue type improvement, and close the discussion.
+
+## Do we have channels in slack for all the components?
+
+Not yet, it's a new way of storing our decisions. We open a dedicated channel in Slack as soon as we detect the need to save the whole thread of conversations.
+
