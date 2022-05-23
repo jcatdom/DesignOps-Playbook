@@ -94,6 +94,7 @@
     * [Projects organisation](Projects-organisation.md)
   * [Content guidelines](Content-guidelines.md)
 * [Community](Community.md)
+  * [Advocate](Advocate.md)
   * [Roadmap](Roadmap.md)
   * [Our Mission and Vision](Our-Mission-and-Vision.md)
   * [Values and Principles](Values-and-Principles.md)

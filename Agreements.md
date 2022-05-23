@@ -1,6 +1,6 @@
 # Our Agreements
 
-These are our current working agreements:
+We've been working together for a long time now, these are our current working agreements:
 
 ### Feedback
 
