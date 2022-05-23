@@ -47,58 +47,58 @@ Make sure that everyone is aware of the output of this discussion:
 
 # FAQs
 
-### Can I open a discussion without having a prototype or code to show?
+## Can I open a discussion without having a prototype or code to show?
 
 Yes, the sooner the better. Just make make you add enough context and examples to kickstart a conversation.
 
-### Who codes the proposed component? Is it DesignOps or a Product Team? 
+## Who codes the proposed component? Is it DesignOps or a Product Team? 
 
 In general terms, both. 
 
 In our contribution model the product team requesting the new feature should code it with support from DesignOps, but we don't have a thick line to devide the work wither. It depends on the capacity of DesignOps at at the specific moment in time, and the urgency to develop the feature.
 
-### What's the prority of each request?
+## What's the prority of each request?
 
 It depends on the priority and capacity of your team. You (Designer and Developer) have to include the development in your backlog. 
 
-### Are all component proposals coded in SUI?
+## Are all component proposals coded in SUI?
 
 Not always. We always discuss about it, of it's generic enough as to be part of SUI Components, or needs to be coded as a snowflake or drop of water by the brand.
 
-### How do I know if I need a new component or just a new feature?
+## How do I know if I need a new component or just a new feature?
 
 You don't need to have an answer right away, in most of the cases we figure this out during the discussion.
 
 If your request is compatible with an existing feature and component we will create an issue type improvement, and close the discussion.
 
-### What are the steps and rules for a Discussion to progress?
+## What are the steps and rules for a Discussion to progress?
 
 We don't have fixed rules. Each discussion is unique and needs unique conversations, to involve different people and resolve different conflicts before moving forward or being discarded.
 
-### Do I have to create a #component channel in Slack?
+## Do I have to create a #component channel in Slack?
 
 No, we do as soon as we detect the need to save a whole thread of the conversations.
 
-### Are there channels for all the components?
+## Are there channels for all the components?
 
 Not yet, it's a relativelly new way of storing conversations and information.
 
-### Is it mandatory to ALWAYS start a new request with a Discussion?
+## Is it mandatory to ALWAYS start a new request with a Discussion?
 
 Yes. Although there will always be some work and chat before the official request, a Discussion is the 1st formal step. Our discussions' template helps us organising ideas, tracking conversations and prioritising work.
 
-### Do I need to sync with Dev and UX before developing something new?
+## Do I need to sync with Dev and UX before developing something new?
 
 Yes, It's always a good idea to understand the possibilities and constraints of the other side upfront. 
 We will not prioritise any discussion without comments from both, designers and developers.
 
-### When do you discuss about new proposals?
+## When do you discuss about new proposals?
 
 We engage with the discussion as soon as published, and start to action touchpoints and adHoc meetings depending on each case and urgency.
 
 We strongly recommend you to come to our DesignOps [Weekly Meetings](Weekly-streamings.md), and also to ask for contributions through our channels in Slack (i.e.[#sui-components](https://adevinta.slack.com/archives/C018Q6WBJ85))
 
-### What if my discussion has no traction, no conversations and is forgotten?
+## What if my discussion has no traction, no conversations and is forgotten?
 
 If you really need the discussion to progress, engage more people and loop relevant profiles in the conversation. 
 
