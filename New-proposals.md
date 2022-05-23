@@ -51,9 +51,15 @@ Make sure that everyone is aware of the output of this discussion:
 
 Yes, the sooner the better. Just make make you add enough context and examples to kickstart a conversation.
 
-## Who codes the proposed component?
+## Who codes the proposed component? Is it DesignOps or a Product Team? 
 
-Is it DesignOps or a Product Team? In general terms, the product team requesting the new feature.
+In general terms, both. 
+
+In our contribution model the product team requesting the new feature should code it with support from DesignOps, but we don't have a thick line to devide the work wither. It depends on the capacity of DesignOps at at the specific moment in time, and the urgency to develop the feature.
+
+## What's the prority of each request?
+
+It depends on the priority and capacity of your team. You (Designer and Developer) have to include the development in your backlog. 
 
 ## Are all component proposals coded in SUI?
 
