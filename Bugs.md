@@ -2,7 +2,7 @@
 description: We've simplified all our processes to 5 maximum steps.
 ---
 
-# Bugs
+# 🐞 Bugs
 
 ## <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-1.png" alt="" data-size="line"> Open an issue in Github
 
