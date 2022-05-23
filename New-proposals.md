@@ -10,7 +10,7 @@ Share your ideas as soon as possible, they don't have to be perfect at this poin
 
 [Use this template](https://github.com/SUI-Components/sui-components/discussions/2125)
 
-## <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-2.png" alt="" data-size="line"> Work on your proposal (and keep everyone synced)
+## <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-2.png" alt="" data-size="line"> Work on your proposal (and keep everyone in sync)
 
 Use [this Figma template](https://www.figma.com/file/gwZ74U8HHbPl3l5vbwHHrO/Template---Specs-for-Components?node-id=706%3A626) to structure your ideas and gather as much feedback as possible:
 
@@ -31,8 +31,8 @@ Link your Figma file in the discussion. Use the same [Figma template](https://ww
 
 It's time to deliver your solution, both in code and design assets:
 
-| 🤖 **Code**                                                      | 🦄 **Design**                                                                                           |
-| ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| 🤖 **Code**                                           | 🦄 **Design**                                                                                |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | <ul><li>Features</li><li>Tests</li><li>Demo</li></ul> | <ul><li>Figma UI Kit SUI</li><li>Figma UI Kit Brand</li><li>DS Guidelines in Lingo</li></ul> |
 
 ## <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-5.png" alt="" data-size="line"> Communicate
