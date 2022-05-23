@@ -81,10 +81,10 @@ Not yet, it's a relativelly new way of storing conversations and information.
 
 Yes. Although there will always be some work and chat before the official request, a Discussion is the 1st formal step. Our discussions' template helps us organising ideas, tracking conversations and prioritising work.
 
-## Do I need to sync with Dev and UX before developing a new component?
+## Do I need to sync with Dev and UX before developing something new?
 
-Always. We will not prioritise discussion without comments from both parts.
-We suggest you mention @him/her to get their attention. 
+Yes, It's always a good idea to understand the possibilities and constraints of the other side upfront. 
+We will not prioritise any discussion without comments from both parts. 
 
 ## When do you discuss about new proposals?
 
