@@ -45,6 +45,6 @@ Regardless of your discipline, you can contribute with small and medium improvem
 
 ### Related content
 
-{% content-ref url="Bugs.md" %}
-[Bugs.md](Bugs.md)
+{% content-ref url="../Bugs.md" %}
+[Bugs.md](../Bugs.md)
 {% endcontent-ref %}

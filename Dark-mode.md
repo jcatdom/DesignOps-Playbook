@@ -4,4 +4,4 @@ None of our web applications have _Dark mode_ (for the moment) and we don't have
 
 **Do we have Dark mode in Apps?**
 
-Although several verticals have defined _Dark mode_ for their Apps, only InfoJobs has implemented it in iOS while Android is defined and partially applied but only into refactored screens. We won't do the roll out until everything is refactored, to prevent users from a poor mixed experience. 
+Although several verticals have defined _Dark mode_ for their Apps, only InfoJobs has implemented it in iOS while Android is defined and partially applied but only into refactored screens. We won't do the rollout until everything is refactored, to prevent users from a poor mixed experience.
