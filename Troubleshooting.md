@@ -14,23 +14,34 @@ If you need urgent assistance contact a maintainer through any channel.
 
 - Check the status at [status.figma.com](https://status.figma.com/)
 - Share the problem in Slack through [#tool-figma](https://adevinta.slack.com/archives/C01M4VBS744)
-- Share in [#es-designops](https://adevinta.slack.com/archives/G01ETB0PNMC)
+- Share in [#es-designops-community](https://adevinta.slack.com/archives/C01FCMJ9ZUZ)
 - Contact [@turo](https://adevinta.slack.com/archives/D017VLGFLMV)
 
 ### Broken UI Kit
 
-- Contact your Design-Ops or [@turo](https://adevinta.slack.com/archives/D017VLGFLMV)
-- Share in [#es-designops](https://adevinta.slack.com/archives/G01ETB0PNMC)
+- Contact your DesignOps or [@turo](https://adevinta.slack.com/archives/D017VLGFLMV)
+- Ask in [#es-designops-community](https://adevinta.slack.com/archives/C01FCMJ9ZUZ)
 - Check the changelog in Figma, if you know what changed get in contact with the person who caused it
 
 ## Tools and Credentials
 
+### I can't connect Adobe Photoshop
+
+If you had an email with @schibsted before, Adobe Anaytics and Creative Cloud licences conflicted. Try signing-in with your work email address (@adevinta.com) but **not** with the company account.
+
+If you still can't log in:
+
+- Contact your DesignOps or [@turo](https://adevinta.slack.com/archives/D017VLGFLMV)
+- Ask in [#es-designops-community](https://adevinta.slack.com/archives/C01FCMJ9ZUZ)
+- Create a ticket in Assyst
+
 ### I lost access to a tool
 
-- Contact [@turo](https://adevinta.slack.com/archives/D017VLGFLMV)
-- Ask in [#es-designops](https://adevinta.slack.com/archives/G01ETB0PNMC)
+- Contact your DesignOps or [@turo](https://adevinta.slack.com/archives/D017VLGFLMV)
+- Ask in [#es-designops-community](https://adevinta.slack.com/archives/C01FCMJ9ZUZ)
+- Create a ticket in Assyst
 
-## SUI Components and Tools
+## SUI Components
 
 ### I've found a bug in my App produced by a change in SUI
 
