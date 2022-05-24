@@ -17,18 +17,11 @@ Our role emerges from the need to reduce friction and stress in our processes an
 
 ## Responsibilities
 
-- We give service to the teams, without making strategic decisions for them. Each product is responsible for their product.
-- We help creating the Visual language of each brand, although the decisions are made by the brand and not DesignOps.
-- We provide UI Kits, Components and Tools for designers to use, but we don't design for them.
-- We firefight as soon as possible when something needs us.
-- We create processes and make all possible efforts to implement them, although its each team's responsibility to follow the rules.
-- 
-Detect ineficiencies
-Repeat like crazy
-Document
-We don't design
-Ensure our tools uptime
-We define the visual language of each team
-Guidelines
-Visibility of acuerdos
-Transparency
+- We give service to the teams, without making strategic decisions for them. Each product is responsible for their product
+- We help creating the Visual language of each brand, although the decisions are made by the brand and not DesignOps
+- We provide UI Kits, Components and Tools for designers to use, but we don't design for them
+- We ensure uptime, and firefight as soon as possible when something goes wrong
+- We create processes and make all possible efforts to implement them, although its each team's responsibility to follow the rules
+- We act to remove ineficiencies
+- We document every agreement, and request Designers and Developers to document as well
+- We ensure the transparency of our agreements
