@@ -19,5 +19,3 @@ To foster a strong customer-centric culture in Adevinta by constantly learning a
 ### DesignOps Mission
 
 To improve the Speed, Quality, and Ease of use of the design and development workflow, by creating and optimising tools, design systems, processes, and guidelines.
-
-> Our support to the UX Team Vision emerges from the need to reduce friction and stress in our processes and technology, bridging the gap between Developers and Designers with clear communication and a common languaje, while improving our focus on native applications.
