@@ -93,7 +93,7 @@
   * [About us](About-us.md)
   * [Mission and Vision](Our-Mission-and-Vision.md)
   * [Values and principles](Values-and-Principles.md)
-  * [Roles and responsibilities](Roles-and-Responsibilities.md)
+  * [Roles and responsibilities](Role-and-Responsibilities.md)
   * [Our meetings](Meetings.md)
   * [Roadmap](Roadmap.md)
   * [Contact us](Contact-us.md)
