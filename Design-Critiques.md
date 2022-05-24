@@ -1,3 +1,0 @@
-# DesignCritique
-
-<!-- soon -->
