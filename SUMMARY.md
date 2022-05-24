@@ -110,4 +110,3 @@
   * [Figma Plugins](Plugins.md)
   * [Figma UI Kits](Figma-UI-Kits.md)
   * [Tutorials](Tutorials.md)
-  * [Content guidelines](Content-guidelines.md)
