@@ -107,6 +107,5 @@
   * [Slack](Slack.md)
 * [Resources](Resources.md)
   * [Figma](Figma.md)
-  * [Figma Plugins](Plugins.md)
-  * [Figma UI Kits](Figma-UI-Kits.md)
-  * [Tutorials](Tutorials.md)
+  * [Plugins](Plugins.md)
+  * [UI Kits](Figma-UI-Kits.md)
