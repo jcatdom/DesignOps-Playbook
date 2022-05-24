@@ -1,10 +1,8 @@
-## Role and Responsibilities
+# Role and Responsibilities
 
 We take care of the operational efforts to enable Designers and Developers to focus on improving our products.
 
 Our role emerges from the need to reduce friction and stress in our processes and technology, bridging the gap between Developers and Designers with clear communication and a common languaje, while improving our focus on native applications.
-
-## Our role
 
 - We help designers and developers to work faster
 - We simplify design and development workflows
