@@ -1,7 +1,6 @@
 ---
 description: >-
-  We have a single Vision as a Team, and all teams have unique Missions to
-  support it.
+  We have a single Vision, and each team has a unique Mission to support it.
 ---
 
 # Mission and Vision
