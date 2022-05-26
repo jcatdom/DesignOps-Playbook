@@ -91,7 +91,7 @@
   * [Testing](Testing.md)
 * [DesignOps team](DesignOps-Team.md)
   * [About us](About-us.md)
-  * [Mission and Vision](Our-Mission-and-Vision.md)
+  * [Vision and Missions](Our-Mission-and-Vision.md)
   * [Values and principles](Values-and-Principles.md)
   * [Our meetings](Meetings.md)
   * [Roadmap](Roadmap.md)
