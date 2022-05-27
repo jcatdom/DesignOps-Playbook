@@ -2,28 +2,17 @@
 description: Naming is hard, please follow these rules
 ---
 
-# Naming convention
+## Colours
 
-### Colours
+{% hint style="success" %}
+`Alert`
+{% endhint %}
 
-<table>
-    <tr>
-        <td>
-            {% hint style="success" %}
-            `Alert`
-            {% endhint %}
-        </td>
-    </tr>
-    <tr>
-        <td>
-            {% hint style="danger" %}
-            `Warning`
-            {% endhint %}
-        </td>
-    </tr>
-</table>
+{% hint style="danger" %}
+`Warning`
+{% endhint %}
 
-### Size and Spacing
+## Size and Spacing
 
 We use T-shirt convention
 
@@ -45,5 +34,6 @@ We use T-shirt convention
 
 {% hint style="danger" %}
 * `with[whatever]` Because in React, the prefix `with` is used for HoC
-* `use[whatever]` Because in React, the prefix `use` is used for hooks
+* `use[whatever]` Because in React,  the prefix `use` is used for hooks
 {% endhint %}
+
