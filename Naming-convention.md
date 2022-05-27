@@ -2,8 +2,6 @@
 description: Naming is hard, please follow these rules
 ---
 
-# Naming convention
-
 ## Colours
 
 {% hint style="success" %}
