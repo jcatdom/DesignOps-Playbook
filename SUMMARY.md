@@ -61,7 +61,6 @@
     * [Definition of Done](DoD.md)
     * [Definition of Ready](DoR.md)
     * [Reset and Normalise](Reset-and-Normalise.md)
-    * [useSomething](useSomething.md)
     * [Declarative approach](Declarative-approach.md)
     * [TypeScript](TypeScript.md)
     * [Deprecation](Deprecation.md)
