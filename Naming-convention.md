@@ -2,7 +2,15 @@
 description: Naming is hard, please follow these rules
 ---
 
-## Colours
+# Naming convention
+
+### Colours
+
+| Do |    |
+| -- | -- |
+| as | as |
+| as | as |
+| as | as |
 
 {% hint style="success" %}
 `Alert`
@@ -12,7 +20,7 @@ description: Naming is hard, please follow these rules
 `Warning`
 {% endhint %}
 
-## Size and Spacing
+### Size and Spacing
 
 We use T-shirt convention
 
@@ -25,7 +33,7 @@ We use T-shirt convention
 * `SM` `MD` `LG` `XL`
 {% endhint %}
 
-# Boolean props
+## Boolean props
 
 {% hint style="success" %}
 * `is[whatever]`
@@ -34,6 +42,5 @@ We use T-shirt convention
 
 {% hint style="danger" %}
 * `with[whatever]` Because in React, the prefix `with` is used for HoC
-* `use[whatever]` Because in React,  the prefix `use` is used for hooks
+* `use[whatever]` Because in React, the prefix `use` is used for hooks
 {% endhint %}
-
