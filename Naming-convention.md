@@ -6,19 +6,21 @@ description: Naming is hard, please follow these rules
 
 ### Colours
 
-| Do |    |
+| Do | Don't   |
 | -- | -- |
-| as | as |
-| as | as |
-| as | as |
-
-{% hint style="success" %}
+| {% hint style="success" %}
 `Alert`
-{% endhint %}
-
-{% hint style="danger" %}
+{% endhint %} | {% hint style="danger" %}
 `Warning`
-{% endhint %}
+{% endhint %} |
+| as | as |
+| as | as |
+
+| {% hint style="success" %}
+`Alert`
+{% endhint %} | {% hint style="danger" %}
+`Warning`
+{% endhint %} |
 
 ### Size and Spacing
 
