@@ -6,21 +6,22 @@ description: Naming is hard, please follow these rules
 
 ### Colours
 
-| Do | Don't   |
-| -- | -- |
-| {% hint style="success" %}
-`Alert`
-{% endhint %} | {% hint style="danger" %}
-`Warning`
-{% endhint %} |
-| as | as |
-| as | as |
-
-| {% hint style="success" %}
-`Alert`
-{% endhint %} | {% hint style="danger" %}
-`Warning`
-{% endhint %} |
+<table>
+    <tr>
+        <td>
+            {% hint style="success" %}
+            `Alert`
+            {% endhint %}
+        </td>
+    </tr>
+    <tr>
+        <td>
+            {% hint style="danger" %}
+            `Warning`
+            {% endhint %}
+        </td>
+    </tr>
+</table>
 
 ### Size and Spacing
 
