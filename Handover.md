@@ -11,6 +11,3 @@ Don't optimise the weight of images before upload, the compression is done autom
 {% endhint %}
 
 ## Icons
-
-- [x] I have one
-- [ ] I have another one
