@@ -12,4 +12,6 @@ Don't optimise the weight of images before upload, the compression is done autom
 
 ## Icons
 
+<input type="checkbox" disabled="disabled"></i>
 
+<input type="checkbox" disabled="disabled" checked="checked"></i>
