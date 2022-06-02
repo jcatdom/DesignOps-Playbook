@@ -7,10 +7,12 @@ description: >-
 # QA and UX Review guidelines
 
 {% hint style="success" %}
-Use the `Figma 🦸🏻‍♀️ Handoff and QA Checklists` components in the UX Team library
+Use the components `Figma Handoff` and `QA Checklists` from the UX Team library
+
+<img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/QA-components.png" alt="QA Components">
 {% endhint %}
 
-<img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/QA-components.png" alt="QA Components" data-size="line">
+
 
 ## Tips
 
