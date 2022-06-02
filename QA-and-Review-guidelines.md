@@ -6,6 +6,12 @@ description: >-
 
 # QA and UX Review guidelines
 
+{% hint style="success" %}
+Use the `Figma 🦸🏻‍♀️ Handoff and QA Checklists` components in the UX Team library
+{% endhint %}
+
+<img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/QA-components.png" alt="QA Components" data-size="line">
+
 ## Tips
 
 * Be kind
@@ -19,11 +25,4 @@ description: >-
 * Add context in your comments (links, device, etc)
 * Record your feedback in Jira Tickets
 * What goes into production is more important than the lines in the Code and the Figma files
-
-{% hint style="success" %}
-Use the `Figma 🦸🏻‍♀️ Handoff and QA Checklists` components in the UX Team library
-<img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/QA-components.png" alt="QA Components" data-size="line">
-{% endhint %}
-
-## Windows
 
