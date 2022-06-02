@@ -21,7 +21,7 @@ Use the components `Figma Handoff` and `QA Checklists` from the UX Team library
 * Record your feedback in Jira Tickets
 {% endhint %}
 
-{% hint style="success" %}
+{% hint style="danger" %}
 * Don’t let your team skip UX Review in DoD
 * Pixel perfection in Figma files is less important than pixel perfection in production
 {% endhint %}
