@@ -1,20 +1,18 @@
 ---
-description: >-
-  We have a single Vision for the team, and unique missions that give support to
-  it from different angles
+description: Guidelines for quality assurance
 ---
 
-# QA and UX Review guidelines
+# QA and UX checks
 
 Use the components `Figma Handoff` and `QA Checklists` from the UX Team library
 
-<img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/QA-components.png" alt="QA Components">
+![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/QA-components.png)
 
 ## Tips
 
 {% hint style="success" %}
 * Be kind
-* Share what you think, sincerelly
+* Share what you think, sincerely
 * Review dev work as soon as possible
 * Give feedback soon and often
 * Run the 1st review from a Mobile device
@@ -23,7 +21,7 @@ Use the components `Figma Handoff` and `QA Checklists` from the UX Team library
 * Record your feedback in Jira Tickets
 {% endhint %}
 
-{% hint style="danger" %}
-* Don’t let your team skip UX Review in DoD
-* Pixel perfection in Figma files is less important than pixel perfection in production
+{% hint style="success" %}
+* [ ] Don’t let your team skip UX Review in DoD
+* [ ] Pixel perfection in Figma files is less important than pixel perfection in production
 {% endhint %}
