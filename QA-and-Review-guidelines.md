@@ -22,6 +22,6 @@ Use the components `Figma Handoff` and `QA Checklists` from the UX Team library
 {% endhint %}
 
 {% hint style="success" %}
-* [ ] Don’t let your team skip UX Review in DoD
-* [ ] Pixel perfection in Figma files is less important than pixel perfection in production
+* Don’t let your team skip UX Review in DoD
+* Pixel perfection in Figma files is less important than pixel perfection in production
 {% endhint %}
