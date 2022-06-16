@@ -1,9 +1,8 @@
 # Figma UI Kits 
 
-En Adevinta disponemos de UI Kits en Team Libraries de Figma para acelerar los procesos de diseño. Están estructurados con nuestro [sistema atómico](https://github.com/turolopezsanabria/design-systems-playbook/blob/chris/Atomic-design.md) y nos permiten tener una estructura reutilizable, escalable y que nos proporciona consistencia en nuestros productos. 
+En Adevinta disponemos de UI Kits en Team Libraries de Figma para acelerar los procesos de diseño. Están estructurados con nuestro [sistema atómico](https://design-systems.gitbook.io/design-systems-playbook/atomic-design) y nos permiten tener una estructura reutilizable, escalable y que nos proporciona consistencia en nuestros productos. 
 
-![](https://github.com/turolopezsanabria/design-systems-playbook/blob/chris/ASSETS/figma-1.png?raw=true)
-> *UI Kits Adevinta*
+![UI Kits Adevinta](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-1.png)
 
 ## Estructura Adevinta
 
@@ -11,13 +10,11 @@ En Adevinta disponemos de UI Kits en Team Libraries de Figma para acelerar los p
 
 Cada vertical cuenta con las librerías necesarias para trabajar sus proyectos y dispone de ellas de forma automática cuando se empieza un nuevo archivo.
 
-![](https://github.com/turolopezsanabria/design-systems-playbook/blob/chris/ASSETS/figma-2.png?raw=true)
-> *Ejemplo de librerías automáticas en Figma*
+![Ejemplo librerías automáticas en Figma](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-2.png)
 	
 Puedes desactivar los UI Kits que no necesites para un proyecto y así hacer foco en los que sí vas a utilizar. Podrás reactivarlos más adelante si por ejemplo, el proyecto crece a otra plataforma y necesitas hacer uso de otro UI Kit.
 
-![](https://github.com/turolopezsanabria/design-systems-playbook/blob/chris/ASSETS/figma-3.png?raw=true)
-> *Activar/Desactivar librerías en Figma*
+![Activar/Desactivar librerías en Figma](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-3.png)
 
 ## Uso de componentes
 
@@ -25,8 +22,7 @@ Puedes desactivar los UI Kits que no necesites para un proyecto y así hacer foc
 
 Las instancias son copias de componentes reutilizables en diseño (las verás representadas en Layers con un rombo lila vacío). Están ligadas a un componente de origen (ya sea de una librería o  del propio documento) y recibirán todas las actualizaciones que se hagan sobre el componente.
 
-![](https://github.com/turolopezsanabria/design-systems-playbook/blob/chris/ASSETS/figma-4.png?raw=true)
-> *Ejemplo de componente e instancias*
+![Ejemplo de componente e instancias](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-4.png)
 
 Estas instancias permiten customizar el contenido en cada copia (icono, texto..).
 Si necesitas cambiar espaciado de los elementos, su orden o añadir un nuevo elemento, deberás hacerlo desde el propio componente (más info debajo en Iteración de componente). 
@@ -36,16 +32,19 @@ Si necesitas cambiar espaciado de los elementos, su orden o añadir un nuevo ele
 
 Algunos de los componentes cuentan con variables de customización. Cuando tengas seleccionada  una instancia de un componente, verás qué posibilidades permite en el sidebar de la derecha.
 
-![](https://github.com/turolopezsanabria/design-systems-playbook/blob/chris/ASSETS/figma-5.png?raw=true)
-> *Ejemplo de variables en componente*
+![Ejemplo de variables en componentes](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-5.png)
 
 Puede que los componentes además cuenten con componentes anidados. Haciendo doble click sobre un elemento, podrás ver si dispone de más opciones de customización con sus respectivas variables.
 
-![](https://github.com/turolopezsanabria/design-systems-playbook/blob/chris/ASSETS/figma-6.png?raw=true)
-> *Ejemplo de variables anidadas en componente*
+![Ejemplo de variables anidadas en componentes](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-6.png)
 
-ℹ️ Algunos componentes no tienen representadas todas sus variaciones (p.e: los Buttons en SUI Components no representan los estados desabilitados). Si necesitas mostrar un estado no diseñado en un ejemplo específico del diseño, puedes crearlo cambiando las propiedades de esa instancia del componente o si realmente crees que sería útil contemplar esas variables en la librería, consúltalo con tu UX Team si también le ven esa utilidad y puedes crearlas sin ningún problema. 
+{% hint style="info" %}
 
+#### ¿No encuentras la variable que necesitas?
+
+Algunos componentes no tienen representadas todas sus variaciones (p.e. los Buttons en SUI Components no representan los estados desabilitados). Si necesitas mostrar un estado no diseñado en un ejemplo específico del diseño, puedes crearlo cambiando las propiedades de esa instancia del componente o si realmente crees que sería útil contemplar esas variables en la librería, consúltalo con tu UX Team si también le ven esa utilidad y puedes crearlas en la librería sin ningún problema.
+
+{% endhint %}
 
 ### Iteración de componente
 
@@ -57,6 +56,8 @@ Antes de iterar un componente de una librería primero debes comprobar si:
 4. La iteración es factible para FE y aplica en ese componente y no en un componente anidado (habla con FE para que te explique como está montado. Quizás descubras que puedes hacer mucho más!).
 
 Una vez comprobado, deberás iterar tu componente en el UIKit y actualizar la librería escribiendo un mensaje de commit (más info debajo en Control de versiones) para que otros UX puedan hacer uso. Paralelamente, deberás movilizar su creación en código dependiendo del proceso en el que estés trabajando tu proyecto (jira en tu team o issue de github). 
+
+![Ejemplo de commit en librería](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-7.png)
 
 
 ### Nuevo componente

@@ -1,15 +1,45 @@
 # Meetings
 
-There are several touchpoints related to Design Systems at Adevinta:
+### Design Systems Weekly
 
-### Weekly Sync for SUI Components:
+* Public event in Twitch
+* Every Wednesday at 12:30 (30min)
+* Link to join through Slack [#sui-components](https://adevinta.slack.com/archives/C018Q6WBJ85) (private)
+* [Connect here to watch](https://www.twitch.tv/adevintaspaintech)
 
-Open to the public and streamed in Twitch 
+This is our weekly sync, made public to give visibility on the different initiatives around Design Systems for Adevintians and other collaborators.
 
-[All the details here](Weekly-streamings.md)
+We use it to review new proposals, refresh ideas, communicate the progress of different innitiatives, align on topics proposed by Designers and Develpers, and keep track of key metrics we track in our [performance dashboard](https://pages.github.mpi-internal.com/scmspain/design-systems/).
 
-### adHoc Sync
 
-We are biased towards action: the more aligned the better, the faster we can solve something the better.
+### DesignOps StandUp
 
-If you have anything you would like to discuss you can open a chat in [#sui-components](https://adevinta.slack.com/archives/C018Q6WBJ85) and we will arrange a meeting.
+* Private event
+* Every Monday at 11:00h (25min)
+* Link to join in your calendar (private)
+
+### DesignOps Gemba Walk
+
+* Private event, open to all Adevintians
+* Every Monday at 10:30h (15min)
+* Link to join in your calendar (private)
+
+### DesignOps Weekly Sync
+
+* Private event
+* Every Thursday at 14:00h (60min)
+* Link to join in your calendar (private)
+
+### DesignOps Design Critiques
+
+Share your ideas and give feedback to others in our cross verticals Design Critiques
+
+* Private event, open to all Adevintians
+* Every Thursday at 10:00 (60min)
+* Link to join in your calendar (private)
+
+### Meetings ad hoc
+
+The more aligned the better, the faster we can solve something the better.
+
+If you have anything you would like to discuss open a chat in [#sui-components](https://adevinta.slack.com/archives/C018Q6WBJ85) or [#es-designops-community](https://adevinta.slack.com/archives/C01FCMJ9ZUZ) and we will arrange a meeting.

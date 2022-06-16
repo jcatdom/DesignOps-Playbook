@@ -11,7 +11,7 @@ The build and preview url will be deployed automatically.
 
 Once you receive feedback and get approved, a maintainer will merge your work and later delete your branch.
 
-### External contributors
+### External contributors
 
 If you are collaborating from the outside, you need to _fork_ the project and submit a PR. For these PullRequests some checks will be skipped and the themes for the Adevinta brands will not be created.
 

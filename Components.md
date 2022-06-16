@@ -1,25 +1,21 @@
+
 # Components
-React components...
 
-Every react component declaration have the same structure: receive arguments (called props) and returns its virtual dom rendered elements.
+<!-- Lo que se espera de esta sección:
+- El enfoque de nuestros componentes, y las capas que tenemos:
+    - SUI
+    - Adevinta components 
+    - Brand components
+    - etc -->
 
-- JSX syntax.
-React offers retrocompatibility. Since it was created, its initial way
+## What is a component?
 
-- State and Props
+### Code
 
-- Context API
+**SUI Components**
 
-- Class and Functional Components
+[Visit the complete catalogue](https://sui-components.vercel.app/)
 
+**Brand Components**
 
-- Stateless and Stateful Components.
-- Container Components
-- HoC
-- Render Callbacks
-
-- One way data binding.
-
-- Component Agreements:
-  - closed classnames prop
-  - closed style prop
+### Figma components
