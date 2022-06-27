@@ -31,6 +31,7 @@
   * [Colour](Colour.md)
   * [Sizing](Sizing.md)
   * [Iconography](Iconography.md)
+  * [Motion](Motion.md)
   * [Spacing](Spacing.md)
   * [Typography](Typography.md)
   * [Layout](Layout.md)
