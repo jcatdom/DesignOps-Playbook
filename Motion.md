@@ -22,7 +22,10 @@ Contemplamos las transiciones más comunes para SUi, podemos ampliar el catálog
 {% embed url="https://www.figma.com/proto/B2rY1jzzrP0uDdRE6GPdWQ/Motion?page-id=335%3A571&node-id=335%3A1428&viewport=-1419%2C334%2C0.25&scaling=min-zoom&starting-point-node-id=335%3A1428" %}
 
 
-test3
-{% embed url="https://www.figma.com/proto/B2rY1jzzrP0uDdRE6GPdWQ/Motion?page-id=335%3A571&node-id=335%3A1428&viewport=-2455%2C364%2C0.4&scaling=contain&starting-point-node-id=335%3A1428&hotspot-hints=0" %}
+test 4
+
+{% embed url="<iframe style="border: none;" width="800" height="auto" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FB2rY1jzzrP0uDdRE6GPdWQ%2FMotion%3Fpage-id%3D335%253A571%26node-id%3D335%253A1428%26viewport%3D-2455%252C364%252C0.4%26scaling%3Dscale-down-width%26starting-point-node-id%3D335%253A1428%26hotspot-hints%3D0" allowfullscreen></iframe>" %}
+
+
 
 
