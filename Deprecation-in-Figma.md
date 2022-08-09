@@ -14,11 +14,10 @@ Add an ❌ and `[deprecated]` to the name of the old component to attract attent
 By adding it to the **end** of the name we ensure you have the new and old components next to each other.
 
 {% hint style="danger" %}
-Don't add `[deprecated]` to the **begining** of the original name, because the new component will be harder to find in the components panel. 
-{% endhint %}
+Avoid making it harder to find in the components panel 
 
-{% hint style="danger" %}
-Don't move the component to a new page `deprecated`, because the new component will be harder to find in the components panel.
+* Don't add "deprecated" to the **begining** of the original name
+* Don't move the component to a new page "deprecated"
 {% endhint %}
 
 
