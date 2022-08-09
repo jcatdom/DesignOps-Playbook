@@ -1,5 +1,4 @@
 # Deprecating components in Figma
-
 ## The Challenge
 
 **To update components or building new ones from scratch?**
