@@ -1,4 +1,5 @@
 # Deprecating components in Figma
+
 ## The Challenge
 
 **To update components or building new ones from scratch?**
@@ -6,24 +7,44 @@
 <!-- Deprecating components is not the same as removing components but replacing them by new ones.
 We have a system that ensures nothinhg breaks, and will never remove the original. -->
 
-## Naming
+## Change it's name, make it easy to spot in the components panel
 
-Add `[deprecated]` to the original name
+Add an ❌ and `[deprecated]` to the name of the old component to attract attention.
+
+By adding it to the **end** of the name we ensure you have the new and old components next to each other.
 
 {% hint style="danger" %}
-Don't add it to the begining of the original name, because...
-
-`❌ [Deprecated] Button`
+Don't add `[deprecated]` to the **begining** of the original name, because the new component will be harder to find in the components panel. 
 {% endhint %}
 
-**Don't move to a new "Deprecated Components" page**
+{% hint style="danger" %}
+Don't move the component to a new page `deprecated`, because the new component will be harder to find in the components panel.
+{% endhint %}
 
 
-## Visual hint
+## Add a visual hint, make it easy to spot in a design
 
-## Communication
+## Write a comprehensive publish message
 
-- Comprehensive commit/publish messages
+Make sure all users know what to expect if they update their libraries.
+
+**Tips**
+
+* Keep it short 
+* Write in English
+* Write in infinitive (add, remove, modify )
+* Add the name of the component
+* Add short details about what changed
+
+{% hint style="danger" %}
+Breaking change!
+Deprecate button.
+Refactor adopting figma latest best practices.
+{% endhint %}
+
+{% hint style="success" %}
+"This is a breaking change, we've deprecated the old component atom-button because we needed to add the props and variants figma introduced in the latest relase"
+{% endhint %}
 
 ## Version names
 
