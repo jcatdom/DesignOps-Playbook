@@ -1,4 +1,4 @@
-# Deprecate components in Figma
+# Deprecating components in Figma
 
 ## The Challenge
 
@@ -6,8 +6,6 @@
 
 <!-- Deprecating components is not the same as removing components but replacing them by new ones.
 We have a system that ensures nothinhg breaks, and will never remove the original. -->
-
-
 
 ## Naming
 
@@ -19,12 +17,10 @@ Don't add it to the begining of the original name, because...
 `❌ [Deprecated] Button`
 {% endhint %}
 
-
 **Don't move to a new "Deprecated Components" page**
 
 
 ## Visual hint
-
 
 ## Communication
 
