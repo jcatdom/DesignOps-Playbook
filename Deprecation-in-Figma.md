@@ -1,6 +1,6 @@
 # Deprecating components in Figma
 
-## The Challenge
+# The Challenge
 
 **To update components or building new ones from scratch?**
 
@@ -47,6 +47,6 @@ Refactor adopting figma latest best practices.
 
 ## Version names
 
-We don't version components with semantic numbers in Figma (`1.2` `2.0` `2.1`) because we don't want different versions of a single component in production. 
+We don't version components with semantic numbers in Figma, such as `1.2` `2.0` `2.1`, because we don't want different versions of a single component in production. 
 
 What you see in Figma will always be the latest component, that's why it's important that you always keep your libraries updated.
