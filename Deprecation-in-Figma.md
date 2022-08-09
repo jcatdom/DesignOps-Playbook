@@ -35,13 +35,13 @@ Make sure all users know what to expect if they update their libraries.
 * Add the name of the component
 * Add short details about what changed
 
-{% hint style="danger" %}
+{% hint style="success" %}
 Breaking change!
 Deprecate button.
 Refactor adopting figma latest best practices.
 {% endhint %}
 
-{% hint style="success" %}
+{% hint style="danger" %}
 "This is a breaking change, we've deprecated the old component atom-button because we needed to add the props and variants figma introduced in the latest relase"
 {% endhint %}
 
