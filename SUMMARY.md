@@ -16,6 +16,7 @@
   * [Improvements](Improvements.md)
   * [New components and features](New-proposals.md)
   * [Branching and forking](Branching-and-Forking.md)
+  * [Deprecate components in Figma](Deprecation-in-Figma.md)
   * [Troubleshooting](Troubleshooting.md)
   * [Figma](Figma-Contribution.md)
   * [Github](Github.md)

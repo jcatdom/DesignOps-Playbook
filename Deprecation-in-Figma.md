@@ -1,0 +1,2 @@
+# Deprecate components in Figma
+
