@@ -6,8 +6,6 @@ We update it every Tuesday, and explain the evolution of it during our [Weekly S
 
 🔗 [The Dashboard](https://pages.github.mpi-internal.com/scmspain/design-systems/)
 
-
-
 ### Watch a complete explanation in Spanish here
 
 {% embed url="https://www.twitch.tv/videos/1557866913" %}

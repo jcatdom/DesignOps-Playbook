@@ -1,11 +1,8 @@
 # Deprecating components in Figma
 
-## The Challenge
+### Watch a complete explanation in Spanish here
 
-**To update components or building new ones from scratch?**
-
-<!-- Deprecating components is not the same as removing components but replacing them by new ones.
-We have a system that ensures nothinhg breaks, and will never remove the original. -->
+{% embed url="https://www.twitch.tv/videos/1557859748" %}
 
 ## Change it's name, make it easy to spot in the components panel
 
