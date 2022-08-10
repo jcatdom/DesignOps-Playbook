@@ -1,13 +1,13 @@
-#Deprecating components in Figma
+# Deprecating components in Figma
 
-#The Challenge
+## The Challenge
 
 **To update components or building new ones from scratch?**
 
 <!-- Deprecating components is not the same as removing components but replacing them by new ones.
 We have a system that ensures nothinhg breaks, and will never remove the original. -->
 
-##Change it's name, make it easy to spot in the components panel
+## Change it's name, make it easy to spot in the components panel
 
 Add an ❌ and `[deprecated]` to the name of the old component to attract attention.
 
@@ -21,11 +21,11 @@ Avoid making it harder to find in the components panel
 {% endhint %}
 
 
-##Add a visual hint, make it easy to spot in a design
+## Add a visual hint, make it easy to spot in a design
 
 
 
-##Write a comprehensive publish message
+## Write a comprehensive publish message
 
 Make sure all users know what to expect if they update their libraries.
 
