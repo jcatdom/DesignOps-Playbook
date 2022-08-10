@@ -38,9 +38,7 @@ Make sure all users know what to expect if they update their libraries.
 * Add short details about what changed
 
 {% hint style="success" %}
-Breaking change!
-Deprecate button.
-Refactor adopting figma latest best practices.
+❌ deprecate button - refactor adopting figma latest best practices
 {% endhint %}
 
 {% hint style="danger" %}
