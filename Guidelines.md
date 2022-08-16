@@ -6,9 +6,9 @@ Lingo is a tool that combines the power of a digital asset manager with the cont
 It allow us to organize all our visual assets in one place, creating and sharing living brand style guides, digital asset libraries and more. 
 All while ensuring brand consistency.
 
-### So, what's in Lingo and what's in Figma?
+## So, what's in Lingo and what's in Figma?
 
-**In Lingo you'll find:**
+### In Lingo you'll find:
 
 * The source of style knowledge is Lingo, never Figma.
 * The use of these components is documented in Lingo, not in Figma.
@@ -16,16 +16,22 @@ All while ensuring brand consistency.
 * Design patterns are documented in Lingo, not Figma.
 * Writing guidelines are documented in Lingo, not Figma.
 
+### Lingo structure:
 
-![Esta es una imagen](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/lingo-screen.png?raw=true)
+For each Brand / Marketplace you'll find a common Guideline Structure:
+* **Guidelines Index**
+* **Brand** (Mission, Vission, Identity, Brand Manual)
+* **Foundations** (Logos, Color, Typography, Grid, Layout, Illustration, Iconography, Photography)
+* **Writing** (How we write for the Brand)
+* **Components** (Core Components and pairing with Native components)
+* **Templates** (Landings, Emails, Advertising)
 
-
-**In Figma you'll find:**
+### In Figma you'll find:
 
 * In Figma there are the UI Kits, which have styles and components.
 * In Figma there are the Component's Specs.
 
-### FAQ
+## FAQ
 
 **Do you want to know when to use a color?**
 * Go to Lingo, Color Foundation.
