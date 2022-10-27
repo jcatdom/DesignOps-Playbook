@@ -107,7 +107,7 @@
   * [Slack](Slack.md)
 * [How we work with Figma](Figma.md)
   * [Teams & Projects](Figma-Teams-Projects.md)
-  * [Files](Figma-Files.md) 
+  * [Files](Figma-Files.md)
   * [Libraries & UI Kits](Figma-UI-Kits.md)
   * [Handoff & QA](Figma-Handoff-QA.md)
   * [Common Library](Resources.md)
