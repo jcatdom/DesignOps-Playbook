@@ -24,7 +24,7 @@ To encourage consistent nomenclature and improve visibility, we propose the foll
 **Common touchpoints**
 > Every touchpoint or section not directly connected with a type of user, it means cross platform touchpoints such as Login, Home, Settings, Consents or Footer.
 
-**Tool - Customers**
+**[tool name]- Customers**
 > Payment platform for our professional customers.
 
 **Emails & Communications**
