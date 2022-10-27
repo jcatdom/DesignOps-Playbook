@@ -16,8 +16,6 @@ They all contain:
 - Platform indicator.
 - Brand background.
 
-![Covers in Figma](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-1.png)
-
 ## Structure
 Files in Figma are structured in a common way, organizing the pages within the file according to the design proposal.
 
@@ -31,8 +29,6 @@ Files in Figma are structured in a common way, organizing the pages within the f
 
 🌳 **Master / Production:** The final proposals will be shown here according to branches.
 
-![File Starter](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-1.png)
-
 ## How do we archive files?
 
 1. Duplicate Figma file.
@@ -40,6 +36,4 @@ Files in Figma are structured in a common way, organizing the pages within the f
 2. We rename the original “Figma file” to “Figma file” + (Archived + Q + Year). Comments, change log and external links are kept here. We move it to the Archived project, and update the cover's title.
 
 3. Rename “Figma file (Copy)” to “Figma file”. This will be the one that will be clean to work with, without comments or version history, and from which we delete all the "branches" (pages) and the Discovery section.
-
-![Archived files](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-1.png)
 
