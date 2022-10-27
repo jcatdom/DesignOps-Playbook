@@ -111,5 +111,5 @@
   * [Libraries & UI Kits](Figma-UI-Kits.md)
   * [Handoff & QA](Figma-Handoff-QA.md)
   * [Common Library](Resources.md)
+  * [Figma & Code](Figma-And-Code.md)
   * [Plugins](Plugins.md)
-  * [Figma & Code](Figma-and-Code.md)
