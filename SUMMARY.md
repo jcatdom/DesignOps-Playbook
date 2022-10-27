@@ -113,5 +113,3 @@
   * [Common Library](Resources.md)
   * [Figma & Code](Figma-and-Code.md)
   * [Plugins](Plugins.md)
-  * [Figma organisation??](Figma-Organisation.md)
-  * [Figma contribution??](Figma-Contribution.md)
