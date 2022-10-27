@@ -1,6 +1,8 @@
 # Figma's Files
 At Adevinta we have a common [File Starter](https://www.figma.com/file/U63D587DKpldpuTY4kPPuu/Template-File-Starter) to unify navigation around different marketplaces.
 
+![File Starter](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/File-starter-cover.png)
+
 ## Covers
 To improve navigation within Figma, there is a set of common covers to use in projects.
 
@@ -15,6 +17,8 @@ They all contain:
 - Title of the project.
 - Platform indicator.
 - Brand background.
+
+![Figma Covers (TO BE UPDATED](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/figma-covers.png)
 
 ## Structure
 Files in Figma are structured in a common way, organizing the pages within the file according to the design proposal.
