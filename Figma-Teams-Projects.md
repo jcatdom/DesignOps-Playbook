@@ -16,7 +16,7 @@ Projects allow us to group related design files together in a single space, like
 To encourage consistent nomenclature and improve visibility, we propose the following project categories with a simple common convention:
 
 **01. [marketplace naming] - Users**
-> User's flow, such as Home, Listing and Detail, where [marketplace naming] could be Buyers for coches and MA, Seekers for RE and Candidates for Jobs. 
+> User's flow, such as Listing and Detail, where [marketplace naming] could be Buyers for coches and MA, Seekers for RE and Candidates for Jobs. 
 
 **02. [marketplace naming] - Publishers** 
 > Publisher's flow, such as PTA and My Ads, where [marketplace naming] could be Sellers for coches and MA and Privates for RE.
