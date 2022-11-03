@@ -15,29 +15,29 @@ Projects allow us to group related design files together in a single space, like
 
 To encourage consistent nomenclature and improve visibility, we propose the following project categories with a simple common convention:
 
-**[marketplace naming] - Users**
+**01. [marketplace naming] - Users**
 > User's flow, such as Home, Listing and Detail, where [marketplace naming] could be Buyers for coches and MA, Seekers for RE and Candidates for Jobs. 
 
-**[marketplace naming] - Publishers** 
+**02. [marketplace naming] - Publishers** 
 > Publisher's flow, such as PTA and My Ads, where [marketplace naming] could be Sellers for coches and MA and Privates for RE.
 
-**Common touchpoints**
+**03. Common touchpoints**
 > Every touchpoint or section not directly connected with a type of user, it means cross platform touchpoints such as Login, Home, Settings, Consents or Footer.
 
-**[tool name]- Customers**
+**04. [tool name]- Customers**
 > Payment platform for our professional customers.
 
-**Emails & Communications**
+**05. Emails & Communications**
 > Actions that enable users to interact with our products through email, push notifications. It should include all email templates in order to unify experience.
 
-**Landings**
+**06. Landings**
 > Standalone web pages, created specifically for retention & adoption campaigns. It should include all landing pages in order to unify experience.
 
-**Marketing**
+**07. Marketing**
 > Every action related with the Marketing Team such as advertising assets, banners or app store screenshoots.
 
-**Projects & Team Drafts**
+**08. Projects & Team Drafts**
 > Specific marketplace actions, projects and drafts, with a concrete deadline.
 
-**Archived** 
+**09. Archived** 
 > Here you'll found every archived file or project.
