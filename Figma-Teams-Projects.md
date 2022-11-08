@@ -13,7 +13,7 @@ Each Team in Figma is equivalent to a marketplace (except for DesignOps and Rese
 
 Projects allow us to group related design files together in a single space, like a folder.
 
-To encourage consistent nomenclature and improve visibility, we propose the following project categories with a simple common convention:
+To encourage consistent nomenclature and improve visibility, we propose the following project categories with a simple common convention. 
 
 **01. [marketplace naming] - Users**
 > User's flow, such as Listing and Detail, where [marketplace naming] could be Buyers for coches and MA, Seekers for RE and Candidates for Jobs. 
@@ -41,3 +41,7 @@ To encourage consistent nomenclature and improve visibility, we propose the foll
 
 **09. Archived** 
 > Here you'll found every archived file or project.
+
+{% hint style="info" %}
+* `Tip: Sort Projects by alphabetical A-Z in order to keep and nail this order.`
+{% endhint %}
