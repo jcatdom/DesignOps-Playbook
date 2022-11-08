@@ -43,5 +43,5 @@ To encourage consistent nomenclature and improve visibility, we propose the foll
 > Here you'll found every archived file or project.
 
 {% hint style="info" %}
-* `Tip: Sort Projects by alphabetical A-Z in order to keep and nail this order.`
+`Sort Projects by alphabetical A-Z in order to keep and nail this order.`
 {% endhint %}
