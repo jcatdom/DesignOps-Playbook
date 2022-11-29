@@ -25,7 +25,7 @@
   * [Commits](Commits.md)
   * [QA and UX checks](QA-and-Review-guidelines.md)
   * [GitHub discussions](Discussions.md)
-  ^ [Implementation](Implementation.md)
+  * [Implementation](Implementation.md)
   * [Innovation](Innovation.md)
   * [Judgment and decision making](Judgment-and-Decision-making.md)
   * [Feedback loops](Feedback-loops.md)
