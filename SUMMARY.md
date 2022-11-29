@@ -21,7 +21,6 @@
   * [Deprecating components](Deprecation-in-Figma.md)
   * [Reporting bugs](Bugs.md)
   * [Troubleshooting](Troubleshooting.md)
-  * [Github](Github.md)
   * [Development workflow](Development-workflow.md)
   * [Commits](Commits.md)
   * [QA and UX checks](QA-and-Review-guidelines.md)

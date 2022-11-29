@@ -1,6 +1,6 @@
 # The source of truth
 
-**We don't have one :)**
+**We don't have just one :)**
 
 We've tried to force it for a while, but a really "single" source of truth is not feasible in a multi-disciplinary, multi-platform company. 
 
