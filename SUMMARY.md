@@ -5,7 +5,7 @@
   * [Atomic design](Atomic-design.md)
   * [Accessibility](Accessibility.md)
   * [DS Guidelines](Guidelines.md)
-  * [Source of truth](Figma-and-Code.md)
+  * [Source of truth](Source.md)
   * [Naming convention](Naming-convention.md)
   * [Colour](Colour.md)
   * [Motion](Motion.md)
