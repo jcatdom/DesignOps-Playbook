@@ -80,7 +80,6 @@
   * [Code of conduct](Code-of-conduct.md)
   * [Communication](Communication.md)
   * [Twitch](Twitch.md)
-  * [Meetups](Meetups.md)
   * [Slack](Slack.md)
 * [How we work with Figma](Figma.md)
   * [Teams & Projects](Figma-Teams-Projects.md)
