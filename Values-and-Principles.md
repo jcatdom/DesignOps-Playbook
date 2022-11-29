@@ -2,7 +2,7 @@
 
 ### Simple
 
-SUI Components are intended to be the simple base for complex, more advanced components. In SUI you will find the fundamental building blocks for you to think big without having to deal with the simplest pieces of your application. 
+Our Components are intended to be the simple base for complex, more advanced components. In SUI you will find the fundamental building blocks for you to think big without having to deal with the simplest pieces of your application.
 
 ### Intuitive
 

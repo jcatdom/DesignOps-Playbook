@@ -4,8 +4,6 @@ Every user can influence on the direction of the project through proposals, idea
 
 **We have Hybrid model**: A central team (DesignOps) is in charge of a big part of the work, but all the developers and designers at Adevinta contribute to the evolution of the system as a _federated_ team.
 
-![](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/mixed-contribution.png)
-
 ## Roles and key responsibilities
 
 Although we all make SUI, each role has an expected contribution level

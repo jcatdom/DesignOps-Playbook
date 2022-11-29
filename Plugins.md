@@ -1,4 +1,1 @@
-# Development
-
-* SUI Components
-* SUI Tools
+# Plugins

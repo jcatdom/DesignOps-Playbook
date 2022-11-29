@@ -6,11 +6,11 @@ description: We've simplified all our processes to 5 maximum steps.
 
 Share your ideas as soon as possible, they don't have to be perfect at this point, just make sure you add as much information and context as possible.
 
-[Use this template](https://github.com/SUI-Components/sui-components/discussions/2125)
+[Use the template](https://github.com/SUI-Components/sui-components/discussions/2125)
 
 ## <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-2.png" alt="step 2" data-size="line">Work on your proposal (and keep everyone in sync)
 
-Use [this Figma template](https://www.figma.com/file/gwZ74U8HHbPl3l5vbwHHrO/Template---Specs-for-Components?node-id=706%3A626) to structure your ideas and gather as much feedback as possible:
+Use the template for new components from our Common Library in Figma to structure your ideas and gather as much feedback as possible:
 
 * The discussion notes
 * DesignOps [Weekly Meeting](Weekly-streamings.md) (Twitch)
@@ -23,7 +23,7 @@ Use [this Figma template](https://www.figma.com/file/gwZ74U8HHbPl3l5vbwHHrO/Temp
 
 ## <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-3.png" alt="step 3" data-size="line">Share the specs
 
-Link your Figma file in the discussion. Use the same [Figma template](https://www.figma.com/file/gwZ74U8HHbPl3l5vbwHHrO/Template---Specs-for-Components?node-id=706%3A626) you've worked with in the previous step. It contains tips and a handoff checklist to have you covered.
+Link your Figma file in the discussion. Use the same Figma template you've worked with in the previous step. It contains tips and a handoff checklist to have you covered.
 
 ## <img src="https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/Badge-Counter-4.png" alt="step 4" data-size="line">Deliver (Ship Show Ask)
 

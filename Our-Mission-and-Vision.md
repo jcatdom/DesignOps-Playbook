@@ -4,7 +4,7 @@ description: >-
   it from different angles
 ---
 
-# Vision and Missions
+# Vision and Mission
 
 ## Our Vision
 

@@ -1,57 +1,171 @@
 # Atomic design
 
-Nuestras librerías de diseño se basan en un sistema atómico en el que contemplamos diferentes niveles en sus componetización. Esto nos permite tener un sistema reutilizable, escalable y que nos proporciona consistencia en nuestros productos.
+Atomic design is a methodology composed of distinct stages working together to create interface design systems in a more deliberate and hierarchical manner.
 
-![](https://www.solidbackgrounds.com/images/851x315/851x315-antique-white-solid-color-background.jpg)
+> "Atomic design gives us the ability to traverse from abstract to concrete. Because of this, we can create systems that promote consistency and scalability while simultaneously showing things in their final context. And by assembling rather than deconstructing, we’re crafting a system right out of the gate instead of cherry picking patterns after the fact." – **_Brad Frost_**
 
-> _Nuestra estructura atómica_
+Atomic design is not a linear process, but rather a mental model to help us think of our user interfaces as both a cohesive whole and a collection of parts at the same time. Each stage plays a key role in the hierarchy of our interface design systems.
 
-## Estructura
+The stages of our atomic design are:
+- [QUARKS](#quark)
+- [HADRONS](#hadron)
+  - [Design Tokens](#design-token)
+  - [Custom Hooks](#custom-hookcomponentshook)
+  - [Primitives](#primitivecomponentsprimitive)
+  - [High Order Components (HOC)](#high-order-components-hoc)
+- [ATOMS](#atomcomponentsatom)
+- [MOLECULES](#moleculecomponentsmolecule)
+- [ORGANISMS](#organismcomponentsorganism)
+- [SPECIES](#speciecomponentsspecie)
+- [ECOSYSTEMS](#ecosystemcomponentsecosystem)
 
-### Tokens
+## QUARK
+**Quarks** are types of elementary parts and a fundamental constituent of components. They are functionalities available in React Library or native browser functionalities like css custom properties.
 
-Son los estilos visuales aplicados a nuestros componentes (p.e: colores, tipografía, espacios..) definidos en nuestras plataformas como entidades con nombre que almacenan los atributos de diseño visual. Nos permiten mantener un sistema visual escalable y consistente.\
-Más información sobre [Tokens](Tokens.md).
+Examples:
 
-### Átomos
+- state, context
+- Component and PureComponent
+- [Official Hooks](https://reactjs.org/docs/hooks-reference.html) (useState, useEffect, useContext, useReducer, useCallback, useRef, ...)
+- Children, Fragment
+- createElement, createFactory, cloneElement, createPortal
+- Profiler, ErrorBoundary
+- Suspense and lazy
 
-Son los componentes indivisibles de nuestra librería (p.e: buttons, labels, inputs..). Pueden utilizarse de manera independiente en nuestras páginas aunque suelen estar ligados a moléculas y/u organismos.\
-⚠️ Tienen unos tokens definidos y deberemos tener cuidado en su modificación porque pueden estar ligados a varios componentes (p.e: el átomo Label se utiliza en las moléculas InputField, SelectField, TextareaField...)
+## HADRON
+Quarks combine to form composite particles called **hadrons**. The most common are design-tokens, custom-hooks, primitives and High-Order-Components.
 
-### Moléculas
+### DESIGN TOKEN
+Design tokens represent the small, repeated design decisions that make up a design system's visual style. Tokens replace static values, such as hex codes for color, with self-explanatory names.
 
-Son combinaciones de átomos que funcionan juntos como una unidad (p.e: la molécula InputField está compuesta por los átomos Label, Input y HelpText). Nos permiten definir un propósito más elaborado de un componente (su comportamiento, interacción, estados..) y suelen contemplar variables para flexibilizar su uso (p.e: la molécula TextField permite no mostrar el átomo HelpText).\
-Son la base de nuestro sistema de diseño y nos permiten agilizar la creación de nuestros productos.
+Tokens enable a design system to have a single source of truth. They provide a kind of repository for recording and tracking style choices and changes.
 
-### Organismos
+When using tokens for design and implementation, style updates will propagate consistently through an entire product or suite of products.
 
-Son componentes relativamente complejos compuestos de moléculas, y/o átomos y/u otros organismos. (p.e: nestedCheckboxes, Header..). Permiten formar diferentes secciones de una interfaz y definir interacciones claves de nuestros productos.
+Because tokens are reusable and purpose-driven, they can define system-wide updates to themes and contexts for use. For example, tokens can be used to systematically apply a high-contrast color scheme for improved visibility, or to change the type scale to make small text legible on a TV.
 
-ℹ️ Si necesitas generar una nueva variable de cualquier componente, tendrás que verificar si lo que necesitas modificar es el organismo, las moléculas que lo componen o sus átomos.\
-Más información sobre [cómo iterar un componente](SUI-Components.md).
+### [CUSTOM-HOOK](components/hook)
+A **custom-Hook** is a JavaScript function whose name starts with **”use”** and that may call other Hooks. Building your own Hooks lets you extract component logic into reusable functions.
 
-### Templates
+Unlike a React component, a custom Hook does NOT need to have a specific signature. We can decide what it takes as arguments, and what, if anything, it should return. In other words, it’s just like a normal function. Its name should always **start with use** so that you can tell at a glance that the [rules of Hooks](https://reactjs.org/docs/hooks-rules.html) apply to it.
 
-Gracias a nuestro sistema atómico (átomos, moléculas y organismos) podemos generar templates de pantallas que definan nuestros productos de manera consistente.
+> **Do I have to name my custom Hooks starting with “use”?**
+>
+> Please do. This convention is very important. Without it, React would NOT be able to automatically check for rules of Hooks violations because React could NOT tell if a certain function contains calls to Hooks inside it.
 
-## Organización en Adevinta
+Examples:
 
-### Web
+- useMount
+- useOnScreen
+- useOrientation
+- useScroll
+- useEventListener
+- useInterval
+- useBoolean
+- useToggle
+- useSteps
+- useCopyToClipboard
+- usePortal
 
-Todas las plataformas utilizamos nuestra librería open-source de React SUI Components cuando refactorizamos nuestros productos. Sigue a la perfección este sistema atómico y te permite agilizar tanto tus diseños como la implementación. Actualmente por diferencias entre plataformas, compartimos 100% los átomos y moléculas pero nos desvinculamos en organismos y templates donde cada plataforma cuenta con su espacio propio para ello.\
-Iremos incorporando componentes donde veamos una posible reutilización global para agilizar aún más la creación de nuestros productos.\
-Más información en [SUI-Components](http://localhost/).
+### [PRIMITIVE](components/primitive)
+Repetitive self-enclosed functionalities with no visual effect served as a Component. 
 
-**Contamos con otros apartados comunes en web:**
+- Polymorphic-element
+- Injector
+- Field
+- Group
 
-* **Behaviour:** Unificamos comportamientos de interacción entre plataformas. Actualmente contamos con el behaviour Sticky, pero podemos unificar otros comportamientos a futuro como Reorder, Floating..
-* **Layout:** Contamos con una estructura definida y customizable de Grids. A futuro incorporaremos otros apartados comunes como Breakpoints, Spacing, Responsive..
+### High Order Components (HOC)
+> A higher-order component (HOC) is a function that takes a component and returns a new component. They are named using **"with"** prefix (withWhatever).
 
-### Native (iOS & Android)
+Whereas a component transforms props into UI, a higher-order component transforms a component into another component.
 
-Utilizamos un sistema similar pero desvinculado de SUI (algunas plataformas si lo utilizan). Tenemos definidos unos tokens unificados con Web dentro de sus posiblidades, componentes específicos de cada plataforma nativa (que formarían estos átomos y moléculas. P.e: app bars, buttons, chips…) y componentes específicos de la plataforma (que serían los organismos. P.e: cardX, cardY…) Aún así no generamos esta escala atomizada de 3 niveles.
+<details>
+<summary>Example</summary>
 
-### Design vs Code
+```jsx
+// The following example wraps a component and renders that or returns
+// a fallback depending on the 'isLoading' prop boolean state.
+// WrappedComponent
+const WrappedComponent = ({children}) => <span>{children}</span>
 
-UX cuenta con las librerías de diseño necesarias para su plataforma en Figma unificadas al código de nuestros productos. Esto nos permite la agilización y escala de nuevas implementaciones.\
-Tienes más información en [Figma-UI-Kits](https://github.com/turolopezsanabria/design-systems-playbook) y respecto a las librerías de código en [SUI-Components??](SUI-Components.md)
+// FallbackComponent
+
+// HOC
+const higherOrderComponent = (
+  WrappedComponent,
+  FallbackComponent = () => 'loading...'
+) => {
+  return ({isLoading, ...props}) => {
+    const Component = isLoading ? FallbackComponent : WrappedComponent
+    return <Component {...props} />
+  } 
+}
+
+// Resulting HighOrderComponentWrappedComponent
+const EnhancedComponent = higherOrderComponent(WrappedComponent);
+
+<EnhancedComponent />
+```
+</details>
+
+HOC are NEVER used in **SUI_COMPONENTS**. We prefer composition over inheritance coding approach, and we believe that using hooks is readable than wrapping a component with a HOC.  
+
+## [ATOM](components/atom)
+**Atoms** are the basic building blocks of all matter. Each chemical element has distinct properties, and they can’t be broken down further without losing their meaning
+
+Examples:
+
+- Button
+- Input
+- Checkbox
+- Radio
+- ...
+
+
+## [MOLECULE](components/molecule)
+**Molecules** are groups of two or more atoms held together by chemical bonds. These combinations of atoms take on their own unique properties, and become more tangible and operational than atoms.
+
+Examples:
+
+- Autocomplete
+- Select
+- Accordion
+- Carousel
+- Tabs
+- Stepper
+- ...
+
+## [ORGANISM](components/organism)
+**Organisms** are assemblies of molecules functioning together as a unit. These relatively complex structures can range from single-celled organisms all the way up to incredibly sophisticated organisms like human beings.
+
+Examples:
+
+- Navbar
+- Menu
+- Timeline
+- Table
+- ...
+
+## [SPECIE](components/specie)
+**Species** are advanced life forms with a large number of different types of views and a single purpose. 
+
+Examples:
+
+- DateManager: DatePicker, RangePicker, DateTimePicker, ...
+- FileManager: FileDirectory, PhotoEditor, ...
+- Form
+- ...
+
+## [ECOSYSTEM](components/ecosystem)
+**Ecosystem** is the environment where all the different containing elements exist. 
+
+Examples:
+
+- Theme Provider
+- Notification Manager (Toast)
+- Internationalization Provider
+- Device Detector
+- Shortcut Provider
+- Network Detection
+- ...
