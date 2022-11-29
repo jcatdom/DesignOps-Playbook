@@ -1,7 +1,7 @@
 ---
 description: >-
   We have a single Vision for the team, and unique missions that give support to
-  it from different angles
+  it from different angles.
 ---
 
 # Vision and Mission
