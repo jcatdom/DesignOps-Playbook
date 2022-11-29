@@ -32,7 +32,6 @@
   * [UX and technical Debt](UX-and-Technical-Debt.md)
   * [Performance dashboard](Performance-dashboard.md)
 * [SUI Components](SUI-Components.md)
-  * [Getting started](Getting-started.md)
   * [Tech stack](Tech-stack.md)
     * [Node NPM](Node-NPM.md)
     * [CSS SCSS cssInJs PostCSS](CSS-SCSS-cssInJs-PostCSS.md)
