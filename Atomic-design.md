@@ -71,7 +71,7 @@ Examples:
 - useCopyToClipboard
 - usePortal
 
-### [PRIMITIVE](components/primitive
+### PRIMITIVE
 
 Repetitive self-enclosed functionalities with no visual effect served as a Component. 
 
@@ -117,7 +117,7 @@ const EnhancedComponent = higherOrderComponent(WrappedComponent);
 
 HOC are NEVER used in **SUI_COMPONENTS**. We prefer composition over inheritance coding approach, and we believe that using hooks is readable than wrapping a component with a HOC.  
 
-## [ATOM](components/atom)
+## ATOM
 **Atoms** are the basic building blocks of all matter. Each chemical element has distinct properties, and they can’t be broken down further without losing their meaning
 
 Examples:
@@ -129,7 +129,7 @@ Examples:
 - ...
 
 
-## [MOLECULE](components/molecule)
+## MOLECULE
 **Molecules** are groups of two or more atoms held together by chemical bonds. These combinations of atoms take on their own unique properties, and become more tangible and operational than atoms.
 
 Examples:
@@ -142,7 +142,7 @@ Examples:
 - Stepper
 - ...
 
-## [ORGANISM](components/organism)
+## ORGANISM
 **Organisms** are assemblies of molecules functioning together as a unit. These relatively complex structures can range from single-celled organisms all the way up to incredibly sophisticated organisms like human beings.
 
 Examples:
@@ -153,7 +153,7 @@ Examples:
 - Table
 - ...
 
-## [SPECIE](components/specie)
+## SPECIE
 **Species** are advanced life forms with a large number of different types of views and a single purpose. 
 
 Examples:
@@ -163,7 +163,7 @@ Examples:
 - Form
 - ...
 
-## [ECOSYSTEM](components/ecosystem)
+## ECOSYSTEM
 **Ecosystem** is the environment where all the different containing elements exist. 
 
 Examples:
