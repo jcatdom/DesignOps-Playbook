@@ -10,6 +10,7 @@
   * [Source of truth](Source.md)
   * [Naming convention](Naming-convention.md)
   * [Colour](Colour.md)
+  * [Colour Theming Multiplatform](Colour-theming-multiplatform.md)
   * [Motion](Motion.md)
   * [Layout](Layout.md)
   * [Grid](Grid.md)
