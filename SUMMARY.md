@@ -57,7 +57,7 @@
     * [Requirements and dependencies](Requirements-and-dependencies.md)
     * [Class components](Class-Components.md)
     * [Functional components](Functional-Components.md)
-      * [Hooks](Hooks.md)
+    * [Hooks](Hooks.md)
     * [Patterns](Patterns.md)
       * [Custom hooks](Custom-hooks.md)
       * [Compound components](Compound-components.md)
