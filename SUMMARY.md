@@ -76,7 +76,6 @@
   * [Vision and Missions](Our-Mission-and-Vision.md)
   * [Our meetings](Meetings.md)
   * [Roadmap](Roadmap.md)
-  * [Contact us](Contact-us.md)
 * [Community](Community.md)
   * [Code of conduct](Code-of-conduct.md)
   * [Communication](Communication.md)
