@@ -211,7 +211,7 @@ Your IDE/Code Editor of choice should pickup on this and provide the proper sign
 
 ## Booleans and Control Flow
 
-I hate seeing booleans in my codebase, but one case where you just can’t get rid of them seems to be external control flow.
+Seeing booleans in our codebase is inevitable, but one case where you just can’t get rid of them seems to be external control flow.
 
 For example when you want to use a dynamic control flag to control boolean native tag attributes to disable an input, add a loading indicator, or control a modal. Usually, it looks like this:
 ```js
