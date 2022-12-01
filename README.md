@@ -1,5 +1,5 @@
 # README
-
+<!-- 
 <table data-view="cards">
 <thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead>
 <tbody>
@@ -15,4 +15,4 @@
     <td>Esta caja es toda clicable</td>
     <td><a href="Troubleshooting.md">Troubleshooting.md</a></td>
 </tr>
-</tbody></table>
+</tbody></table> -->
