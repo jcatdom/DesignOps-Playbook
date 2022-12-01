@@ -1,47 +1,5 @@
-# Welcome!
+# README
 
 
-<!--
 
-## Link to specific pages
-
-{% content-ref url="Dark-mode.md" %}
-{% endcontent-ref %}
-
-
-## Dos and Don'ts
-
-{% hint style="success" %}
-test de un success (do)
-{% endhint %}
-
-{% hint style="danger" %}
-test de un danger (don't)
-{% endhint %}
-
-{% hint style="warning" %}
-test de un warning
-{% endhint %}
-
-{% hint style="info" %}
-test de un info
-{% endhint %}
-
-## Checklist test  
-
-- [ ] Primer checkbox
-- [x] Segundo checkbox
-
-{% code title="_settings.scss" %}
-```scss
-// Here the code to be added
-```
-{% endcode %}
-
-## Embed url
-
-{% embed url="https://www.figma.com/proto/B2rY1jzzrP0uDdRE6GPdWQ/Motion?node-id=195%3A488&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=195%3A488" %}
-
--->
-
-[design-systems-playbook](https://design-systems.gitbook.io/design-systems-playbook/sui-components)
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><em>Heading</em></td><td>Card 1</td><td></td><td></td></tr><tr><td></td><td><mark style="color:blue;"><strong>Card 2</strong></mark></td><td>Aquí puede ir el contenido que quieras.<br><a href="https://www.example.com">Un link tb</a></td><td></td></tr><tr><td><strong>Card 3</strong></td><td>cabecera tb</td><td>Title, con o sin</td><td><a href=".gitbook/assets/fake content.png">fake content.png</a></td></tr><tr><td></td><td>Card 4?</td><td></td><td></td></tr></tbody></table>

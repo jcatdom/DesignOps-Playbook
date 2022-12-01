@@ -1,5 +1,6 @@
 # Table of contents
 
+* [README](README.md)
 * [Design Systems](Design-System.md)
   * [Values and principles](Values-and-Principles.md)
   * [Accessibility](Accessibility.md)
@@ -77,7 +78,7 @@
   * [Libraries & UI Kits](Figma-UI-Kits.md)
   * [Handoff & QA](Figma-Handoff-QA.md)
   * [Common Library](Resources.md)
-  * [Figma & Code](Figma-And-Code.md)
+  * [Figma & Code](figma/figma-and-code.md)
   * [Plugins](Plugins.md)
 * [DesignOps Team](DesignOps-Team.md)
   * [About us](About-us.md)
