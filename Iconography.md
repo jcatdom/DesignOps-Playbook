@@ -10,19 +10,19 @@ La cuadrícula ayuda a dibujar los iconos con parámetros específicos y estable
 
 Generando un padding en el interior de la cuadrícula, se asegura que el icono tendrá siempre la escala deseada y el espacio en blanco circundante que asegura el icono de estar en contacto con otros elementos de la interfaz. Se establece este espacio de 2px. En ocasiones, y haciendo caso a las reglas de peso visual de los elementos, este espació puede reducirse a 1px o a 0px, pero solo en las ocasiones que realmente sea necesario.
 
-![Icons safety](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/icons-safety.png)
-
+![Icons safety](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/icons-safety.jpg)
+x
 ## Basic shapes
 
 Estas líneas principales brindan tamaños consistentes para formas o proporciones básicas (círculo, cuadrado y rectángulo) en todo el conjunto de iconos. Unifican los iconos de los productos y mantienen una ubicación uniforme en la cuadrícula.
 
-![Icons shapes](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/icons-shapes.png)
+![Icons shapes](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/icons-shapes.jpg)
 
 ## Strokes
 
 Existen diferentes estilos de iconos pero en Milanuncios usamos los denominados Outlined. Estos se generan a partir de reducir su forma básica en un trazo de 2px. Este trazo consistente se usa también para separar los elementos que pueden componer un icono más complejo.
 
-![Icons strokes](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/icons-strokes.png)
+![Icons strokes](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/icons-strokes.jpg)
 
 ## Corners
 
