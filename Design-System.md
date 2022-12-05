@@ -10,13 +10,13 @@ It helps you ensure that the product you build is using the most modern and cons
 
 ## Layers
 
-###  Components and Styles
+###  To code and design: Components and Styles
 
 - [Figma UI Kits](https://www.figma.com/files/project/20432260) - To design
 - [SUI Components repo](https://github.com/SUI-Components/sui-components) - To code
 - [SUI Themes](https://github.com/SUI-Components/sui/tree/master/packages/sui-theme) - To code
 
-###  Documentation
+### To read and document: Demos and Guidelines
 
 - [SUI Components Demo](https://sui-components.now.sh/)
   - [API](https://sui-components.vercel.app/workbench/atom/button/documentation/api)
