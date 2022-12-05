@@ -18,7 +18,7 @@ They all contain:
 - Platform indicator.
 - Brand background.
 
-![Figma Covers (TO BE UPDATED](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/figma-covers.png)
+![Figma Covers (TO BE UPDATED)](https://github.com/turolopezsanabria/DesignOps-Playbook/blob/master/ASSETS/figma-covers.png)
 
 ## Structure
 Files in Figma are structured in a common way, organizing the pages within the file according to the design proposal.
