@@ -12,9 +12,9 @@ It helps you ensure that the product you build is using the most modern and cons
 
 ###  Components and Styles
 
-- [Figma UI Kits](Figma-UI-Kits.md) - To design
-- [SUI Components](SUI-Components.md) - To code
-- [SUI Themes](SUI-Theme.md) - To code
+- [Figma UI Kits](https://www.figma.com/files/project/20432260) - To design
+- [SUI Components repo](https://github.com/SUI-Components/sui-components) - To code
+- [SUI Themes](https://github.com/SUI-Components/sui/tree/master/packages/sui-theme) - To code
 
 ###  Documentation
 
@@ -24,3 +24,4 @@ It helps you ensure that the product you build is using the most modern and cons
   - [Changelog](https://sui-components.vercel.app/workbench/atom/button/documentation/changelog)
 - [Frontend Agreements](https://docs.mpi-internal.com/scmspain/es-td-agreements/Frontend/)
 - [Brand guidelines](https://www.lingoapp.com/107121/) - How to design for every brand
+- [Playbook](https://design-systems.gitbook.io/design-systems-playbook/)
