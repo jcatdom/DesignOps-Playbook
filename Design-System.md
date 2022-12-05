@@ -26,3 +26,7 @@ It helps you ensure that the product you build is using the most modern and cons
 - [Brand guidelines](https://www.lingoapp.com/107121/) - How to design for every brand
 - [Frontend Agreements](https://docs.mpi-internal.com/scmspain/es-td-agreements/Frontend/)
 - [Playbook](https://design-systems.gitbook.io/design-systems-playbook/)
+
+### To track performance
+
+- [The dashboard](https://pages.github.mpi-internal.com/scmspain/design-systems/sui/index.html)
