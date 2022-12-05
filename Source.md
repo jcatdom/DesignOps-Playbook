@@ -22,7 +22,7 @@ This way Designers can work in Figma trusting that everything is correct the sam
 
 ### So, in case of difference, which one is "the right one"?
 
-The one defined and documented. If there's no documentation available, or it's deprected, you need to create it and attach it to the request.
+The documentation, the decisions defined and documented. If there's no documentation available, or it's deprected, you need to create it and attach it to the request.
 
 ## How do we ensure consistency with this fragmented no-source of truth?
 
