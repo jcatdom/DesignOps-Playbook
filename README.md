@@ -1,7 +1,3 @@
----
-description: The source of truth
----
-
 # Welcome
 
 In this playbook you will find all the information to understand everything about our Design System.

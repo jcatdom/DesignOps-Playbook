@@ -10,12 +10,14 @@ It helps you ensure that the product you build is using the most modern and cons
 
 ## Layers
 
-- Components and Styles
-  - [Figma UI Kits](Figma-UI-Kits.md) - To design
-  - [SUI Components](SUI-Components) - To code
-  - [SUI Themes](SUI-Theme) - To code
-- Documentation
-  - [SUI Components Demo](https://sui-components.now.sh/) - A studio with all the components, for designers and developers
-  - [Frontend Agreements](https://docs.mpi-internal.com/scmspain/es-td-agreements/Frontend/)
-  - [Brand guidelines](https://www.lingoapp.com/107121/) - How to design for every brand
-- [This playbook](https://design-systems.gitbook.io/design-systems-playbook/) - A wiki for everything related with Design Systems
+###  Components and Styles
+
+- [Figma UI Kits](Figma-UI-Kits.md) - To design
+- [SUI Components](SUI-Components) - To code
+- [SUI Themes](SUI-Theme) - To code
+
+###  Documentation
+
+- [SUI Components Demo](https://sui-components.now.sh/) - A studio with all the components, for designers and developers
+- [Frontend Agreements](https://docs.mpi-internal.com/scmspain/es-td-agreements/Frontend/)
+- [Brand guidelines](https://www.lingoapp.com/107121/) - How to design for every brand
