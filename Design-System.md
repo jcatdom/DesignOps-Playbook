@@ -18,6 +18,9 @@ It helps you ensure that the product you build is using the most modern and cons
 
 ###  Documentation
 
-- [SUI Components Demo](https://sui-components.now.sh/) - A studio with all the components, for designers and developers
+- [SUI Components Demo](https://sui-components.now.sh/)
+  - [API](https://sui-components.vercel.app/workbench/atom/button/documentation/api)
+  - [Readme](https://sui-components.vercel.app/workbench/atom/button/documentation/readme)
+  - [Changelog](https://sui-components.vercel.app/workbench/atom/button/documentation/changelog)
 - [Frontend Agreements](https://docs.mpi-internal.com/scmspain/es-td-agreements/Frontend/)
 - [Brand guidelines](https://www.lingoapp.com/107121/) - How to design for every brand
