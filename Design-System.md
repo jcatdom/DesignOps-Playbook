@@ -14,7 +14,7 @@ It helps you ensure that the product you build is using the most modern and cons
 
 - [Figma UI Kits](Figma-UI-Kits.md) - To design
 - [SUI Components](SUI-Components.md) - To code
-- [SUI Themes](SUI-Theme) - To code
+- [SUI Themes](SUI-Theme.md) - To code
 
 ###  Documentation
 
