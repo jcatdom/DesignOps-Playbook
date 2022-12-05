@@ -13,7 +13,7 @@ It helps you ensure that the product you build is using the most modern and cons
 ###  Components and Styles
 
 - [Figma UI Kits](Figma-UI-Kits.md) - To design
-- [SUI Components](SUI-Components) - To code
+- [SUI Components](SUI-Components.md) - To code
 - [SUI Themes](SUI-Theme) - To code
 
 ###  Documentation
