@@ -1,10 +1,10 @@
 # Source of truth
 
-You can find every style and every component in Figma and Code, and they are (or should be) perfectly aligned.
+Every style and component are present in Figma and Code, and we work hard to maintain them perfectly aligned.
 
 ## Do Figma and Code sync automatically?
 
-No, we don't have an automatic process between Figma and Code. You need to update your side proactively to the changes made on the other side.
+No, we don't have an automatic process to sync Figma and Code. You need to update your side proactively to the changes made on the other side.
 
 * If you find a defect in the code but the Figma file is OK: Adjust Code
 * If you find a defect in the Figma file but the code is OK: Adjust Figma
@@ -24,11 +24,9 @@ This way Designers can work in Figma trusting that everything is correct the sam
 
 The one defined and documented. If there's no documentation available, or it's deprected, you need to create it and attach it to the request.
 
-
 ## How do we ensure consistency with this fragmented no-source of truth?
 
 We have [tokens](Tokens.md), probably the most powerful system to get every App in sync so far.
-
 
 Learn how to update the Figma files or the code here:
 
