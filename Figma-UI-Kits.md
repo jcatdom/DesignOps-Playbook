@@ -1,6 +1,6 @@
 # Figma UI Kits 
 
-En Adevinta disponemos de UI Kits en Team Libraries de Figma para acelerar los procesos de diseño. Están estructurados con nuestro [sistema atómico](https://design-systems.gitbook.io/design-systems-playbook/design-system/atomic-design) y nos permiten tener una estructura reutilizable, escalable y que nos proporciona consistencia en nuestros productos. 
+En Adevinta disponemos de UI Kits en Team Libraries de Figma para acelerar los procesos de diseño. Están estructurados con nuestro [sistema atómico](https://design-systems.gitbook.io/design-systems-playbook/design-system/atomic-design.md) y nos permiten tener una estructura reutilizable, escalable y que nos proporciona consistencia en nuestros productos.
 
 ![UI Kits Adevinta](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-1.png)
 
@@ -59,7 +59,6 @@ Una vez comprobado, deberás iterar tu componente en el UIKit y actualizar la li
 
 ![Ejemplo de commit en librería](https://raw.githubusercontent.com/turolopezsanabria/design-systems-playbook/master/ASSETS/figma-7.png)
 
-
 ### Nuevo componente
 
 Antes de crear un nuevo componente a una librería primero debes comprobar si: 
@@ -73,9 +72,10 @@ Podría ser una variable de un componente existente.
 Una vez comprobado, deberás crear tu componente en el UIKit y actualizar la librería escribiendo un mensaje de commit (más info debajo en Control de versiones) para que otros UX puedan hacer uso. Paralelamente, deberás movilizar su creación en código dependiendo del proceso en el que estés trabajando tu proyecto (jira en tu team o issue de github). 
 
 ### Control de versiones
+
 Cuando vayas a subir una actualización de una librería, recuerda poner un mensaje de commit sobre qué estás actualizando. Es muy útil para el resto de UX que hagan uso de ella porque tendrán que aceptar estas actualizaciones en sus proyectos y deberán saber que es lo que ha cambiado. 
 Además, nos permite tener un mayor control histórico de lo que estamos diseñando y nos da la posibilidad de volver a un paso anterior si hemos cometido errores.
 
-
 ### Nueva librería
+
 Si necesitas crear una nueva librería para tu vertical, contacta con Design Ops para que la active y puedan utilizarla el resto de UX.
