@@ -72,4 +72,4 @@ The objective is both UXers and Research Ops have the space to be able to work o
 > Any files or projects that might need to be archived.
 
 ## Projects in Figma for DesignOps
-(wip)
+Currently DesignOps Team in Figma has projects structure based on current needs, there's no concrete and closed organization. Which not means in short term standarize this team as well.
