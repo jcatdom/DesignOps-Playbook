@@ -10,7 +10,7 @@ Figma's Teams to group marketplaces and projects to differentiate the user, with
 
 Permissions in Figma are set at the team level. You can be a member of multiple teams, each with their own permissions. Each team will be assigned an admin who can grant editor access to new members.
 
-## Projects in Figma
+## Projects in Figma for Marketplaces
 
 Each Team in Figma is equivalent to a marketplace (except for DesignOps and ResearchOps)
 
@@ -48,3 +48,28 @@ To encourage consistent nomenclature and improve visibility, we propose the foll
 {% hint style="info" %}
 `Sort Projects by alphabetical A-Z in order to keep and nail this order.`
 {% endhint %}
+
+## Projects in Figma for ResearchOps
+
+The objective is both UXers and Research Ops have the space to be able to work on research stages of their projects in Figma, in addition to being able to promote collaboration between portals.
+
+**01. Discovery**
+> Benchmark, improvement areas, matrix or everything related to this phase that may need to be worked on.
+> 
+**02. User Zoom**
+> All the files that are for UX Labs, usability test and moderated, etc.
+
+**03.Templates**
+> We have created some initial templates for both test and discovery as a test, your input would be great or if you know some templates that could be of recurring use.
+
+**04.Projects & Team Drafts**
+> Specific actions, projects and drafts with a specific deadline.
+
+**05.Emails & Comunications**
+> Include all the templates for emails in order to unify the experience.
+
+**06.Archived**
+> Any files or projects that might need to be archived.
+
+## Projects in Figma for DesignOps
+Currently DesignOps Team in Figma has projects structure based on current needs, there's no concrete and closed organization. Which not means in short term standarize this team as well.
