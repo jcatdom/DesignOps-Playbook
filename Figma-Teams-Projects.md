@@ -51,7 +51,7 @@ To encourage consistent nomenclature and improve visibility, we propose the foll
 
 ## Projects in Figma for ResearchOps
 
-The objective is both UXers and Research Ops have the space to be able to work on research stages of their projects in Figma, in addition to being able to promote collaboration between portals.
+The objective is both UXers and Research Ops have the space to be able to work on research stages of their projects in Figma, in addition to being able to promote collaboration between portals. 
 
 **01. Discovery**
 > Benchmark, improvement areas, matrix or everything related to this phase that may need to be worked on.
@@ -71,5 +71,9 @@ The objective is both UXers and Research Ops have the space to be able to work o
 **06.Archived**
 > Any files or projects that might need to be archived.
 
+Check out the [ResearchOps Team in Figma.](https://www.figma.com/files/team/949233860033344804)
+
 ## Projects in Figma for DesignOps
 Currently DesignOps Team in Figma has projects structure based on current needs, there's no concrete and closed organization. Which not means in short term standarize this team as well.
+
+Check out the [DesignOps Team in Figma.](https://www.figma.com/files/team/949233807293357342)
